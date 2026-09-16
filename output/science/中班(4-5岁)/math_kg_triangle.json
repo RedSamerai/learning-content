@@ -1,0 +1,46 @@
+{
+  "topic_id": "math_kg_triangle",
+  "name": "认识三角形",
+  "age_group": "中班(4-5岁)",
+  "subject": "science",
+  "content": {
+    "concept": "三角形有三条边和三个尖尖的角。",
+    "explanation": "小朋友看，三角形像一个帽子！它有三条直直的边，三个尖尖的角。生活中有很多三角形：红领巾、切开的披萨、三明治、屋顶都是三角形的样子哦！",
+    "practice_questions": [
+      {
+        "question": "下面哪个物品是三角形的？",
+        "options": [
+          "A. 皮球",
+          "B. 红领巾",
+          "C. 积木",
+          "D. 镜子"
+        ],
+        "answer": "B",
+        "explanation": "红领巾是三角形的。"
+      },
+      {
+        "question": "三角形有几条边？",
+        "options": [
+          "A. 两条",
+          "B. 三条",
+          "C. 四条",
+          "D. 五条"
+        ],
+        "answer": "B",
+        "explanation": "三角形有三条边。"
+      },
+      {
+        "question": "三角形有几个角？",
+        "options": [
+          "A. 两个",
+          "B. 三个",
+          "C. 四个",
+          "D. 五个"
+        ],
+        "answer": "B",
+        "explanation": "三角形有三个角。"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T00:34:58.954051"
+}

@@ -163,14 +163,115 @@
     "social_kg_follow": {
       "status": "completed",
       "completed_at": "2026-09-17T00:18:27.705472"
+    },
+    "social_kg_chinese": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:25:28.094496"
+    },
+    "social_kg_hometown": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:26:30.901687"
+    },
+    "sci_kg_nature": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:27:05.416860"
+    },
+    "sci_kg_observation": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:27:33.569349"
+    },
+    "sci_kg_compare": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:28:16.250840"
+    },
+    "sci_kg_experiment": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:28:43.025031"
+    },
+    "sci_kg_seasons": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:29:36.187569"
+    },
+    "sci_kg_animal": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:30:07.981071"
+    },
+    "math_kg_shape_find": {
+      "status": "failed",
+      "error": "文本生成失败",
+      "failed_at": "2026-09-17T00:30:09.800523"
+    },
+    "math_kg_pattern": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:30:43.054997"
+    },
+    "math_kg_count_10": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:31:40.141124"
+    },
+    "math_kg_count_20": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:32:12.655067"
+    },
+    "math_kg_compare_qty": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:33:34.267226"
+    },
+    "math_kg_add_5": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:34:01.581070"
+    },
+    "math_kg_circle_square": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:34:27.772710"
+    },
+    "math_kg_triangle": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:34:49.490469"
+    },
+    "math_kg_position": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:35:18.202013"
+    },
+    "art_kg_beauty": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:35:47.037581"
+    },
+    "art_kg_music": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:36:53.600697"
+    },
+    "art_kg_color": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:37:27.570844"
+    },
+    "art_kg_painting": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:37:56.273725"
+    },
+    "art_kg_sing": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:38:17.054746"
+    },
+    "art_kg_dance": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:38:46.909593"
+    },
+    "art_kg_draw": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:39:33.149783"
+    },
+    "art_kg_craft": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:40:05.649963"
     }
   },
   "created_at": "2026-09-16T23:22:02.688005",
-  "updated_at": "2026-09-17T00:18:27.705472",
+  "updated_at": "2026-09-17T00:40:05.649963",
   "stats": {
     "total": 67,
-    "completed": 6,
-    "failed": 0,
-    "skipped": 35
+    "completed": 24,
+    "failed": 1,
+    "skipped": 41
   }
 }

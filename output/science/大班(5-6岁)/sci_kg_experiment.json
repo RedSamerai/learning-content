@@ -1,0 +1,46 @@
+{
+  "topic_id": "sci_kg_experiment",
+  "name": "简单小实验：沉浮",
+  "age_group": "大班(5-6岁)",
+  "subject": "science",
+  "content": {
+    "concept": "物体在水中有沉有浮",
+    "explanation": "把东西放进水里，轻飘飘的会浮在水面，重重的会沉到水底。苹果像小船一样浮着，石子像小石头一样沉下去。木头玩具能浮起来，铁钥匙却会沉下去哦！",
+    "practice_questions": [
+      {
+        "question": "苹果放进水里会怎样？",
+        "options": [
+          "A. 沉下去",
+          "B. 浮起来",
+          "C. 变成水",
+          "D. 消失不见"
+        ],
+        "answer": "B",
+        "explanation": "苹果比较轻，会浮在水面上。"
+      },
+      {
+        "question": "下面哪个物体会沉下去？",
+        "options": [
+          "A. 木块",
+          "B. 泡沫球",
+          "C. 石子",
+          "D. 塑料玩具"
+        ],
+        "answer": "C",
+        "explanation": "石子比较重，会沉到水底。"
+      },
+      {
+        "question": "铁钥匙放进水里会怎样？",
+        "options": [
+          "A. 浮起来",
+          "B. 变成金色",
+          "C. 沉下去",
+          "D. 融化了"
+        ],
+        "answer": "C",
+        "explanation": "铁钥匙比较重，会沉到水底。"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T00:28:43.025031"
+}
