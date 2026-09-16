@@ -264,13 +264,17 @@
     "art_kg_craft": {
       "status": "completed",
       "completed_at": "2026-09-17T00:40:05.649963"
+    },
+    "art_kg_clay": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:40:58.953119"
     }
   },
   "created_at": "2026-09-16T23:22:02.688005",
-  "updated_at": "2026-09-17T00:40:05.649963",
+  "updated_at": "2026-09-17T00:40:58.953119",
   "stats": {
     "total": 67,
-    "completed": 24,
+    "completed": 25,
     "failed": 1,
     "skipped": 41
   }
