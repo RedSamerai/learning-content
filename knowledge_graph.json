@@ -1,186 +1,419 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "created_at": "2026-09-16",
-  "description": "K12知识点图谱 - 按年龄段组织",
+  "source": "教育部《3-6岁儿童学习与发展指南》",
+  "description": "K12知识点图谱 - 基于官方教育指南",
   
   "subjects": [
     {
-      "subject_id": "math",
-      "name": "数学",
-      "grades": [
+      "subject_id": "health",
+      "name": "健康",
+      "domain": "健康领域",
+      "age_range": "3-6岁",
+      "description": "身体健康、情绪安定、动作协调、生活习惯良好",
+      "areas": [
         {
-          "grade_id": "kindergarten",
-          "name": "幼儿园",
-          "age_range": "3-6岁",
-          "description": "具象认知阶段，以图形化、游戏化学习为主",
-          "topics": [
+          "area_id": "physical_status",
+          "name": "身心状况",
+          "objectives": [
             {
-              "topic_id": "math_kg_number_recognition",
-              "name": "认识数字1-10",
-              "description": "能识别数字1-10的形状和意义",
-              "objectives": [
-                "能识别数字1-10",
-                "能将数字与数量对应",
-                "能按顺序读出数字"
-              ],
-              "prerequisites": [],
-              "estimated_time_minutes": 10
+              "obj_id": "health_1_stature",
+              "name": "具有健康的体态",
+              "description": "身高体重适宜，在正常范围内",
+              "topics": [
+                {"topic_id": "health_kg_stature_height", "name": "认识高矮", "age_group": "小班(3-4岁)", "estimated_time_minutes": 5},
+                {"topic_id": "health_kg_body_parts", "name": "认识身体部位", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10}
+              ]
             },
             {
-              "topic_id": "math_kg_counting",
-              "name": "数数（1-20）",
-              "description": "能按顺序数出1-20个物体",
-              "objectives": [
-                "能手口一致点数",
-                "能说出总数",
-                "能按数量取物"
-              ],
-              "prerequisites": ["math_kg_number_recognition"],
-              "estimated_time_minutes": 15
+              "obj_id": "health_2_emotion",
+              "name": "情绪安定愉快",
+              "description": "经常保持愉快的情绪，知道引起自己某种情绪的原因",
+              "topics": [
+                {"topic_id": "health_kg_happy_sad", "name": "认识开心和难过", "age_group": "小班(3-4岁)", "estimated_time_minutes": 5},
+                {"topic_id": "health_kg_express_emotion", "name": "表达自己情绪", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
             },
             {
-              "topic_id": "math_kg_shapes",
-              "name": "认识基本图形",
-              "description": "认识圆形、正方形、三角形",
-              "objectives": [
-                "能识别圆形、正方形、三角形",
-                "能从周围环境中找到这些图形"
-              ],
-              "prerequisites": [],
-              "estimated_time_minutes": 10
+              "obj_id": "health_3_adapt",
+              "name": "具有一定适应能力",
+              "description": "能在较热或较冷的户外环境中活动",
+              "topics": [
+                {"topic_id": "health_kg_weather", "name": "认识冷热天气", "age_group": "中班(4-5岁)", "estimated_time_minutes": 5}
+              ]
             }
           ]
         },
         {
-          "grade_id": "grade1",
-          "name": "一年级",
-          "age_range": "6-7岁",
-          "description": "从具象向抽象过渡，需要图像辅助理解",
-          "topics": [
+          "area_id": "motor_development",
+          "name": "动作发展",
+          "objectives": [
             {
-              "topic_id": "math_g1_addition_10",
-              "name": "10以内加法",
-              "description": "掌握10以内加法计算方法",
-              "objectives": [
-                "理解加法意义",
-                "掌握凑十法",
-                "能正确计算10以内加法"
-              ],
-              "prerequisites": ["math_kg_counting"],
-              "estimated_time_minutes": 20
+              "obj_id": "health_4_balance",
+              "name": "具有一定的平衡能力",
+              "description": "动作协调、灵敏",
+              "topics": [
+                {"topic_id": "health_kg_balance", "name": "走平衡木游戏", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "health_kg_jump", "name": "双脚连续跳", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
             },
             {
-              "topic_id": "math_g1_subtraction_10",
-              "name": "10以内减法",
-              "description": "掌握10以内减法计算方法",
-              "objectives": [
-                "理解减法意义",
-                "掌握破十法",
-                "能正确计算10以内减法"
-              ],
-              "prerequisites": ["math_g1_addition_10"],
-              "estimated_time_minutes": 20
-            }
-          ]
-        },
-        {
-          "grade_id": "grade2",
-          "name": "二年级",
-          "age_range": "7-8岁",
-          "topics": [
+              "obj_id": "health_5_strength",
+              "name": "具有一定的力量和耐力",
+              "description": "能双手抓杠悬空吊起20秒左右",
+              "topics": [
+                {"topic_id": "health_kg_heavy_light", "name": "认识轻重", "age_group": "中班(4-5岁)", "estimated_time_minutes": 5},
+                {"topic_id": "health_kg_run", "name": "能快跑15米左右", "age_group": "大班(5-6岁)", "estimated_time_minutes": 10}
+              ]
+            },
             {
-              "topic_id": "math_g2_multiplication",
-              "name": "乘法口诀",
-              "description": "掌握1-9的乘法口诀",
-              "objectives": [
-                "理解乘法意义",
-                "熟记乘法口诀",
-                "能灵活运用"
-              ],
-              "prerequisites": ["math_g1_addition_10"],
-              "estimated_time_minutes": 30
+              "obj_id": "health_6_fine_motor",
+              "name": "手的动作灵活协调",
+              "description": "能沿轮廓线剪出简单图形",
+              "topics": [
+                {"topic_id": "health_kg_cutting", "name": "使用剪刀剪纸", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15},
+                {"topic_id": "health_kg_lacing", "name": "穿珠子游戏", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10}
+              ]
             }
           ]
         },
         {
-          "grade_id": "grade3",
-          "name": "三年级",
-          "age_range": "8-9岁",
-          "topics": [
+          "area_id": "life_habits",
+          "name": "生活习惯与生活能力",
+          "objectives": [
             {
-              "topic_id": "math_g3_fraction",
-              "name": "分数的初步认识",
-              "description": "认识分数，理解几分之几",
-              "objectives": [
-                "理解分数意义",
-                "能读写简单分数",
-                "能比较简单分数大小"
-              ],
-              "prerequisites": ["math_g2_multiplication"],
-              "estimated_time_minutes": 25
+              "obj_id": "health_7_hygiene",
+              "name": "具有良好的生活与卫生习惯",
+              "description": "饭前便后能主动洗手",
+              "topics": [
+                {"topic_id": "health_kg_hand_wash", "name": "正确洗手方法", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "health_kg_schedule", "name": "认识作息时间", "age_group": "小班(3-4岁)", "estimated_time_minutes": 5}
+              ]
+            },
+            {
+              "obj_id": "health_8_selfcare",
+              "name": "具有基本的生活自理能力",
+              "description": "能自己穿脱衣服、鞋袜",
+              "topics": [
+                {"topic_id": "health_kg_dress", "name": "自己穿脱衣服", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "health_kg_shoelace", "name": "系鞋带技巧", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "health_9_safety",
+              "name": "具备基本的安全知识和自我保护能力",
+              "description": "知道基本的求助方式，不跟陌生人走",
+              "topics": [
+                {"topic_id": "health_kg_stranger", "name": "安全：不跟陌生人走", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "health_kg_emergency", "name": "认识紧急电话110/120", "age_group": "大班(5-6岁)", "estimated_time_minutes": 5}
+              ]
             }
           ]
-        },
-        {
-          "grade_id": "grade4",
-          "name": "四年级",
-          "age_range": "9-10岁",
-          "topics": []
-        },
-        {
-          "grade_id": "grade5",
-          "name": "五年级",
-          "age_range": "10-11岁",
-          "topics": []
-        },
-        {
-          "grade_id": "grade6",
-          "name": "六年级",
-          "age_range": "11-12岁",
-          "topics": []
-        },
-        {
-          "grade_id": "grade7",
-          "name": "七年级",
-          "age_range": "12-13岁",
-          "description": "初中阶段，系统化知识学习",
-          "topics": []
-        },
-        {
-          "grade_id": "grade8",
-          "name": "八年级",
-          "age_range": "13-14岁",
-          "topics": []
-        },
-        {
-          "grade_id": "grade9",
-          "name": "九年级",
-          "age_range": "14-15岁",
-          "topics": []
         }
       ]
     },
     {
-      "subject_id": "chinese",
-      "name": "语文",
-      "grades": []
+      "subject_id": "language",
+      "name": "语言",
+      "domain": "语言领域",
+      "age_range": "3-6岁",
+      "description": "倾听表达、阅读理解、书面表达准备",
+      "areas": [
+        {
+          "area_id": "listening_speaking",
+          "name": "倾听与表达",
+          "objectives": [
+            {
+              "obj_id": "lang_1_listen",
+              "name": "认真听并能听懂常用语言",
+              "description": "别人对自己说话时能目光注视",
+              "topics": [
+                {"topic_id": "lang_kg_listen", "name": "学会倾听", "age_group": "小班(3-4岁)", "estimated_time_minutes": 5},
+                {"topic_id": "lang_kg_follow", "name": "听懂简单指令", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10}
+              ]
+            },
+            {
+              "obj_id": "lang_2_speak",
+              "name": "愿意讲话并能清楚地表达",
+              "description": "愿意表达自己的需要和想法，说话清晰",
+              "topics": [
+                {"topic_id": "lang_kg_intro", "name": "自我介绍", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "lang_kg_describe", "name": "看图说话", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "lang_3_polite",
+              "name": "具有文明的语言习惯",
+              "description": "会使用礼貌用语",
+              "topics": [
+                {"topic_id": "lang_kg_polite", "name": "礼貌用语：谢谢、对不起", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "lang_kg_turn", "name": "学会轮流说话", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "reading_writing",
+          "name": "阅读与书写准备",
+          "objectives": [
+            {
+              "obj_id": "lang_4_read_interest",
+              "name": "喜欢听故事，看图书",
+              "description": "反复翻看自己喜欢的图书",
+              "topics": [
+                {"topic_id": "lang_kg_story", "name": "爱上绘本阅读", "age_group": "小班(3-4岁)", "estimated_time_minutes": 15},
+                {"topic_id": "lang_kg_care_book", "name": "爱护图书的方法", "age_group": "中班(4-5岁)", "estimated_time_minutes": 5}
+              ]
+            },
+            {
+              "obj_id": "lang_5_read_comprehend",
+              "name": "具有初步的阅读理解能力",
+              "description": "能根据连续画面提供的信息做出简单的推断",
+              "topics": [
+                {"topic_id": "lang_kg_sequence", "name": "理解故事顺序", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "lang_kg_predict", "name": "猜猜故事结尾", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "lang_6_write_pre",
+              "name": "具有书面表达的愿望和初步技能",
+              "description": "愿意用图画和符号表达自己的愿望和想法",
+              "topics": [
+                {"topic_id": "lang_kg_draw", "name": "涂鸦写字准备", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "lang_kg_name", "name": "认识并写自己的名字", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "subject_id": "english",
-      "name": "英语",
-      "grades": []
+      "subject_id": "social",
+      "name": "社会",
+      "domain": "社会领域",
+      "age_range": "3-6岁",
+      "description": "人际交往、社会适应",
+      "areas": [
+        {
+          "area_id": "interpersonal",
+          "name": "人际交往",
+          "objectives": [
+            {
+              "obj_id": "social_1_willing",
+              "name": "愿意与人交往",
+              "description": "愿意和小朋友一起游戏",
+              "topics": [
+                {"topic_id": "social_kg_greet", "name": "礼貌问候", "age_group": "小班(3-4岁)", "estimated_time_minutes": 5},
+                {"topic_id": "social_kg_friend", "name": "如何交朋友", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
+            },
+            {
+              "obj_id": "social_2_peers",
+              "name": "能与同伴友好相处",
+              "description": "会主动加入同伴的游戏",
+              "topics": [
+                {"topic_id": "social_kg_share", "name": "学会分享玩具", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "social_kg_conflict", "name": "解决小冲突", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "social_3_confident",
+              "name": "具有自尊自信自主的表现",
+              "description": "能根据自己的兴趣选择活动",
+              "topics": [
+                {"topic_id": "social_kg_choice", "name": "自主选择活动", "age_group": "中班(4-5岁)", "estimated_time_minutes": 5},
+                {"topic_id": "social_kg_praise", "name": "学会自我鼓励", "age_group": "大班(5-6岁)", "estimated_time_minutes": 10}
+              ]
+            },
+            {
+              "obj_id": "social_4_care",
+              "name": "关心尊重他人",
+              "description": "知道家人的生日",
+              "topics": [
+                {"topic_id": "social_kg_family", "name": "我爱我的家", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "social_kg_help", "name": "帮助他人的快乐", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "social_adaptation",
+          "name": "社会适应",
+          "objectives": [
+            {
+              "obj_id": "social_5_group",
+              "name": "喜欢并适应群体生活",
+              "description": "对幼儿园的生活好奇，喜欢上幼儿园",
+              "topics": [
+                {"topic_id": "social_kg_kindergarten", "name": "我爱上幼儿园", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "social_kg_rules", "name": "集体活动的规则", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
+            },
+            {
+              "obj_id": "social_6_rules",
+              "name": "遵守基本的行为规范",
+              "description": "知道说谎是不对的",
+              "topics": [
+                {"topic_id": "social_kg_honest", "name": "诚实不撒谎", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "social_kg_follow", "name": "遵守游戏规则", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "social_7_belong",
+              "name": "具有初步的归属感",
+              "description": "知道自己是中国人",
+              "topics": [
+                {"topic_id": "social_kg_chinese", "name": "我是中国人", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15},
+                {"topic_id": "social_kg_hometown", "name": "我爱我的家乡", "age_group": "大班(5-6岁)", "estimated_time_minutes": 10}
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "subject_id": "science",
       "name": "科学",
-      "grades": []
+      "domain": "科学领域",
+      "age_range": "3-6岁",
+      "description": "科学探究、数学认知",
+      "areas": [
+        {
+          "area_id": "science_inquiry",
+          "name": "科学探究",
+          "objectives": [
+            {
+              "obj_id": "sci_1_nature",
+              "name": "亲近自然，喜欢探究",
+              "description": "喜欢接触大自然，对周围的事物和现象感兴趣",
+              "topics": [
+                {"topic_id": "sci_kg_nature", "name": "我爱大自然", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "sci_kg_observation", "name": "学会观察植物", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "sci_2_ability",
+              "name": "具有初步的探究能力",
+              "description": "能通过观察比较发现物体的特征",
+              "topics": [
+                {"topic_id": "sci_kg_compare", "name": "比较大小长短", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "sci_kg_experiment", "name": "简单小实验：沉浮", "age_group": "大班(5-6岁)", "estimated_time_minutes": 20}
+              ]
+            },
+            {
+              "obj_id": "sci_3_knowledge",
+              "name": "在探究中认识周围事物和现象",
+              "description": "感知四季明显特征",
+              "topics": [
+                {"topic_id": "sci_kg_seasons", "name": "四季的变化", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15},
+                {"topic_id": "sci_kg_animal", "name": "动物的家", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "math_cognition",
+          "name": "数学认知",
+          "objectives": [
+            {
+              "obj_id": "math_1_fun",
+              "name": "初步感知生活中数学的有用和有趣",
+              "description": "感知和发现周围物体的形状是多种多样的",
+              "topics": [
+                {"topic_id": "math_kg_shape_find", "name": "找找生活中的图形", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_pattern", "name": "找规律排列", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "math_2_number",
+              "name": "感知和理解数、量及数量关系",
+              "description": "能感知和区分物体的粗细、厚薄、轻重",
+              "topics": [
+                {"topic_id": "math_kg_count_10", "name": "数数1-10", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_count_20", "name": "数数1-20", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_compare_qty", "name": "比较多少", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_add_5", "name": "5以内加法", "age_group": "大班(5-6岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "math_3_space",
+              "name": "感知形状与空间关系",
+              "description": "能注意物体较明显的形状特征",
+              "topics": [
+                {"topic_id": "math_kg_circle_square", "name": "认识圆形和正方形", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_triangle", "name": "认识三角形", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10},
+                {"topic_id": "math_kg_position", "name": "认识上下里外", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": "art",
+      "name": "艺术",
+      "domain": "艺术领域",
+      "age_range": "3-6岁",
+      "description": "感受欣赏、表现创造",
+      "areas": [
+        {
+          "area_id": "art_appreciate",
+          "name": "感受与欣赏",
+          "objectives": [
+            {
+              "obj_id": "art_1_nature",
+              "name": "喜欢自然界与生活中美的事物",
+              "description": "经常看图书、听音乐",
+              "topics": [
+                {"topic_id": "art_kg_beauty", "name": "发现自然的美", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "art_kg_music", "name": "倾听不同的音乐", "age_group": "中班(4-5岁)", "estimated_time_minutes": 10}
+              ]
+            },
+            {
+              "obj_id": "art_2_art",
+              "name": "喜欢欣赏多种多样的艺术形式和作品",
+              "description": "自然界和社会环境中的花草树木等具有美感的事物",
+              "topics": [
+                {"topic_id": "art_kg_color", "name": "认识颜色搭配", "age_group": "小班(3-4岁)", "estimated_time_minutes": 10},
+                {"topic_id": "art_kg_painting", "name": "欣赏儿童画作", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "art_create",
+          "name": "表现与创造",
+          "objectives": [
+            {
+              "obj_id": "art_3_love",
+              "name": "喜欢进行艺术活动并大胆表现",
+              "description": "经常唱歌、跳舞、模仿感兴趣的动作",
+              "topics": [
+                {"topic_id": "art_kg_sing", "name": "学唱儿歌", "age_group": "小班(3-4岁)", "estimated_time_minutes": 15},
+                {"topic_id": "art_kg_dance", "name": "跟着音乐跳舞", "age_group": "中班(4-5岁)", "estimated_time_minutes": 15}
+              ]
+            },
+            {
+              "obj_id": "art_4_ability",
+              "name": "具有初步的艺术表现与创造能力",
+              "description": "能用基本的动作、声音等模仿事物或表达情感",
+              "topics": [
+                {"topic_id": "art_kg_draw", "name": "涂鸦画画", "age_group": "小班(3-4岁)", "estimated_time_minutes": 15},
+                {"topic_id": "art_kg_craft", "name": "手工：粘贴画", "age_group": "中班(4-5岁)", "estimated_time_minutes": 20},
+                {"topic_id": "art_kg_clay", "name": "捏泥工作品", "age_group": "大班(5-6岁)", "estimated_time_minutes": 20}
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   
   "statistics": {
-    "total_subjects": 4,
-    "total_grades": 10,
-    "total_topics": 7,
+    "total_subjects": 5,
+    "total_areas": 10,
+    "total_objectives": 15,
+    "total_topics": 45,
     "last_updated": "2026-09-16"
   }
 }
