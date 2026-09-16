@@ -1,0 +1,46 @@
+{
+  "topic_id": "health_kg_heavy_light",
+  "name": "认识轻重",
+  "age_group": "中班(4-5岁)",
+  "subject": "health",
+  "content": {
+    "concept": "轻重是物体的重量特征，重的手感沉，轻的手感飘。",
+    "explanation": "小朋友，轻轻拿起一片羽毛，哇，好轻呀！重重抱起一个大皮球，嗯，好重呢！轻重就是用手掂一掂、用秤称一称就能发现的秘密哦！",
+    "practice_questions": [
+      {
+        "question": "下面哪个最重？",
+        "options": [
+          "A. 小石头",
+          "B. 羽毛",
+          "C. 皮球",
+          "D. 纸片"
+        ],
+        "answer": "A",
+        "explanation": "小石头最重，用手掂一掂就知道啦。"
+      },
+      {
+        "question": "下面哪个最轻？",
+        "options": [
+          "A. 书包",
+          "B. 苹果",
+          "C. 羽毛",
+          "D. 书本"
+        ],
+        "answer": "C",
+        "explanation": "羽毛最轻，拿在手上几乎感觉不到重量。"
+      },
+      {
+        "question": "两个苹果大小一样，说明它们什么相同？",
+        "options": [
+          "A. 颜色",
+          "B. 轻重",
+          "C. 形状",
+          "D. 味道"
+        ],
+        "answer": "B",
+        "explanation": "同样大小的苹果，轻重也差不多哦！"
+      }
+    ]
+  },
+  "created_at": "2026-09-16T23:57:52.894797"
+}

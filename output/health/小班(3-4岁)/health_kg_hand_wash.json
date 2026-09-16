@@ -1,0 +1,46 @@
+{
+  "topic_id": "health_kg_hand_wash",
+  "name": "正确洗手方法",
+  "age_group": "小班(3-4岁)",
+  "subject": "health",
+  "content": {
+    "concept": "正确洗手方法",
+    "explanation": "先开水龙头，把手打湿；挤点肥皂，搓出泡泡；手心搓搓、手背搓搓、手指缝也搓搓；冲掉泡泡，用毛巾擦干；细菌全跑掉，小手香香哒！",
+    "practice_questions": [
+      {
+        "question": "吃饭前要做什么？",
+        "options": [
+          "洗手",
+          "睡觉",
+          "吃糖果",
+          "看电视"
+        ],
+        "answer": "A",
+        "explanation": "吃饭前洗手，把细菌赶走，吃东西更安全。"
+      },
+      {
+        "question": "洗手要用什么？",
+        "options": [
+          "肥皂",
+          "饼干",
+          "玩具",
+          "书本"
+        ],
+        "answer": "A",
+        "explanation": "肥皂能搓出泡泡，帮助洗掉手上的脏东西和细菌。"
+      },
+      {
+        "question": "洗完手用什么擦干？",
+        "options": [
+          "毛巾",
+          "墙壁",
+          "地板",
+          "衣服"
+        ],
+        "answer": "A",
+        "explanation": "用干净的毛巾擦干小手，保持手部清洁干燥。"
+      }
+    ]
+  },
+  "created_at": "2026-09-16T23:59:35.156554"
+}
