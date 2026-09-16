@@ -1,0 +1,33 @@
+# 忽略文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 音频文件（大文件，Git LFS管理）
+*.mp3
+*.wav
+*.ogg
+
+# 图片文件（Git LFS管理）
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器配置
+.idea/
+.vscode/
+*.swp
+*.swo

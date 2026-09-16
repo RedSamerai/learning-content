@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-09-16",
+  "description": "K12知识点图谱 - 按年龄段组织",
+  
+  "subjects": [
+    {
+      "subject_id": "math",
+      "name": "数学",
+      "grades": [
+        {
+          "grade_id": "kindergarten",
+          "name": "幼儿园",
+          "age_range": "3-6岁",
+          "description": "具象认知阶段，以图形化、游戏化学习为主",
+          "topics": [
+            {
+              "topic_id": "math_kg_number_recognition",
+              "name": "认识数字1-10",
+              "description": "能识别数字1-10的形状和意义",
+              "objectives": [
+                "能识别数字1-10",
+                "能将数字与数量对应",
+                "能按顺序读出数字"
+              ],
+              "prerequisites": [],
+              "estimated_time_minutes": 10
+            },
+            {
+              "topic_id": "math_kg_counting",
+              "name": "数数（1-20）",
+              "description": "能按顺序数出1-20个物体",
+              "objectives": [
+                "能手口一致点数",
+                "能说出总数",
+                "能按数量取物"
+              ],
+              "prerequisites": ["math_kg_number_recognition"],
+              "estimated_time_minutes": 15
+            },
+            {
+              "topic_id": "math_kg_shapes",
+              "name": "认识基本图形",
+              "description": "认识圆形、正方形、三角形",
+              "objectives": [
+                "能识别圆形、正方形、三角形",
+                "能从周围环境中找到这些图形"
+              ],
+              "prerequisites": [],
+              "estimated_time_minutes": 10
+            }
+          ]
+        },
+        {
+          "grade_id": "grade1",
+          "name": "一年级",
+          "age_range": "6-7岁",
+          "description": "从具象向抽象过渡，需要图像辅助理解",
+          "topics": [
+            {
+              "topic_id": "math_g1_addition_10",
+              "name": "10以内加法",
+              "description": "掌握10以内加法计算方法",
+              "objectives": [
+                "理解加法意义",
+                "掌握凑十法",
+                "能正确计算10以内加法"
+              ],
+              "prerequisites": ["math_kg_counting"],
+              "estimated_time_minutes": 20
+            },
+            {
+              "topic_id": "math_g1_subtraction_10",
+              "name": "10以内减法",
+              "description": "掌握10以内减法计算方法",
+              "objectives": [
+                "理解减法意义",
+                "掌握破十法",
+                "能正确计算10以内减法"
+              ],
+              "prerequisites": ["math_g1_addition_10"],
+              "estimated_time_minutes": 20
+            }
+          ]
+        },
+        {
+          "grade_id": "grade2",
+          "name": "二年级",
+          "age_range": "7-8岁",
+          "topics": [
+            {
+              "topic_id": "math_g2_multiplication",
+              "name": "乘法口诀",
+              "description": "掌握1-9的乘法口诀",
+              "objectives": [
+                "理解乘法意义",
+                "熟记乘法口诀",
+                "能灵活运用"
+              ],
+              "prerequisites": ["math_g1_addition_10"],
+              "estimated_time_minutes": 30
+            }
+          ]
+        },
+        {
+          "grade_id": "grade3",
+          "name": "三年级",
+          "age_range": "8-9岁",
+          "topics": [
+            {
+              "topic_id": "math_g3_fraction",
+              "name": "分数的初步认识",
+              "description": "认识分数，理解几分之几",
+              "objectives": [
+                "理解分数意义",
+                "能读写简单分数",
+                "能比较简单分数大小"
+              ],
+              "prerequisites": ["math_g2_multiplication"],
+              "estimated_time_minutes": 25
+            }
+          ]
+        },
+        {
+          "grade_id": "grade4",
+          "name": "四年级",
+          "age_range": "9-10岁",
+          "topics": []
+        },
+        {
+          "grade_id": "grade5",
+          "name": "五年级",
+          "age_range": "10-11岁",
+          "topics": []
+        },
+        {
+          "grade_id": "grade6",
+          "name": "六年级",
+          "age_range": "11-12岁",
+          "topics": []
+        },
+        {
+          "grade_id": "grade7",
+          "name": "七年级",
+          "age_range": "12-13岁",
+          "description": "初中阶段，系统化知识学习",
+          "topics": []
+        },
+        {
+          "grade_id": "grade8",
+          "name": "八年级",
+          "age_range": "13-14岁",
+          "topics": []
+        },
+        {
+          "grade_id": "grade9",
+          "name": "九年级",
+          "age_range": "14-15岁",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "subject_id": "chinese",
+      "name": "语文",
+      "grades": []
+    },
+    {
+      "subject_id": "english",
+      "name": "英语",
+      "grades": []
+    },
+    {
+      "subject_id": "science",
+      "name": "科学",
+      "grades": []
+    }
+  ],
+  
+  "statistics": {
+    "total_subjects": 4,
+    "total_grades": 10,
+    "total_topics": 7,
+    "last_updated": "2026-09-16"
+  }
+}
