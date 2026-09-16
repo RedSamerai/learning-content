@@ -180,6 +180,7 @@ class ContentGenerator:
             "大班": "zh-CN-XiaoyiNeural",
             "一年级": "zh-CN-XiaoxiaoNeural",
             "二年级": "zh-CN-XiaoxiaoNeural",
+            "初中": "zh-CN-XiaoxiaoNeural",
         }
         
         # 根据年龄段选择音色
