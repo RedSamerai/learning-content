@@ -21,19 +21,23 @@
       {
         "number": 1,
         "text": "1个苹果",
+        "image": "examples/1-apple.png",
         "description": "一个红红的苹果，只有1个哦"
       },
       {
         "number": 2,
         "text": "2只小鸟",
+        "image": "examples/2-birds.png",
         "description": "两只小鸟站在树枝上唱歌"
       },
       {
         "number": 3,
         "text": "3朵花",
+        "image": "examples/3-flowers.png",
         "description": "三朵花花在阳光下跳舞"
       }
     ],
+    "illustration": "examples/numbers-123.png",
     "common_mistakes": [
       "把2和3写反了",
       "数东西时漏掉或者多算"
