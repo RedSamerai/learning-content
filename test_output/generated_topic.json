@@ -1,0 +1,88 @@
+{
+  "id": "math_kg_number_123",
+  "version": "1.0.0",
+  "created_at": "2026-09-16",
+  "metadata": {
+    "subject": "math",
+    "grade_level": "kindergarten",
+    "chapter": "数字认知",
+    "topic": "认识数字1-3"
+  },
+  "age_appropriate": {
+    "min_age": 3,
+    "max_age": 6,
+    "cognitive_level": "concrete",
+    "learning_style": "visual_auditory"
+  },
+  "content": {
+    "concept": "数字1、2、3是三个好朋友。数字像小人一样住在纸上，1最瘦，2像鸭子，3像耳朵。它们会数数哦！",
+    "explanation": "看！数字1站得直直的，像根小棍子。它代表只有一个的东西。数字2弯弯腰，像只小鸭子在水上游。它代表两个东西。数字3张开嘴，像只小耳朵在听声音。它代表三个东西。我们一起来数：1、2、3！",
+    "examples": [
+      {
+        "number": 1,
+        "text": "1个苹果",
+        "description": "一个红红的苹果，只有1个哦"
+      },
+      {
+        "number": 2,
+        "text": "2只小鸟",
+        "description": "两只小鸟站在树枝上唱歌"
+      },
+      {
+        "number": 3,
+        "text": "3朵花",
+        "description": "三朵花花在阳光下跳舞"
+      }
+    ],
+    "common_mistakes": [
+      "把2和3写反了",
+      "数东西时漏掉或者多算"
+    ],
+    "tips": [
+      "用手指点数，一个一个数才准确"
+    ]
+  },
+  "practice": [
+    {
+      "type": "multiple_choice",
+      "question": "下面有3个苹果，几个苹果呀？🍎🍎🍎",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "3个",
+      "explanation": "太棒了！你数得真准确，一共有3个苹果哦！🌟"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "哪个数字是'2'呢？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "你真聪明！数字'2'就像一只可爱的小鸭子游在水面上～🦆"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下面有几只小猫？🐱🐱",
+      "options": [
+        "1只",
+        "2只",
+        "3只",
+        "4只"
+      ],
+      "answer": "2只",
+      "explanation": "答对啦！你有一双亮亮的眼睛，数得又快又准！👏"
+    }
+  ],
+  "accessibility": {
+    "audio_required": true,
+    "voice": "zh-CN-XiaoxiaoNeural"
+  },
+  "estimated_time_minutes": 10
+}
