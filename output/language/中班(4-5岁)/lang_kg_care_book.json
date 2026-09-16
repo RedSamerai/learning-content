@@ -1,0 +1,46 @@
+{
+  "topic_id": "lang_kg_care_book",
+  "name": "爱护图书的方法",
+  "age_group": "中班(4-5岁)",
+  "subject": "language",
+  "content": {
+    "concept": "爱护图书要轻拿轻放，保持整洁。",
+    "explanation": "看书时要用干净的小手轻轻翻页，不能在书上乱画，也不能把书折角或撕坏。看完书要放回书架，像送小书回家一样温柔哦！",
+    "practice_questions": [
+      {
+        "question": "看书的时候应该怎么做？",
+        "options": [
+          "A. 用脏脏的手翻书",
+          "B. 轻轻翻页",
+          "C. 把书撕破",
+          "D. 在书上画画"
+        ],
+        "answer": "B",
+        "explanation": "要用干净的小手轻轻翻书哦！"
+      },
+      {
+        "question": "看完书后应该怎么办？",
+        "options": [
+          "A. 扔在地上",
+          "B. 塞在角落里",
+          "C. 放回书架",
+          "D. 随便放着"
+        ],
+        "answer": "C",
+        "explanation": "要把书送回家，放回书架上！"
+      },
+      {
+        "question": "下面哪种行为是爱护图书的？",
+        "options": [
+          "A. 把书折角",
+          "B. 用剪刀剪书",
+          "C. 轻轻合上书",
+          "D. 边吃边看书"
+        ],
+        "answer": "C",
+        "explanation": "轻轻合上书，图书宝宝会开心！"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T00:06:51.262690"
+}

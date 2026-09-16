@@ -1,0 +1,46 @@
+{
+  "topic_id": "social_kg_kindergarten",
+  "name": "我爱上幼儿园",
+  "age_group": "小班(3-4岁)",
+  "subject": "social",
+  "content": {
+    "concept": "幼儿园是小朋友的第二個家",
+    "explanation": "上幼儿园很开心！有玩具可以玩，有老师陪着，还有好多新朋友。每天早上跟妈妈说再见，下午开开心心回家。幼儿园就像游乐园一样好玩！",
+    "practice_questions": [
+      {
+        "question": "上幼儿园时，你要跟谁说再见？",
+        "options": [
+          "A. 老师",
+          "B. 爸爸妈妈",
+          "C. 玩具",
+          "D. 小动物"
+        ],
+        "answer": "B",
+        "explanation": "早上到幼儿园要跟爸爸妈妈说再见哦"
+      },
+      {
+        "question": "幼儿园里有什么？",
+        "options": [
+          "A. 只有床",
+          "B. 玩具和老师",
+          "C. 只有饭",
+          "D. 什么都没有"
+        ],
+        "answer": "B",
+        "explanation": "幼儿园有好多玩具，还有爱我们的老师"
+      },
+      {
+        "question": "幼儿园像什么？",
+        "options": [
+          "A. 医院",
+          "B. 学校",
+          "C. 游乐园",
+          "D. 超市"
+        ],
+        "answer": "C",
+        "explanation": "幼儿园像游乐园一样开心好玩"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T00:16:38.055194"
+}

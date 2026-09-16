@@ -83,14 +83,94 @@
     "lang_kg_describe": {
       "status": "completed",
       "completed_at": "2026-09-17T00:04:57.671292"
+    },
+    "lang_kg_polite": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:05:24.227023"
+    },
+    "lang_kg_turn": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:05:58.067445"
+    },
+    "lang_kg_story": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:06:25.243070"
+    },
+    "lang_kg_care_book": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:06:51.263688"
+    },
+    "lang_kg_sequence": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:14:09.208102"
+    },
+    "lang_kg_predict": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:07:24.118877"
+    },
+    "lang_kg_draw": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:07:55.905179"
+    },
+    "lang_kg_name": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:08:25.675491"
+    },
+    "social_kg_greet": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:08:52.449068"
+    },
+    "social_kg_friend": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:09:18.438979"
+    },
+    "social_kg_share": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:09:44.319227"
+    },
+    "social_kg_conflict": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:10:07.906215"
+    },
+    "social_kg_choice": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:10:40.886283"
+    },
+    "social_kg_praise": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:11:09.583637"
+    },
+    "social_kg_family": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:11:43.919212"
+    },
+    "social_kg_help": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:14:46.795226"
+    },
+    "social_kg_kindergarten": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:16:38.055194"
+    },
+    "social_kg_rules": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:17:17.314139"
+    },
+    "social_kg_honest": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:17:59.005799"
+    },
+    "social_kg_follow": {
+      "status": "completed",
+      "completed_at": "2026-09-17T00:18:27.705472"
     }
   },
   "created_at": "2026-09-16T23:22:02.688005",
-  "updated_at": "2026-09-17T00:04:57.671292",
+  "updated_at": "2026-09-17T00:18:27.705472",
   "stats": {
     "total": 67,
-    "completed": 17,
+    "completed": 6,
     "failed": 0,
-    "skipped": 4
+    "skipped": 35
   }
 }

@@ -1,0 +1,43 @@
+{
+  "topic_id": "lang_kg_story",
+  "name": "爱上绘本阅读",
+  "age_group": "小班(3-4岁)",
+  "subject": "language",
+  "content": {
+    "concept": "绘本就像会讲故事的小图画书",
+    "explanation": "绘本里有好看的图画和好听的故事。妈妈给你念《小熊宝宝》时，你会看到吃饭、洗澡的小熊，就像在幼儿园一样！每天看一会儿绘本，你能认识好多动物朋友，学会排队、分享哦～",
+    "practice_questions": [
+      {
+        "question": "绘本里有什么呀？",
+        "options": [
+          "A.只有字没有图",
+          "B.漂亮的图画和故事",
+          "C.玩具和游戏"
+        ],
+        "answer": "B",
+        "explanation": "绘本有图画和故事"
+      },
+      {
+        "question": "什么时候可以看绘本？",
+        "options": [
+          "A.每天看一会儿",
+          "B.只有一天看一次",
+          "C.不能看"
+        ],
+        "answer": "A",
+        "explanation": "每天可以读一会儿"
+      },
+      {
+        "question": "绘本能帮我们做什么？",
+        "options": [
+          "A.学会排队和分享",
+          "B.变得不爱说话",
+          "C.不想上幼儿园"
+        ],
+        "answer": "A",
+        "explanation": "绘本教会宝宝好习惯"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T00:06:25.243070"
+}
