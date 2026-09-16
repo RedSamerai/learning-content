@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>女声音色测试</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
+    h1 { color: #333; }
+    .voice-item { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 8px; }
+    .voice-name { font-weight: bold; margin-bottom: 10px; color: #667eea; }
+    audio { width: 100%; }
+  </style>
+</head>
+<body>
+  <h1>🎙️ 女声音色测试</h1>
+  <p>请试听以下4个中文女声音色，选择你喜欢的：</p>
+  
+  <div class="voice-item">
+    <div class="voice-name">1. XiaoxiaoNeural（通用女声）</div>
+    <audio controls src="test_audio/voices/zh_CN_XiaoxiaoNeural.mp3"></audio>
+  </div>
+  
+  <div class="voice-item">
+    <div class="voice-name">2. XiaoyiNeural（通用女声）</div>
+    <audio controls src="test_audio/voices/zh_CN_XiaoyiNeural.mp3"></audio>
+  </div>
+  
+  <div class="voice-item">
+    <div class="voice-name">3. XiaobeiNeural（辽宁方言）</div>
+    <audio controls src="test_audio/voices/zh_CN-liaoning_XiaobeiNeural.mp3"></audio>
+  </div>
+  
+  <div class="voice-item">
+    <div class="voice-name">4. XiaoniNeural（陕西方言）</div>
+    <audio controls src="test_audio/voices/zh_CN-shaanxi_XiaoniNeural.mp3"></audio>
+  </div>
+  
+  <p style="margin-top: 30px; color: #999;">选择后告诉我序号，我会用选定的音色重新生成所有内容。</p>
+</body>
+</html>
