@@ -1,0 +1,151 @@
+{
+  "id": "math_kg_number_recognition",
+  "version": "1.0.0",
+  "created_at": "2026-09-16",
+  "updated_at": "2026-09-16",
+  
+  "metadata": {
+    "subject": "math",
+    "grade_level": "kindergarten",
+    "chapter": "数字认知",
+    "topic": "认识数字1-10",
+    "keywords": ["数字", "计数", "识别"],
+    "source": "AGNES生成 + 人工审核",
+    "license": "CC BY-SA 4.0"
+  },
+  
+  "age_appropriate": {
+    "min_age": 3,
+    "max_age": 6,
+    "cognitive_level": "concrete",
+    "learning_style": "visual_auditory",
+    "attention_span_minutes": 10,
+    "language_complexity": "simple",
+    "interface_requirements": {
+      "large_buttons": true,
+      "colorful": true,
+      "animations": true,
+      "minimal_text": true
+    }
+  },
+  
+  "learning_objectives": [
+    "能识别数字1-10的形状",
+    "能将数字与对应数量匹配",
+    "能按顺序读出数字1-10",
+    "能用手指表示数量"
+  ],
+  
+  "content": {
+    "concept": "数字是用来表示数量的符号。就像我们用手指数数一样，数字1、2、3...都是用来告诉我们有多少个东西的。",
+    "explanation": "每个数字都有一个独特的形状，就像你的名字一样特别。数字1像一根铅笔，直直地站在那里；数字2像一只天鹅，弯着脖子；数字3像我们的耳朵...让我们一起认识它们吧！",
+    "examples": [
+      {
+        "number": 1,
+        "text": "1个苹果",
+        "image": "examples/1-apple.png",
+        "audio": "audio/examples/1-apple.mp3",
+        "description": "看，这里有1个红红的苹果！"
+      },
+      {
+        "number": 2,
+        "text": "2只小鸟",
+        "image": "examples/2-birds.png",
+        "audio": "audio/examples/2-birds.mp3",
+        "description": "树枝上有2只可爱的小鸟在唱歌！"
+      },
+      {
+        "number": 3,
+        "text": "3朵花",
+        "image": "examples/3-flowers.png",
+        "audio": "audio/examples/3-flowers.mp3",
+        "description": "花园里有3朵漂亮的花！"
+      }
+    ],
+    "common_mistakes": [
+      "把6和9搞混（它们长得像双胞胎）",
+      "数数时跳过某个数",
+      "不知道数字代表多少"
+    ],
+    "tips": [
+      "用手指指着数可以帮助记忆",
+      "每天练习一点点，很快就能记住",
+      "把数字和生活中的东西联系起来"
+    ]
+  },
+  
+  "practice": [
+    {
+      "id": "p001",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "下面哪个是数字3？",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3",
+      "explanation": "数字3的形状像半个耳朵，弯弯的",
+      "audio_question": "audio/practice/p001-q.mp3",
+      "audio_explanation": "audio/practice/p001-e.mp3",
+      "feedback": {
+        "correct": "太棒了！你认识数字3了！🎉",
+        "incorrect": "再仔细看哦，数字3像半个耳朵~"
+      }
+    },
+    {
+      "id": "p002",
+      "type": "matching",
+      "difficulty": 1,
+      "question": "把数字和对应数量连起来",
+      "items": [
+        {"digit": 1, "count": 1},
+        {"digit": 2, "count": 2},
+        {"digit": 3, "count": 3}
+      ],
+      "answer": {"1": 1, "2": 2, "3": 3},
+      "explanation": "数字1代表1个，数字2代表2个，数字3代表3个",
+      "audio_explanation": "audio/practice/p002-e.mp3",
+      "feedback": {
+        "correct": "你真厉害！全部连对了！⭐",
+        "incorrect": "别着急，一个一个来，数字1代表1个哦"
+      }
+    },
+    {
+      "id": "p003",
+      "type": "order",
+      "difficulty": 1,
+      "question": "把数字按从小到大的顺序排列",
+      "items": ["5", "2", "8", "1"],
+      "answer": ["1", "2", "5", "8"],
+      "explanation": "从最小的开始：1是最小的，然后2，然后5，最大的是8",
+      "audio_explanation": "audio/practice/p003-e.mp3",
+      "feedback": {
+        "correct": "排序正确！你掌握了数字的大小！🌟",
+        "incorrect": "想想看，哪个数字最小？从最小的开始排~"
+      }
+    }
+  ],
+  
+  "gamification": {
+    "badge": "数字小达人",
+    "badge_icon": "🏆",
+    "points": 10,
+    "streak_bonus": 1.5,
+    "tip": "你已经认识了数字1-10！太厉害了！",
+    "next_topic": "math_kg_counting"
+  },
+  
+  "accessibility": {
+    "audio_required": true,
+    "audio_languages": ["zh-CN"],
+    "text_size": "large",
+    "contrast": "high",
+    "font": "KaiTi",
+    "voice": "zh-CN-XiaoxiaoNeural"
+  },
+  
+  "prerequisites": [],
+  "related_topics": ["math_kg_counting", "math_kg_shapes"],
+  "estimated_time_minutes": 10,
+  
+  "tags": ["幼儿园", "数学", "数字", "基础"],
+  "status": "published"
+}
