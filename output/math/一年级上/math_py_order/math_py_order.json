@@ -88,5 +88,8 @@
       }
     ]
   },
-  "audio": []
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }
