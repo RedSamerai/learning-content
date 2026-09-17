@@ -1,0 +1,12 @@
+{
+  "id": "prep_math_count_1",
+  "name": "数数1-20",
+  "grade": "幼小衔接",
+  "age_group": "幼小衔接",
+  "subject": "数学",
+  "focus": "扩展数数",
+  "explanation": "\n\n我们来玩数数游戏吧！一边拍手一边数：1、2、3、4、5……一直数到20。你可以指着积木、苹果，一个一个数过去。数完再倒着数：20、19、18……一直到1。多练习几次，你就能记住啦！",
+  "questions": "",
+  "image": "image.png",
+  "audio": "audio.mp3"
+}
