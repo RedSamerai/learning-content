@@ -1,0 +1,46 @@
+{
+  "topic_id": "py_pin du",
+  "name": "拼音拼读练习",
+  "subject": "chinese",
+  "grade": "幼小衔接",
+  "content": {
+    "concept": "拼音就是把汉字的声音拆成小积木，拼一拼就能读出字啦！",
+    "explanation": "拼音有韵母和声母，就像两个好朋友手拉手。比如‘妈妈’是 m-ā→mā。我们每天说的话，都能用拼音拼出来哦！来，跟我一起读：大狗在草地上跑，bǔ bǔ bǔ，小狗追着球玩，pū pū pū。",
+    "questions": [
+      {
+        "question": "“花”这个字的拼音怎么拼？",
+        "options": [
+          "A. h-uā→huā",
+          "B. f-uā→fua",
+          "C. h-uà→huà",
+          "D. d-uā→duā"
+        ],
+        "answer": "A",
+        "explanation": "“花”读huā，声母h和韵母uā拼在一起。"
+      },
+      {
+        "question": "下面哪个拼音是“苹果”的“苹”？",
+        "options": [
+          "A. bǐng",
+          "B. píng",
+          "C. bǐng",
+          "D. pín"
+        ],
+        "answer": "B",
+        "explanation": "“苹”读píng，第二声，是苹果的意思。"
+      },
+      {
+        "question": "“m-ǎo→mǎo”拼出的汉字可能是？",
+        "options": [
+          "A. 马",
+          "B. 猫",
+          "C. 帽",
+          "D. 毛"
+        ],
+        "answer": "D",
+        "explanation": "m-ǎo拼出来是mǎo，对应汉字“毛”。"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T10:26:20.552558"
+}

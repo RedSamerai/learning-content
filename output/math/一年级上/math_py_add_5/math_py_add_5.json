@@ -1,0 +1,54 @@
+{
+  "topic_id": "math_py_add_5",
+  "name": "5以内的加法",
+  "subject": "math",
+  "grade": "一年级上",
+  "content": {
+    "title": "5以内的加法",
+    "sections": [
+      {
+        "type": "text",
+        "content": "同学们好！今天我们来学习**5以内的加法**。加法就是把两个数合在一起，算出总共有多少个。"
+      },
+      {
+        "type": "example",
+        "content": "🍎 **举例说明：**\n小明有2个苹果，妈妈又给了他1个苹果，小明一共有几个苹果？\n\n我们可以用算式来表示：**2 + 1 = 3**\n\n读作：2加1等于3\n\n我们可以在心里数一数：2、3……对了，答案是3！"
+      },
+      {
+        "type": "example",
+        "content": "🖐️ **动手试一试：**\n伸出你的手指，先伸出3根手指，再伸出1根手指，数一数一共有几根？\n\n算式是：**3 + 1 = 4**\n\n太棒了，你们已经学会5以内的加法啦！"
+      },
+      {
+        "type": "question",
+        "options": [
+          {
+            "optionA": "3",
+            "optionB": "4",
+            "optionC": "5",
+            "answer": "B",
+            "question": "1. 2 + 3 = （  ）"
+          },
+          {
+            "optionA": "3",
+            "optionB": "4",
+            "optionC": "2",
+            "answer": "C",
+            "question": "2. 1 + 2 = （  ）"
+          },
+          {
+            "optionA": "5",
+            "optionB": "4",
+            "optionC": "3",
+            "answer": "A",
+            "question": "3. 2 + 3 = （  ）"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "gradeLevel": "一年级上",
+      "subject": "数学",
+      "topic": "5以内的加法"
+    }
+  }
+}

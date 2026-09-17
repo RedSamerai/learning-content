@@ -1,0 +1,13 @@
+{
+  "topic_id": "math_py_clock_2",
+  "name": "认识半时",
+  "subject": "math",
+  "grade": "一年级上",
+  "content": {
+    "subject": "认识半时",
+    "target_grade": "小学一年级上",
+    "teaching_content": {
+      "introduction": "小朋友，你们知道时钟上的半时是什么样子吗？今天我们来认识"
+    }
+  }
+}

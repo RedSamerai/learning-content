@@ -1,0 +1,45 @@
+{
+  "topic_id": "py_pin du",
+  "name": "拼音拼读练习",
+  "subject": "chinese",
+  "grade": "幼小衔接",
+  "content": {
+    "concept": "拼音拼读",
+    "explanation": "拼音拼读就是把声母和韵母合在一起读出声音。比如 b + a = ba。记住口诀：前音轻短后音重，两音相连猛一碰。",
+    "questions": [
+      {
+        "question": "b 和 a 拼在一起读什么？",
+        "options": [
+          "A. ba",
+          "B. bo",
+          "C. bi",
+          "D. bu"
+        ],
+        "answer": "A",
+        "explanation": "b+a=ba，像'巴'的音。"
+      },
+      {
+        "question": "下面哪个是 d 和 i 拼出来的音？",
+        "options": [
+          "A. da",
+          "B. de",
+          "C. di",
+          "D. do"
+        ],
+        "answer": "C",
+        "explanation": "d+i=di，像'低'的音。"
+      },
+      {
+        "question": "g、u、a 三个音拼在一起读什么？",
+        "options": [
+          "A. gu",
+          "B. ga",
+          "C. gua",
+          "D. guo"
+        ],
+        "answer": "C",
+        "explanation": "g+u+a=gua，像'瓜'的音。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "topic_id": "math_py_shape_3",
+  "name": "认识圆柱",
+  "subject": "math",
+  "grade": "一年级上",
+  "content": {
+    "title": "认识圆柱",
+    "grade_level": "小学一年级上",
+    "content": {
+      "introduction": "同学们好！今天我们来认识一个有趣的立体图形——圆柱。请大家想一想，在生活中你见过哪些像圆柱一样的东西呢？",
+      "features": [
+        {
+          "point": "圆柱是立体的图形，摸上去有厚厚的感觉",
+          "explanation": "和纸片那样的平面图形不一样，圆柱可以拿在手里，是实实在在的形状"
+        },
+        {
+          "point": "圆柱有两个圆圆的"
+        }
+      ]
+    }
+  }
+}
