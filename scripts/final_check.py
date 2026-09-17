@@ -4,9 +4,9 @@ from pathlib import Path
 import json
 
 total = 0
-has_audio = 0
-has_exp = 0
-has_img = 0
+has_audio_count = 0
+has_exp_count = 0
+has_img_count = 0
 complete = 0
 
 for p in Path('output').rglob('*.json'):
