@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_compass",
+  "name": "指南针",
+  "grade": "二年级下",
+  "subject": "science",
+  "focus": "方向",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "二年级下"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

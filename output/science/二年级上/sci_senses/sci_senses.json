@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_senses",
+  "name": "感觉器官",
+  "grade": "二年级上",
+  "subject": "science",
+  "focus": "眼耳口鼻",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "二年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

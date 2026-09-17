@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_animal_life",
+  "name": "动物的一生",
+  "grade": "三年级下",
+  "subject": "science",
+  "focus": "生命周期",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "三年级下"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

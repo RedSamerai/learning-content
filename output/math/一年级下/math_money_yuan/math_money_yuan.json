@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_money_yuan",
+  "name": "认识元角分",
+  "grade": "一年级下",
+  "subject": "math",
+  "focus": "人民币",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "一年级下"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

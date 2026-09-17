@@ -1,0 +1,19 @@
+{
+  "topic_id": "poem_zhi_zhu",
+  "name": "知止",
+  "grade": "三年级上",
+  "subject": "chinese",
+  "focus": "古诗鉴赏",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "三年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

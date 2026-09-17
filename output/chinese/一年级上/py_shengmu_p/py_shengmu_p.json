@@ -1,0 +1,19 @@
+{
+  "topic_id": "py_shengmu_p",
+  "name": "声母p",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "p的发音",
+  "explanation": "\n\n小朋友，来学习声母 **p**！\n\n发音时，先把嘴唇紧紧闭住，像含着糖果，然后“噗”地用力吹气，让气流冲出来。把手放在嘴前试试，能感到一阵凉风！它和 b 长得像，但 b 不吹风，p 要用力送气。\n\n记口诀：**p p p，像面小旗向右飘；泼水要从杯里倒，p p p**。多练几次，你一定能学会！",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

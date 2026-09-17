@@ -1,0 +1,19 @@
+{
+  "topic_id": "py_pin_in",
+  "name": "拼音拼读in",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "in的拼读",
+  "explanation": "\n\n## 学拼音\"in\"\n\n**发音方法：**\n嘴巴微微张开，舌尖轻轻顶住下牙齿，发出\"因\"的音。\n\n**拼读口诀：**\ni在前，n在后，嘴巴微张读\"因\"。\n\n**练习拼读：**\n- b + in = **bin**（冰）\n- p + in = **pin**（品）\n- m + in = **min**（民）\n- f + in = **fen**（分）\n\n**小窍门：**\n读的时候鼻子微微用力，发出嗡嗡的声音。可以边做动作边读，记得更牢哦！\n\n**每天多读几遍，你一定能学会！** 🌟",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

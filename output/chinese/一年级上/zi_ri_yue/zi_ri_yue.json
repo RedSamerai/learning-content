@@ -1,0 +1,19 @@
+{
+  "topic_id": "zi_ri_yue",
+  "name": "日月经云",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "认识日、月",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

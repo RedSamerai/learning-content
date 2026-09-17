@@ -1,0 +1,19 @@
+{
+  "topic_id": "py_shengmu_t",
+  "name": "声母t",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "t的书写",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

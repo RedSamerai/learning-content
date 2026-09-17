@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_mul_table",
+  "name": "乘法口诀",
+  "grade": "二年级上",
+  "subject": "math",
+  "focus": "九九乘法表",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "二年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

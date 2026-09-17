@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_body_parts",
+  "name": "我们的身体",
+  "grade": "一年级上",
+  "subject": "science",
+  "focus": "身体部位",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

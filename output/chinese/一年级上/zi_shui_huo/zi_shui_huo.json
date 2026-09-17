@@ -1,0 +1,19 @@
+{
+  "topic_id": "zi_shui_huo",
+  "name": "水火土石",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "认识水、火",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

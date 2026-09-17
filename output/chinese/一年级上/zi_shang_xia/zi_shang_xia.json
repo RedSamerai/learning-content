@@ -1,0 +1,19 @@
+{
+  "topic_id": "zi_shang_xia",
+  "name": "上下大小",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "反义词",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

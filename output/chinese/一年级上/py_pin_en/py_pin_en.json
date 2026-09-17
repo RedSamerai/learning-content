@@ -1,0 +1,19 @@
+{
+  "topic_id": "py_pin_en",
+  "name": "拼音拼读en",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "en的拼读",
+  "explanation": "\n\nen是一个整体认读音节，像\"恩\"的声音。拼读时嘴巴微微张开，舌尖抵住下牙齿，发出\"en\"的音，就像答应别人时说的\"嗯\"。它能和声母拼在一起，比如：\n\nb + en = ben（笨）\np + en = pen（盆）\nm + en = men（门）\nf + en = fen（分）\n\n记住：en像\"恩\"，拼读时声音要连贯哦！\n</think>\n\nen是一个整体认读音节，像\"恩\"的声音。拼读时嘴巴微微张开，舌尖抵住下牙齿，发出\"en\"的音，就像答应别人时说的\"嗯\"。它能和声母拼在一起，比如：\n\nb + en = ben（笨）\np + en = pen（盆）\nm + en = men（门）\nf + en = fen（分）\n\n记住：en像\"恩\"，拼读时声音要连贯哦！",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_add_20",
+  "name": "20以内进位加",
+  "grade": "一年级上",
+  "subject": "math",
+  "focus": "凑十法",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

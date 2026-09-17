@@ -1,0 +1,19 @@
+{
+  "topic_id": "mor_safety_school",
+  "name": "安全记心里",
+  "grade": "一年级上",
+  "subject": "morality",
+  "focus": "校园安全",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "morality",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

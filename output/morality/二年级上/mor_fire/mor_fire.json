@@ -1,0 +1,19 @@
+{
+  "topic_id": "mor_fire",
+  "name": "防火安全",
+  "grade": "二年级上",
+  "subject": "morality",
+  "focus": "火警电话",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "morality",
+    "二年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

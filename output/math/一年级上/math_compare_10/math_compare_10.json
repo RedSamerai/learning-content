@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_compare_10",
+  "name": "比大小10以内",
+  "grade": "一年级上",
+  "subject": "math",
+  "focus": "大小符号",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

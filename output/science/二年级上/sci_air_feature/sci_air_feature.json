@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_air_feature",
+  "name": "空气的特点",
+  "grade": "二年级上",
+  "subject": "science",
+  "focus": "占据空间",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "二年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_compare_100",
+  "name": "比大小100以内",
+  "grade": "二年级上",
+  "subject": "math",
+  "focus": "三位数比较",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "二年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

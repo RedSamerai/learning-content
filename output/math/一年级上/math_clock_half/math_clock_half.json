@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_clock_half",
+  "name": "认识半时",
+  "grade": "一年级上",
+  "subject": "math",
+  "focus": "半点认识",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

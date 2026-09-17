@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_fish_bird",
+  "name": "鱼儿鸟儿",
+  "grade": "一年级上",
+  "subject": "science",
+  "focus": "水生陆生",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

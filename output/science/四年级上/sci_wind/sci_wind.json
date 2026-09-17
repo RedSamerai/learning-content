@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_wind",
+  "name": "风的力量",
+  "grade": "四年级上",
+  "subject": "science",
+  "focus": "风力等级",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "四年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

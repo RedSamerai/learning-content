@@ -1,0 +1,19 @@
+{
+  "topic_id": "sci_air_weight",
+  "name": "空气有重量",
+  "grade": "三年级上",
+  "subject": "science",
+  "focus": "称量实验",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "science",
+    "三年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

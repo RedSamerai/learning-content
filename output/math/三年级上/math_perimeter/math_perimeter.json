@@ -1,0 +1,19 @@
+{
+  "topic_id": "math_perimeter",
+  "name": "周长计算",
+  "grade": "三年级上",
+  "subject": "math",
+  "focus": "周长公式",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "math",
+    "三年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

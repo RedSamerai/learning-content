@@ -1,0 +1,19 @@
+{
+  "topic_id": "poem_chun_xiao",
+  "name": "春晓",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "孟浩然",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

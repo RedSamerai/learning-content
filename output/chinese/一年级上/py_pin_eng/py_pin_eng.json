@@ -1,0 +1,19 @@
+{
+  "topic_id": "py_pin_eng",
+  "name": "拼音拼读eng",
+  "grade": "一年级上",
+  "subject": "chinese",
+  "focus": "eng的拼读",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [
+    "audio_intro.mp3"
+  ],
+  "tags": [
+    "chinese",
+    "一年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}
