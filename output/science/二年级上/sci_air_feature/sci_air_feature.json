@@ -4,7 +4,7 @@
   "grade": "二年级上",
   "subject": "science",
   "focus": "占据空间",
-  "explanation": "",
+  "explanation": "\n\n空气看不见，但会占据空间。就像往气球里吹气，气球鼓起来，是因为空气进去了，把气球撑开。再比如把杯子倒扣进水里，水进不去，因为杯子里的空气挡住了它。空气虽然摸不着，却实实在在占着地方。",
   "quiz": "",
   "image": "image.png",
   "tags": [
@@ -13,5 +13,8 @@
   ],
   "difficulty": 1,
   "created": "2026-09-17",
-  "audio": []
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

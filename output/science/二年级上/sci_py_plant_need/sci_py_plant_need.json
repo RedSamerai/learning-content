@@ -8,7 +8,10 @@
     "format": "markdown"
   },
   "audio": [
-    "audio_concept.mp3"
+    "audio_concept.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
   ],
-  "explanation": "\n\n植物生长需要四样宝贝：\n\n阳光——像营养餐，帮植物做食物\n水——让植物喝饱，长得壮壮的\n土壤——提供营养和安家\n空气——叶子会呼吸呢！\n\n小植物就像小宝宝，也要吃饭喝水，还要晒太阳，才能开开心心长大🌱"
+  "explanation": "\n\n植物生长需要四样宝贝：\n\n阳光——像营养餐，帮植物做食物\n水——让植物喝饱，长得壮壮的\n土壤——提供营养和安家\n空气——叶子会呼吸呢！\n\n小植物就像小宝宝，也要吃饭喝水，还要晒太阳，才能开开心心长大🌱",
+  "image": "image.png"
 }

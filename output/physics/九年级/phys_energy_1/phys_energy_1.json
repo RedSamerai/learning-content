@@ -7,7 +7,10 @@
   "explanation": "\n\n**功（W）**：力使物体移动，W = F×s（焦耳J）。比如提水上楼，力×高度。\n\n**功率（P）**：做功快慢，P = W/t（瓦特W）。同样做功，用时越短功率越大。\n\n**应用**：灯泡60W比40W亮；爬同样楼梯，跑比走功率大。记住：功看做了多少，功率看做得多快。",
   "quiz": "",
   "image": "image.png",
-  "audio": [],
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ],
   "tags": [
     "physics",
     "九年级"

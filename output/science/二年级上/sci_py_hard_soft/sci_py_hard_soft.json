@@ -12,6 +12,10 @@
     }
   },
   "audio": [
-    "audio_concept.mp3"
-  ]
+    "audio_concept.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ],
+  "image": "image.png",
+  "explanation": "\n\n# 软硬比较\n\n小朋友们，软硬就是看谁更容易被划伤！\n\n**怎么玩：**\n拿两个东西互相划一划。能划出痕迹的是**软**的，划不出的是**硬**的。\n\n**例子：**\n- 铅笔比橡皮软 → 铅笔在橡皮上能留下痕迹\n- 玻璃比塑料硬 → 玻璃能划伤塑料\n\n**记住：** 硬的东西更结实，不容易被刮坏；软的东西容易变形、容易有痕迹哦！"
 }

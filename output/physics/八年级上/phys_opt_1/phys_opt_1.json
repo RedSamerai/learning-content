@@ -7,7 +7,10 @@
   "explanation": "\n\n光沿直线传播：影子、日食就是证明，光不会拐弯。当光碰到镜面等光滑表面时会发生反射——入射角等于反射角，像打乒乓球弹回一样。我们能照镜子、看到水面倒影，都是反射的功劳。记住：直线传播解释\"影\"，反射解释\"像\"。",
   "quiz": "",
   "image": "image.png",
-  "audio": [],
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ],
   "tags": [
     "physics",
     "八年级上"

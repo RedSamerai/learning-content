@@ -81,7 +81,10 @@
     ]
   },
   "audio": [
-    "audio_concept.mp3"
+    "audio_concept.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
   ],
-  "explanation": "\n\n空气看不见，也摸不着，但到处都有。它没有"
+  "explanation": "\n\n空气看不见，也摸不着，但到处都有。它没有",
+  "image": "image.png"
 }
