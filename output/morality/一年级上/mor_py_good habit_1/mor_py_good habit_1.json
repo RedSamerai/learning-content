@@ -52,7 +52,5 @@
       }
     ]
   },
-  "audio": [
-    "audio_concept.mp3"
-  ]
+  "audio": []
 }

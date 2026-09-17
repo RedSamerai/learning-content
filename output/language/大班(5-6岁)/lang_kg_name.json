@@ -43,10 +43,7 @@
     ]
   },
   "created_at": "2026-09-17T00:09:35.021126",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": [],
+  "explanation": "\n\n你的名字很特别！我们先找一找名字里有哪些字，再一笔一笔写下来。拿好铅笔，轻轻握，从上往下，从左往右。多练几次，就能写出漂亮的字啦！记住，你的名字是独一无二的！",
+  "image": "image.png"
 }
