@@ -65,5 +65,9 @@
         "explanation": "正方体的每个面都是正方形，6个面的大小完全一样。"
       }
     ]
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

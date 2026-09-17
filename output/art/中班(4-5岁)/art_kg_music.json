@@ -43,5 +43,15 @@
     ]
   },
   "created_at": "2026-09-17T00:36:53.600697",
-  "explanation": "\n\n听音乐就像打开不同的窗户。听欢快的歌，你会想跳舞；听舒缓的曲子，心里像躺在云朵上。每种音乐都有独特的颜色、故事和心情。闭上眼认真听，你能感受到音乐带来的快乐、平静或激动。多听不同风格的音乐，你的耳朵会变得更灵敏，心灵也会更丰富！"
+  "explanation": "\n\n听音乐就像打开不同的窗户。听欢快的歌，你会想跳舞；听舒缓的曲子，心里像躺在云朵上。每种音乐都有独特的颜色、故事和心情。闭上眼认真听，你能感受到音乐带来的快乐、平静或激动。多听不同风格的音乐，你的耳朵会变得更灵敏，心灵也会更丰富！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

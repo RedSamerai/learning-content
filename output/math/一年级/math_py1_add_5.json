@@ -21,5 +21,14 @@
       }
     ]
   },
-  "created_at": 305229.0
+  "created_at": 305229.0,
+  "explanation": "\n\n5以内的加法就是把两个小数目合在一起，数一数一共有多少。比如3个苹果加上2个苹果，手指头数一数：1、2、3、4、5，一共是5个苹果。算式写成3+2=5。记住啦，\"+\"就是\"合起来\"的意思， \"=\"后面写总数哦！多练习几次，你一定会变得更厉害！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

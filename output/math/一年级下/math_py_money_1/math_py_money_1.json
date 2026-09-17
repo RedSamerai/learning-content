@@ -3,5 +3,9 @@
   "name": "认识元角分",
   "subject": "math",
   "grade": "一年级下",
-  "content": {}
+  "content": {},
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

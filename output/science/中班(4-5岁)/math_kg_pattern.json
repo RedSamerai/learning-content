@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:30:43.054997"
+  "created_at": "2026-09-17T00:30:43.054997",
+  "explanation": "\n\n小朋友，找规律就是\"接着找一样的\"。\n\n你看：红苹果、绿梨子、红苹果、绿梨子……下一个是什么？对啦，是红苹果！\n\n规律就像排队：一个挨着一个，顺序是一样的。\n\n颜色有规律：蓝、黄、蓝、黄……\n形状有规律：圆形、三角形、圆形、三角形……\n\n你能发现下一个是什么吗？来找一找吧！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

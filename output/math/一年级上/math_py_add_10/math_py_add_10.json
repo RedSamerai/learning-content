@@ -3,5 +3,9 @@
   "name": "10以内的加法",
   "subject": "math",
   "grade": "一年级上",
-  "content": {}
+  "content": {},
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

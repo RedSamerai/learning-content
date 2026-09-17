@@ -3,5 +3,8 @@
   "name": "认识天气",
   "subject": "science",
   "grade": "一年级上",
-  "content": {}
+  "content": {},
+  "audio": [
+    "audio_concept.mp3"
+  ]
 }

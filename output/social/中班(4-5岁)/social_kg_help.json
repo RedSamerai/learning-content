@@ -42,5 +42,20 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:14:46.794226"
+  "created_at": "2026-09-17T00:14:46.794226",
+  "explanation": "\n\n小朋友，帮助别人就像收到一颗甜甜的糖果！\n\n当你帮小朋友捡起玩具，帮老师擦桌子，帮妈妈拿东西时，心里会觉得暖暖的、美美的，这就是快乐的魔法！\n\n看到别人因为你的帮助而笑，你也会开心地笑起来。所以，多帮助别人吧，你会收获满满的快乐哦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

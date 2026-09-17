@@ -36,5 +36,14 @@
       }
     ]
   },
-  "created_at": 305220.921
+  "created_at": 305220.921,
+  "explanation": "\n\n小朋友们，我们一起来学数数吧！\n\n伸出你可爱的小手指，一个一个来数：\n\n1、2、3、4、5、6、7、8、9、10！\n\n看，就像爬山一样，一个一个往上爬，越数越大！\n\n你可以数一数家里有几支铅笔，有几个苹果。\n\n多练几次，你一定能数得又准又快！加油！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -9,5 +9,9 @@
     "teaching_content": {
       "introduction": "小朋友，你们知道时钟上的半时是什么样子吗？今天我们来认识"
     }
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -59,5 +59,9 @@
         "解析": "一个数减去自己，结果是0，所以4 − 4 = 0。"
       }
     ]
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -87,5 +87,9 @@
         "explanation": "8的前面是7，因为7比8小1。"
       }
     ]
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

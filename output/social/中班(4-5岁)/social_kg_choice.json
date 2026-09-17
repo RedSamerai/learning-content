@@ -42,5 +42,20 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:10:40.886283"
+  "created_at": "2026-09-17T00:10:40.886283",
+  "explanation": "\n\n小朋友们，今天我们来学做\"小主人\"！\n\n教室里有好多有趣的活动：搭积木、画画、看绘本、玩娃娃家……你可以自己选一个最喜欢的去玩，不用等老师安排。\n\n选的时候想一想：\"我喜欢哪个？我想做什么？\"选好之后，就可以开心地去玩了。\n\n记住哦，每样活动都很有趣，选好后要认真玩，也可以和朋友一起玩。这就是\"自主选择\"！你们都是能干的小主人！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

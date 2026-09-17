@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-16T23:23:13.399690"
+  "created_at": "2026-09-16T23:23:13.399690",
+  "explanation": "\n\n小朋友们，我们来认识自己的身体吧！\n\n我有小眼睛，可以看见漂亮的花；有小鼻子，可以闻香香的味道；还有小嘴巴，可以吃好吃的。我有两只小耳朵，能听到妈妈叫我；我有小手和小脚，可以拍球、跑步。\n\n让我们动一动：摸摸自己的头、拍拍自己的手、跺跺自己的小脚。你们真棒！记住，我们要好好保护自己的身体哦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

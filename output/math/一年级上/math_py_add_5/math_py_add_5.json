@@ -50,5 +50,9 @@
       "subject": "数学",
       "topic": "5以内的加法"
     }
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

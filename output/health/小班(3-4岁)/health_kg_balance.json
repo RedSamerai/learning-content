@@ -39,5 +39,24 @@
       }
     ]
   },
-  "created_at": "2026-09-16T23:56:56.592981"
+  "created_at": "2026-09-16T23:56:56.592981",
+  "explanation": "\n\n小朋友，今天我们来玩走平衡木的游戏！\n\n平衡木就像一条细细的小桥。我们双手伸平，像小飞机一样，一步一步慢慢走过去。眼睛看前面，不要往下看哦！\n\n如果摇摇晃晃，可以停下来扶一下。走过去的小朋友，要给自己鼓鼓掌，真棒！\n\n记得老师会在旁边保护你，勇敢试一试吧！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

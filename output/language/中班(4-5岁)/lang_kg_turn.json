@@ -42,5 +42,18 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:05:58.066444"
+  "created_at": "2026-09-17T00:05:58.066444",
+  "explanation": "\n\n轮流说话就像玩游戏一样！\n\n当小朋友在说话时，其他人要安静地听，不能打断。说完后，就可以轮到下一个小朋友啦。\n\n如果大家都抢着说，就会乱糟糟的，谁也听不清了。\n\n学会轮流说话，每个人都能表达自己，大家也能听得清楚，交到更多好朋友！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-16T23:56:30.278036"
+  "created_at": "2026-09-16T23:56:30.278036",
+  "explanation": "\n\n夏天热热热！太阳公公笑，穿衣服要少。冬天冷冷冷，雪花飘，要穿棉袄戴手套。你们知道吗？热了会出汗，冷了会发抖。这是身体在告诉我们天气变啦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-16T23:24:10.068529"
+  "created_at": "2026-09-16T23:24:10.068529",
+  "explanation": "\n\n小朋友们，心情就像天空有晴天和雨天一样。有时候开心，有时候生气，有时候难过，这些都是正常的。\n\n当你有情绪时，可以告诉大人：\"我现在很生气\"或\"我有点难过\"。也可以深呼吸，抱抱玩具，或者画一幅画来表达自己的心情。记住，说出来比憋在心里更好哦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

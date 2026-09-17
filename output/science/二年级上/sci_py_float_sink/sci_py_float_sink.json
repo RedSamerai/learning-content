@@ -3,5 +3,8 @@
   "name": "浮与沉",
   "subject": "science",
   "grade": "二年级上",
-  "content": {}
+  "content": {},
+  "audio": [
+    "audio_concept.mp3"
+  ]
 }

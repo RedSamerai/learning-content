@@ -42,5 +42,20 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:17:59.005799"
+  "created_at": "2026-09-17T00:17:59.005799",
+  "explanation": "\n\n小朋友，说谎就像把心里藏了一颗坏坏的石头。说了真话，心里就亮堂堂的，大家也更喜欢你哦！如果你不小心做了错事，勇敢说出来，老师会夸你棒棒的！诚实的孩子，最可爱！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

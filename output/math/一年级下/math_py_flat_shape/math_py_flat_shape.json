@@ -68,5 +68,9 @@
       }
     ],
     "notes": "适合配合实物或卡片进行直观教学，题目三可配简单线稿图辅助识别。"
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

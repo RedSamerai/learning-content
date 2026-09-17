@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:28:16.250840"
+  "created_at": "2026-09-17T00:28:16.250840",
+  "explanation": "\n\n小朋友们，我们来比一比！\n\n**比大小**：把两个东西放一起看，这个大苹果、那个小苹果。谁占的地方多，谁就大。\n\n**比长短**：把两支铅笔一端对齐，伸出头的那支更长！\n\n**小口诀**：比一比，看一看，谁大谁小分出来；一端对齐比长短，伸出头的那边长！\n\n在家可以和爸爸妈妈一起比比书本、玩具，找找哪里大、哪里小，哪里长、哪里短！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

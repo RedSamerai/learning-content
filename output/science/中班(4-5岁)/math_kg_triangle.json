@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:34:58.954051"
+  "created_at": "2026-09-17T00:34:58.954051",
+  "explanation": "\n\n三角形有三条直直的边，三个尖尖的角。它像一个金字塔，或者一块切好的披萨！找一找，教室里哪里有三角形？书本的尖角、窗户的一角，都是三角形哦。记住：三条边，三个角，它就是三角形啦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

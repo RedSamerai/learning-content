@@ -3,5 +3,8 @@
   "name": "数数1-10",
   "subject": "math",
   "grade": "一年级上",
-  "content": {}
+  "content": {},
+  "audio": [
+    "audio_concept.mp3"
+  ]
 }

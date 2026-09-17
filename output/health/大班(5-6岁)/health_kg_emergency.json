@@ -42,5 +42,14 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:02:50.247998"
+  "created_at": "2026-09-17T00:02:50.247998",
+  "explanation": "\n\n小朋友，紧急电话要记住：\n\n🚔 **110** = 警察叔叔，遇到坏人、迷路了，就打110！\n🚑 **120** = 救护车，有人受伤生病，就打120！\n\n**重要：**\n• 平时不能随便打，只有紧急情况才能打\n• 打电话要说清楚：我在哪里？发生了什么事？\n• 记住家人的电话也很重要\n\n",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

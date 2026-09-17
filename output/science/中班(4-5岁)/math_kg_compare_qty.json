@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:33:34.267226"
+  "created_at": "2026-09-17T00:33:34.267226",
+  "explanation": "\n\n# 比较多少\n\n小朋友们，今天我们来学比较多少！\n\n比如你有5颗糖，小明有3颗糖。\n数一数，5比3大，所以你的糖**更多**！\n\n如果小明有6颗，那他的糖就比你**更多**。\n\n我们可以**一排一排对齐**，看看谁长谁短。\n长的多，短的就少。\n\n多就是**数量大**，少就是**数量小**。\n学会了比较多少，你就能知道谁的多谁的少啦！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

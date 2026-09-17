@@ -42,5 +42,18 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:06:51.262690"
+  "created_at": "2026-09-17T00:06:51.262690",
+  "explanation": "\n\n小朋友，看书时要爱惜哦！\n\n1. 先洗手，脏脏手不碰书～\n2. 轻轻翻书页，一页一页看。\n3. 不乱画、不撕书，小书会疼的。\n4. 看完送它回家，放回书架上。\n5. 和好朋友一起看，大家都不抢。\n\n书是我们的好朋友，我们要好好爱护它！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

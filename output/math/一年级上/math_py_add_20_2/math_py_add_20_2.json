@@ -60,5 +60,9 @@
     ],
     "tips": "用凑十法，先凑成10再加剩下的数",
     "summary": "8、7、6加几，先把小的数分成两部分，让8、7、6先凑成10，再加剩下的数"
-  }
+  },
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

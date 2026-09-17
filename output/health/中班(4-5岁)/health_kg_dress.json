@@ -39,5 +39,24 @@
       }
     ]
   },
-  "created_at": "2026-09-17T00:01:01.528936"
+  "created_at": "2026-09-17T00:01:01.528936",
+  "explanation": "\n\n# 自己穿脱衣服\n\n**穿衣服：**\n1. 把衣服平铺在床上\n2. 小手伸进袖子里\n3. 把衣服往上拉，遮住小肚子\n4. 扣好扣子或拉上拉链\n\n**脱衣服：**\n1. 先解开扣子或拉下拉链\n2. 一只手伸进袖子，往外拉\n3. 两只手都出来后，衣服就脱下来啦\n\n**小贴士：**\n- 先看一眼衣服的前后\n- 边做边念",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

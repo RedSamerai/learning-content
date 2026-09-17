@@ -42,5 +42,24 @@
       }
     ]
   },
-  "created_at": "2026-09-16T23:57:22.114651"
+  "created_at": "2026-09-16T23:57:22.114651",
+  "explanation": "\n\n小朋友们，我们来学\"小青蛙跳\"！\n\n先把两只脚**并并拢**，微微蹲下，像小青蛙准备跳荷叶。然后\"**啪**！\"两只脚一起跳起来，脚不能分开放哦！\n\n落下来的时候轻轻蹲一蹲，别\"咚\"地摔下去，接着再跳！一、二、三……一下、一下、再一下，就像小青蛙在荷叶上蹦哒！\n\n记住口诀：**并脚—跳起—轻落—再跳**。来，我们一起试试看！",
+  "audio": [
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3",
+    "audio_concept.mp3",
+    "audio_explanation.mp3"
+  ]
 }

@@ -4,7 +4,7 @@
   "grade": "一年级上",
   "subject": "math",
   "focus": "凑十法",
-  "explanation": "",
+  "explanation": "\n\n小朋友，凑十法就是让两个数变成10。比如8+5，先想8的好朋友是2，把5分成2和3，8加2等于10，再加3就是13啦！记住口诀：\"看大数，分小数，凑成十，算",
   "quiz": "",
   "image": "image.png",
   "tags": [
