@@ -13,8 +13,5 @@
   ],
   "difficulty": 1,
   "created": "2026-09-17",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

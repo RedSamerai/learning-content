@@ -13,5 +13,7 @@
   ],
   "difficulty": 1,
   "created": "2026-09-17",
-  "audio": []
+  "audio": [
+    "audio_explanation.mp3"
+  ]
 }

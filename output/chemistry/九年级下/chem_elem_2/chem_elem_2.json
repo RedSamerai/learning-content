@@ -7,10 +7,7 @@
   "explanation": "\n\n## 酸与碱\n\n**酸**：能电离出H⁺的化合物，如盐酸(HCl)、硫酸(H₂SO₄)。使紫色石蕊变红，有酸味。\n\n**碱**：能电离出OH⁻的化合物，如氢氧化钠(NaOH)、氢氧化钙[Ca(OH)₂]。使无色酚酞变红，有涩味、滑腻感。\n\n**中和反应**：酸 + 碱 → 盐 + 水\n\n例如：HCl + NaOH → NaCl + H₂O\n\n酸碱中和在日常中应用广泛：\n- 胃酸过多时服用含Al(OH)₃的药物\n- 被蚊子叮咬（分泌蚁酸）后涂碱性肥皂水止痒\n- 工厂废水处理等\n\n**记忆技巧**：石蕊遇酸红、遇碱蓝；酚酞遇碱红、遇酸不变色。",
   "quiz": "",
   "image": "image.png",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ],
+  "audio": [],
   "tags": [
     "chemistry",
     "九年级下"
