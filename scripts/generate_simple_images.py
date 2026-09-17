@@ -43,13 +43,15 @@ def create_count_20_image():
     # 第一行: 1-10
     for i in range(1, 11):
         x = (i - 1) * 95 + 30
-        draw.rounded_rectangle([x, 50, x + 80, y + 70], radius=8, fill='#E0FFE0', outline='#32CD32', width=2)
+        y = 50
+        draw.rounded_rectangle([x, y, x + 80, y + 70], radius=8, fill='#E0FFE0', outline='#32CD32', width=2)
         draw.text((x + 25, y + 15), str(i), fill='#333333', font=font)
     
     # 第二行: 11-20
     for i in range(11, 21):
         x = (i - 11) * 95 + 30
-        draw.rounded_rectangle([x, 150, x + 80, y + 70], radius=8, fill='#E0E0FF', outline='#4169E1', width=2)
+        y = 150
+        draw.rounded_rectangle([x, y, x + 80, y + 70], radius=8, fill='#E0E0FF', outline='#4169E1', width=2)
         draw.text((x + 15, y + 15), str(i), fill='#333333', font=font)
     
     return img
