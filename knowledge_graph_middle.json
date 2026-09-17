@@ -1,0 +1,191 @@
+{
+  "project": "Learning Machine K12+ Content",
+  "version": "3.0",
+  "created": "2026-09-17",
+  "description": "小学5-6年级 + 初中（语文/数学/科学/历史/地理/生物/物理/化学/道法/英语）",
+  "subjects": [
+    {
+      "subject_id": "chinese",
+      "name": "语文",
+      "areas": [
+        {"area_id": "reading", "name": "阅读", "objectives": [
+          {"objective_id": "classical", "name": "古文阅读", "topics": [
+            {"topic_id": "hist_classical_1", "name": "文言文字词", "grade": "七年级上", "focus": "常用文言实词虚词"},
+            {"topic_id": "hist_classical_2", "name": "古诗文鉴赏", "grade": "八年级上", "focus": "诗词意象与情感"},
+            {"topic_id": "hist_classical_3", "name": "文言文翻译", "grade": "九年级上", "focus": "直译与意译"}
+          ]},
+          {"objective_id": "modern", "name": "现代文阅读", "topics": [
+            {"topic_id": "hist_modern_read", "name": "说明文阅读", "grade": "七年级下", "focus": "说明方法与顺序"},
+            {"topic_id": "hist_modern_write", "name": "议论文阅读", "grade": "八年级下", "focus": "论点论据论证"},
+            {"topic_id": "hist_modern_narr", "name": "记叙文阅读", "grade": "九年级下", "focus": "叙事技巧与情感"}
+          ]}
+        ]},
+        {"area_id": "writing", "name": "写作", "objectives": [
+          {"objective_id": "narrative", "name": "记叙文写作", "topics": [
+            {"topic_id": "write_narr_1", "name": "记事作文", "grade": "五年级", "focus": "六要素完整"},
+            {"topic_id": "write_narr_2", "name": "写人作文", "grade": "六年级", "focus": "人物描写方法"},
+            {"topic_id": "write_narr_3", "name": "抒情散文", "grade": "七年级", "focus": "借景抒情"}
+          ]},
+          {"objective_id": "argument", "name": "议论文写作", "topics": [
+            {"topic_id": "write_argu_1", "name": "论点提炼", "grade": "八年级", "focus": "中心论点明确"},
+            {"topic_id": "write_argu_2", "name": "论据选择", "grade": "九年级", "focus": "典型论据运用"}
+          ]}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "math",
+      "name": "数学",
+      "areas": [
+        {"area_id": "algebra", "name": "代数", "objectives": [
+          {"objective_id": "equation", "name": "方程与不等式", "topics": [
+            {"topic_id": "math_equation_1", "name": "一元一次方程", "grade": "七年级上", "focus": "解方程与实际问题"},
+            {"topic_id": "math_equation_2", "name": "二元一次方程组", "grade": "七年级下", "focus": "代入消元与加减消元"},
+            {"topic_id": "math_inequality", "name": "一元一次不等式", "grade": "八年级上", "focus": "不等式性质与解法"},
+            {"topic_id": "math_quadratic", "name": "一元二次方程", "grade": "九年级上", "focus": "求根公式与韦达定理"},
+            {"topic_id": "math_func_linear", "name": "一次函数", "grade": "八年级下", "focus": "图像与性质"},
+            {"topic_id": "math_func_quad", "name": "二次函数", "grade": "九年级下", "focus": "最值问题与应用"}
+          ]}
+        ]},
+        {"area_id": "geometry", "name": "几何", "objectives": [
+          {"objective_id": "triangle", "name": "三角形", "topics": [
+            {"topic_id": "math_triangle_1", "name": "三角形性质", "grade": "七年级下", "focus": "内角和与外角"},
+            {"topic_id": "math_triangle_2", "name": "全等三角形", "grade": "八年级上", "focus": "判定定理与应用"},
+            {"topic_id": "math_triangle_3", "name": "相似三角形", "grade": "九年级上", "focus": "相似判定与性质"}
+          ]},
+          {"objective_id": "circle", "name": "圆", "topics": [
+            {"topic_id": "math_circle_1", "name": "圆的认识", "grade": "九年级上", "focus": "圆心角与圆周角"},
+            {"topic_id": "math_circle_2", "name": "直线与圆", "grade": "九年级下", "focus": "位置关系与切线"}
+          ]}
+        ]},
+        {"area_id": "probability", "name": "统计与概率", "objectives": [
+          {"objective_id": "stats", "name": "统计", "topics": [
+            {"topic_id": "math_stats_1", "name": "数据的收集", "grade": "七年级下", "focus": "调查方法与图表"},
+            {"topic_id": "math_stats_2", "name": "数据分析", "grade": "八年级下", "focus": "平均数中位数众数"}
+          ]},
+          {"objective_id": "prob", "name": "概率", "topics": [
+            {"topic_id": "math_prob_1", "name": "随机事件", "grade": "九年级上", "focus": "概率计算与方法"}
+          ]}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "physics",
+      "name": "物理",
+      "areas": [
+        {"area_id": "mechanics", "name": "力学", "objectives": [
+          {"topic_id": "phys_mech_1", "name": "运动的描述", "grade": "八年级上", "focus": "速度参照系"},
+          {"topic_id": "phys_mech_2", "name": "力与运动", "grade": "八年级下", "focus": "牛顿第一定律"},
+          {"topic_id": "phys_mech_3", "name": "压强浮力", "grade": "九年级", "focus": "液体压强与阿基米德原理"}
+        ]},
+        {"area_id": "energy", "name": "能量", "objectives": [
+          {"topic_id": "phys_energy_1", "name": "功与功率", "grade": "九年级", "focus": "计算与应用"},
+          {"topic_id": "phys_energy_2", "name": "电功率", "grade": "九年级", "focus": "电路计算与安全用电"}
+        ]},
+        {"area_id": "optics", "name": "光学", "objectives": [
+          {"topic_id": "phys_opt_1", "name": "光的传播", "grade": "八年级上", "focus": "直线传播与反射"},
+          {"topic_id": "phys_opt_2", "name": "透镜成像", "grade": "八年级下", "focus": "凸透镜成像规律"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "chemistry",
+      "name": "化学",
+      "areas": [
+        {"area_id": "basic", "name": "化学基础", "objectives": [
+          {"topic_id": "chem_basic_1", "name": "物质的变化", "grade": "九年级上", "focus": "物理变化与化学变化"},
+          {"topic_id": "chem_basic_2", "name": "空气与氧气", "grade": "九年级上", "focus": "空气成分与氧气性质"},
+          {"topic_id": "chem_basic_3", "name": "水与溶液", "grade": "九年级上", "focus": "水的组成与溶液概念"}
+        ]},
+        {"area_id": "elements", "name": "元素化合物", "objectives": [
+          {"topic_id": "chem_elem_1", "name": "金属与金属矿物", "grade": "九年级下", "focus": "金属性质与冶炼"},
+          {"topic_id": "chem_elem_2", "name": "酸与碱", "grade": "九年级下", "focus": "酸碱性质与中和反应"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "biology",
+      "name": "生物",
+      "areas": [
+        {"area_id": "cell", "name": "细胞", "objectives": [
+          {"topic_id": "bio_cell_1", "name": "细胞结构与功能", "grade": "七年级上", "focus": "动植物细胞对比"},
+          {"topic_id": "bio_cell_2", "name": "细胞分裂分化", "grade": "七年级上", "focus": "细胞生命周期"}
+        ]},
+        {"area_id": "organism", "name": "生物体", "objectives": [
+          {"topic_id": "bio_org_1", "name": "绿色植物", "grade": "七年级上", "focus": "光合作用与呼吸作用"},
+          {"topic_id": "bio_org_2", "name": "人体生理", "grade": "七年级下", "focus": "消化系统与循环系统"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "history",
+      "name": "历史",
+      "areas": [
+        {"area_id": "ancient", "name": "中国古代史", "objectives": [
+          {"topic_id": "hist_primitive_1", "name": "早期人类", "grade": "七年级上", "focus": "元谋人北京人"},
+          {"topic_id": "hist_dynasty_1", "name": "夏商周", "grade": "七年级上", "focus": "早期国家与社会变革"},
+          {"topic_id": "hist_dynasty_2", "name": "秦汉统一", "grade": "七年级上", "focus": "秦统一与汉武帝"},
+          {"topic_id": "hist_feudal_1", "name": "三国两晋南北朝", "grade": "七年级下", "focus": "政权分立与民族交融"},
+          {"topic_id": "hist_feudal_2", "name": "隋唐盛世", "grade": "七年级下", "focus": "贞观之治与开元盛世"}
+        ]},
+        {"area_id": "modern", "name": "中国近代史", "objectives": [
+          {"topic_id": "hist_modern_1", "name": "鸦片战争", "grade": "八年级上", "focus": "虎门销烟与南京条约"},
+          {"topic_id": "hist_modern_2", "name": "辛亥革命", "grade": "八年级上", "focus": "孙中山与共和"},
+          {"topic_id": "hist_modern_3", "name": "五四运动", "grade": "八年级下", "focus": "新民主主义开端"}
+        ]},
+        {"area_id": "contemporary", "name": "中国现代史", "objectives": [
+          {"topic_id": "hist_contemp_1", "name": "新中国成立", "grade": "八年级下", "focus": "1949年建国"},
+          {"topic_id": "hist_contemp_2", "name": "改革开放", "grade": "八年级下", "focus": "十一届三中全会"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "geography",
+      "name": "地理",
+      "areas": [
+        {"area_id": "nature_geo", "name": "自然地理", "objectives": [
+          {"topic_id": "geo_earth_1", "name": "地球形状大小", "grade": "七年级上", "focus": "地球仪与经纬网"},
+          {"topic_id": "geo_earth_2", "name": "地图阅读", "grade": "七年级上", "focus": "比例尺与图例"},
+          {"topic_id": "geo_climate_1", "name": "天气与气候", "grade": "七年级上", "focus": "天气预报与气候类型"}
+        ]},
+        {"area_id": "china_geo", "name": "中国地理", "objectives": [
+          {"topic_id": "geo_china_1", "name": "中国地形", "grade": "八年级上", "focus": "三大阶梯与主要地形"},
+          {"topic_id": "geo_china_2", "name": "中国气候", "grade": "八年级上", "focus": "季风气候特征"},
+          {"topic_id": "geo_china_3", "name": "中国河流", "grade": "八年级上", "focus": "长江黄河特征"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "morality",
+      "name": "道德与法治",
+      "areas": [
+        {"area_id": "constitution", "name": "宪法教育", "objectives": [
+          {"topic_id": "mor_const_1", "name": "宪法是根本法", "grade": "八年级上", "focus": "宪法地位与作用"},
+          {"topic_id": "mor_const_2", "name": "公民基本权利", "grade": "八年级下", "focus": "权利义务关系"}
+        ]},
+        {"area_id": "law", "name": "法律常识", "objectives": [
+          {"topic_id": "mor_law_1", "name": "法律的特征", "grade": "七年级上", "focus": "法律与道德区别"},
+          {"topic_id": "mor_law_2", "name": "未成年人保护", "grade": "七年级下", "focus": "四大保护体系"}
+        ]}
+      ]
+    },
+    {
+      "subject_id": "english",
+      "name": "英语",
+      "areas": [
+        {"area_id": "grammar", "name": "语法", "objectives": [
+          {"topic_id": "eng_grammar_1", "name": "一般现在时", "grade": "七年级上", "focus": "be动词与实义动词"},
+          {"topic_id": "eng_grammar_2", "name": "现在进行时", "grade": "七年级下", "focus": "be doing结构"},
+          {"topic_id": "eng_grammar_3", "name": "一般过去时", "grade": "八年级上", "focus": "动词过去式"},
+          {"topic_id": "eng_grammar_4", "name": "一般将来时", "grade": "八年级下", "focus": "will/be going to"},
+          {"topic_id": "eng_grammar_5", "name": "现在完成时", "grade": "九年级", "focus": "have/has done"}
+        ]},
+        {"area_id": "vocabulary", "name": "词汇", "objectives": [
+          {"topic_id": "eng_vocab_1", "name": "七年级核心词汇", "grade": "七年级", "focus": "课标1600词"},
+          {"topic_id": "eng_vocab_2", "name": "八年级核心词汇", "grade": "八年级", "focus": "课标2400词"},
+          {"topic_id": "eng_vocab_3", "name": "中考核心词汇", "grade": "九年级", "focus": "课标3000词"}
+        ]}
+      ]
+    }
+  ]
+}

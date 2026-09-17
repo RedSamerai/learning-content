@@ -1,0 +1,17 @@
+{
+  "topic_id": "bio_cell_2",
+  "name": "细胞分裂分化",
+  "grade": "七年级上",
+  "subject": "biology",
+  "focus": "细胞生命周期",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [],
+  "tags": [
+    "biology",
+    "七年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

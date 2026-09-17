@@ -1,0 +1,17 @@
+{
+  "topic_id": "eng_grammar_1",
+  "name": "一般现在时",
+  "grade": "七年级上",
+  "subject": "english",
+  "focus": "be动词与实义动词",
+  "explanation": "\n\n**一般现在时**表示经常发生的动作或一直存在的状态。\n\n**Be动词**（am/is/are）表示\"是\"或状态。\n- I **am** a student.（我是学生。）\n- She **is** tall.（她很高。）\n- They **are** friends.（他们是朋友。）\n\n**实义动词**表示具体动作，第三人称单数（he/she/it）动词后要加 **-s/-es**。\n- I **play** football every day.（我每天踢足球。）\n- He **plays** football every day.（他每天踢足球。）\n\n简单记：主语是I用am，主语是单数用is，其他用are；动作动词看主语，三人称单数加s。",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [],
+  "tags": [
+    "english",
+    "七年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}

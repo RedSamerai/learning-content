@@ -1,0 +1,17 @@
+{
+  "topic_id": "geo_china_3",
+  "name": "中国河流",
+  "grade": "八年级上",
+  "subject": "geography",
+  "focus": "长江黄河特征",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [],
+  "tags": [
+    "geography",
+    "八年级上"
+  ],
+  "difficulty": 1,
+  "created": "2026-09-17"
+}
