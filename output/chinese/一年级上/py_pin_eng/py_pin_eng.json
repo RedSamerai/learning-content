@@ -4,12 +4,9 @@
   "grade": "一年级上",
   "subject": "chinese",
   "focus": "eng的拼读",
-  "explanation": "",
+  "explanation": "\n\n小朋友，eng就像\"冷\"（lěng）和\"灯\"（dēng）的发音。先张大口发\"e\"，再把舌头往后缩，从鼻子发出\"ng\"的声音。\n\n试着拼一拼：\nb + eng = bēng（绷带）\np + eng = pēng（乒乒乓乓）\nm + eng = méng（蒙眼）\nf + eng = fēng（风筝）\n\n多读几遍，你就学会啦！",
   "quiz": "",
   "image": "image.png",
-  "audio": [
-    "audio_intro.mp3"
-  ],
   "tags": [
     "chinese",
     "一年级上"

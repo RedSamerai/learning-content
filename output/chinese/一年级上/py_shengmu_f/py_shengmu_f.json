@@ -4,12 +4,9 @@
   "grade": "一年级上",
   "subject": "chinese",
   "focus": "f与t区分",
-  "explanation": "",
+  "explanation": "\n\n## 声母 f\n\n**发音方法：** 上牙齿轻轻咬住下嘴唇，用力吹气，发出\"f——\"的声音。\n\n**形状记忆：** f 像一根拐杖，弯弯的柄朝上。\n\n**小口诀：** \"像根拐杖 fff，上牙咬唇 fff。\"\n\n**词语练习：** 翻（fān）纸、粉（fěn）笔、福（fú）气。\n\n**练习：** 多读几遍 f、fa、fo、fu，记住它的样子和声音哦！",
   "quiz": "",
   "image": "image.png",
-  "audio": [
-    "audio_intro.mp3"
-  ],
   "tags": [
     "chinese",
     "一年级上"

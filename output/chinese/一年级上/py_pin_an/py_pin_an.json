@@ -4,12 +4,9 @@
   "grade": "一年级上",
   "subject": "chinese",
   "focus": "an的拼读",
-  "explanation": "",
+  "explanation": "\n\n小朋友，\"an\"读作\"安\"，像\"安全\"的安一样哦！\n\n我们先发\"啊\"的音，再把鼻子堵住，让声音从鼻子里出来，就变成\"an\"啦！\n\n你可以这样读：a-n-an，an, an, an。\n\n记住哦，\"an\"是小嘴巴张大，然后鼻子嗡嗡叫！多读几遍，你就能掌握了！",
   "quiz": "",
   "image": "image.png",
-  "audio": [
-    "audio_intro.mp3"
-  ],
   "tags": [
     "chinese",
     "一年级上"

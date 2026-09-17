@@ -4,12 +4,9 @@
   "grade": "一年级上",
   "subject": "chinese",
   "focus": "e的发音",
-  "explanation": "",
+  "explanation": "\n\n# 单韵母 e\n\n大家好！今天我们认识一个新朋友——韵母 **e**。\n\n**怎么读？** 嘴巴轻轻张开，发 \"鹅\" 的音，就是 e 啦！\n\n**长什么样？** 圆圆的脑袋，弯弯的身体，就像一只在水里游的大白鹅 🦢\n\n**小口诀：** 白鹅水中游，ee e ee 叫。\n\n多读几遍就记住它啦！",
   "quiz": "",
   "image": "image.png",
-  "audio": [
-    "audio_intro.mp3"
-  ],
   "tags": [
     "chinese",
     "一年级上"
