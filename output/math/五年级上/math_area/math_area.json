@@ -1,0 +1,17 @@
+{
+  "topic_id": "math_area",
+  "name": "多边形面积",
+  "grade": "五年级上",
+  "subject": "math",
+  "focus": "平行四边形、三角形、梯形面积",
+  "explanation": "",
+  "quiz": "\n\n**1. 一个平行四边形的底是8cm，高是5cm，它的面积是多少？**\nA. 13cm²  \nB. 26cm²  \nC. 40cm²  \nD. 80cm²  \n\n**答案：C**（底×高=8×5=40cm²）\n\n---\n\n**2. 一个三角形的面积是24cm²，底是8cm，它的高是多少？**\nA. 3cm  \nB. 6cm  \nC. 9cm  \nD. 12cm  \n\n**答案：B**（高=面积×2÷底=24×2÷8=6cm）",
+  "image": "image.png",
+  "audio": [],
+  "tags": [
+    "math",
+    "五年级上"
+  ],
+  "difficulty": 7,
+  "created": "2026-09-17"
+}

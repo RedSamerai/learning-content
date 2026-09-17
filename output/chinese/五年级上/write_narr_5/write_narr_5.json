@@ -1,0 +1,17 @@
+{
+  "topic_id": "write_narr_5",
+  "name": "写一件小事",
+  "grade": "五年级上",
+  "subject": "chinese",
+  "focus": "内容具体，感情真实",
+  "explanation": "",
+  "quiz": "",
+  "image": "image.png",
+  "audio": [],
+  "tags": [
+    "chinese",
+    "五年级上"
+  ],
+  "difficulty": 7,
+  "created": "2026-09-17"
+}
