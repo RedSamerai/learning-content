@@ -1,0 +1,46 @@
+{
+  "topic_id": "py_b_d",
+  "name": "声母b和d",
+  "subject": "chinese",
+  "grade": "幼小衔接",
+  "content": {
+    "concept": "b像广播，d像马蹄，它们手拉手但方向相反",
+    "explanation": "小朋友，你看！b像一个小广播，竖笔加个小弯儿，播音员叔叔阿姨按着按钮滴滴滴~ d像小马的蹄印，左下半圆圆鼓鼓，跑步时哒哒哒响。b和d是一对好朋友，拉着手手，但是方向完全相反哦！",
+    "questions": [
+      {
+        "question": "哪个声母像广播？",
+        "options": [
+          "A. b",
+          "B. d",
+          "C. p",
+          "D. q"
+        ],
+        "answer": "A",
+        "explanation": "b的形状像广播，竖笔加右上的小弯。"
+      },
+      {
+        "question": "d像什么？",
+        "options": [
+          "A. 红旗",
+          "B. 雨伞",
+          "C. 马蹄",
+          "D. 小船"
+        ],
+        "answer": "C",
+        "explanation": "d像小马跑的蹄印，左下半圆像马蹄。"
+      },
+      {
+        "question": "b和d有什么不同？",
+        "options": [
+          "A. 大小不同",
+          "B. 方向相反",
+          "C. 颜色不同",
+          "D. 一样"
+        ],
+        "answer": "B",
+        "explanation": "b和d方向完全相反，像两个好朋友手拉手。"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T10:20:57.215620"
+}

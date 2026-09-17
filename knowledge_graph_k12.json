@@ -1,0 +1,267 @@
+{
+  "version": "2.0.0",
+  "created_at": "2026-09-17",
+  "source": "教育部《义务教育课程方案和课程标准(2022年版)》",
+  "description": "K12完整知识点图谱 - 幼小衔接+小学1-6年级",
+  
+  "subjects": [
+    {
+      "subject_id": "chinese",
+      "name": "语文",
+      "areas": [
+        {
+          "area_id": "pinyin",
+          "name": "汉语拼音（幼小衔接）",
+          "objectives": [
+            {
+              "obj_id": "cy_pinyin_1",
+              "name": "认识声母",
+              "topics": [
+                {"topic_id": "py_b_d", "name": "声母b和d", "grade": "幼小衔接", "time_min": 5},
+                {"topic_id": "py_f_t", "name": "声母f和t", "grade": "幼小衔接", "time_min": 5},
+                {"topic_id": "py_n_l", "name": "声母n和l", "grade": "幼小衔接", "time_min": 5},
+                {"topic_id": "py_g_k_h", "name": "声母g、k、h", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_j_q_x", "name": "声母j、q、x", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_zh_ch_sh_r", "name": "声母zh、ch、sh、r", "grade": "幼小衔接", "time_min": 10}
+              ]
+            },
+            {
+              "obj_id": "cy_pinyin_2",
+              "name": "认识韵母",
+              "topics": [
+                {"topic_id": "py_a_o_e", "name": "韵母a、o、e", "grade": "幼小衔接", "time_min": 5},
+                {"topic_id": "py_i_u_v", "name": "韵母i、u、v", "grade": "幼小衔接", "time_min": 5},
+                {"topic_id": "py_ai ei ui", "name": "复韵母ai、ei、ui", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_ao ou iu", "name": "复韵母ao、ou、iu", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_ie ue er", "name": "复韵母ie、ue、er", "grade": "幼小衔接", "time_min": 10}
+              ]
+            },
+            {
+              "obj_id": "cy_pinyin_3",
+              "name": "声调与拼读",
+              "topics": [
+                {"topic_id": "py_shengdiao", "name": "四声调认识", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_pin du", "name": "拼音拼读练习", "grade": "幼小衔接", "time_min": 15}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "characters",
+          "name": "识字与写字（幼小衔接）",
+          "objectives": [
+            {
+              "obj_id": "cy_char_1",
+              "name": "认识常用汉字",
+              "topics": [
+                {"topic_id": "py_char_100", "name": "认识100个常用字", "grade": "幼小衔接", "time_min": 20},
+                {"topic_id": "py_char_name", "name": "认识自己的名字", "grade": "幼小衔接", "time_min": 5}
+              ]
+            },
+            {
+              "obj_id": "cy_char_2",
+              "name": "简单汉字书写",
+              "topics": [
+                {"topic_id": "py_write_heaven", "name": "写'天'和'地'", "grade": "幼小衔接", "time_min": 10},
+                {"topic_id": "py_write_human", "name": "写'人'和'大'", "grade": "幼小衔接", "time_min": 10}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "reading",
+          "name": "阅读与表达",
+          "objectives": [
+            {
+              "obj_id": "cy_read_1",
+              "name": "看图说话",
+              "topics": [
+                {"topic_id": "py_look_talk_1", "name": "看图说一句话", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "py_look_talk_2", "name": "看图说两段话", "grade": "一年级下", "time_min": 15}
+              ]
+            },
+            {
+              "obj_id": "cy_read_2",
+              "name": "课文朗读",
+              "topics": [
+                {"topic_id": "py_read_lesson1", "name": "朗读课文《秋天》", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "py_read_lesson2", "name": "朗读课文《小蝌蚪找妈妈》", "grade": "一年级下", "time_min": 15}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": "math",
+      "name": "数学",
+      "areas": [
+        {
+          "area_id": "number_count",
+          "name": "数与运算",
+          "objectives": [
+            {
+              "obj_id": "math_num_1",
+              "name": "10以内数的认识",
+              "topics": [
+                {"topic_id": "math_py_count_10", "name": "数数1-10", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_compare", "name": "比大小", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_order", "name": "数的顺序", "grade": "一年级上", "time_min": 10}
+              ]
+            },
+            {
+              "obj_id": "math_num_2",
+              "name": "10以内加减法",
+              "topics": [
+                {"topic_id": "math_py_add_5", "name": "5以内的加法", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "math_py_sub_5", "name": "5以内的减法", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "math_py_add_10", "name": "10以内的加法", "grade": "一年级上", "time_min": 20},
+                {"topic_id": "math_py_sub_10", "name": "10以内的减法", "grade": "一年级上", "time_min": 20}
+              ]
+            },
+            {
+              "obj_id": "math_num_3",
+              "name": "20以内数的认识",
+              "topics": [
+                {"topic_id": "math_py_count_20", "name": "数数1-20", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_write_20", "name": "写数1-20", "grade": "一年级上", "time_min": 15}
+              ]
+            },
+            {
+              "obj_id": "math_num_4",
+              "name": "20以内进位加法",
+              "topics": [
+                {"topic_id": "math_py_add_20_1", "name": "9加几", "grade": "一年级上", "time_min": 20},
+                {"topic_id": "math_py_add_20_2", "name": "8、7、6加几", "grade": "一年级上", "time_min": 20},
+                {"topic_id": "math_py_add_20_3", "name": "5、4、3、2加几", "grade": "一年级上", "time_min": 20}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "geometry",
+          "name": "图形与几何",
+          "objectives": [
+            {
+              "obj_id": "math_geo_1",
+              "name": "认识图形",
+              "topics": [
+                {"topic_id": "math_py_shape_1", "name": "认识长方体", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_shape_2", "name": "认识正方体", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_shape_3", "name": "认识圆柱", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_shape_4", "name": "认识球", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "math_py_flat_shape", "name": "认识平面图形", "grade": "一年级下", "time_min": 15}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "measurement",
+          "name": "量的计量",
+          "objectives": [
+            {
+              "obj_id": "math_meas_1",
+              "name": "认识钟表",
+              "topics": [
+                {"topic_id": "math_py_clock_1", "name": "认识整时", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "math_py_clock_2", "name": "认识半时", "grade": "一年级上", "time_min": 15}
+              ]
+            },
+            {
+              "obj_id": "math_meas_2",
+              "name": "认识人民币",
+              "topics": [
+                {"topic_id": "math_py_money_1", "name": "认识元角分", "grade": "一年级下", "time_min": 20}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": "science",
+      "name": "科学",
+      "areas": [
+        {
+          "area_id": "life_science",
+          "name": "生命科学",
+          "objectives": [
+            {
+              "obj_id": "sci_life_1",
+              "name": "认识动植物",
+              "topics": [
+                {"topic_id": "sci_py_plant_1", "name": "观察校园里的植物", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "sci_py_animal_1", "name": "认识常见的动物", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "sci_py_plant_need", "name": "植物生长需要什么", "grade": "二年级上", "time_min": 20}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "matter_science",
+          "name": "物质科学",
+          "objectives": [
+            {
+              "obj_id": "sci_matter_1",
+              "name": "认识水和空气",
+              "topics": [
+                {"topic_id": "sci_py_water_1", "name": "水的特征", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "sci_py_air_1", "name": "空气的特点", "grade": "一年级上", "time_min": 15}
+              ]
+            },
+            {
+              "obj_id": "sci_matter_2",
+              "name": "物体的性质",
+              "topics": [
+                {"topic_id": "sci_py_hard_soft", "name": "软硬比较", "grade": "二年级上", "time_min": 15},
+                {"topic_id": "sci_py_float_sink", "name": "浮与沉", "grade": "二年级上", "time_min": 20}
+              ]
+            }
+          ]
+        },
+        {
+          "area_id": "earth_space",
+          "name": "地球与宇宙",
+          "objectives": [
+            {
+              "obj_id": "sci_earth_1",
+              "name": "天气与季节",
+              "topics": [
+                {"topic_id": "sci_py_weather_1", "name": "认识天气", "grade": "一年级上", "time_min": 15},
+                {"topic_id": "sci_py_season_1", "name": "四季的变化", "grade": "一年级下", "time_min": 20}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject_id": " morality",
+      "name": "道德与法治",
+      "areas": [
+        {
+          "area_id": "self_care",
+          "name": "养成良好的生活习惯",
+          "objectives": [
+            {
+              "obj_id": "moral_1",
+              "name": "日常行为习惯",
+              "topics": [
+                {"topic_id": "mor_py_good habit_1", "name": "早睡早起", "grade": "一年级上", "time_min": 10},
+                {"topic_id": "mor_py_clean_1", "name": "讲卫生勤洗手", "grade": "一年级上", "time_min": 10}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  
+  "statistics": {
+    "total_subjects": 4,
+    "total_areas": 8,
+    "total_objectives": 11,
+    "total_topics": 42,
+    "last_updated": "2026-09-17"
+  }
+}

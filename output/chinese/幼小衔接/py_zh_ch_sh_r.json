@@ -1,0 +1,46 @@
+{
+  "topic_id": "py_zh_ch_sh_r",
+  "name": "声母zh、ch、sh、r",
+  "subject": "chinese",
+  "grade": "幼小衔接",
+  "content": {
+    "concept": "zh、ch、sh是翘舌音，发音时舌头要往上卷；r比sh轻轻加点震动",
+    "explanation": "小朋友们，今天认识四个翘舌音朋友！zh像‘知’道知识；ch像‘吃’苹果；sh像‘书’包；r像‘日’出太阳。发这四个音时，小舌头要往上卷，贴在口腔后面。记住：ch比zh声音更强，sh比ch轻轻一点，r最特别——它是唯一带震动的！",
+    "questions": [
+      {
+        "question": "‘吃’苹果的声母是什么？",
+        "options": [
+          "A.zh",
+          "B.ch",
+          "C.sh",
+          "D.r"
+        ],
+        "answer": "B",
+        "explanation": "'吃'的声母是ch，发音时舌头卷起，声音有力"
+      },
+      {
+        "question": "下列哪个声母带震动？",
+        "options": [
+          "A.zh",
+          "B.ch",
+          "C.sh",
+          "D.r"
+        ],
+        "answer": "D",
+        "explanation": "r是翘舌音中唯一带震动的，摸喉咙能感到微微发抖"
+      },
+      {
+        "question": "'书'的声母怎么读？",
+        "options": [
+          "A.zh",
+          "B.ch",
+          "C.sh",
+          "D.r"
+        ],
+        "answer": "C",
+        "explanation": "'书'的声母是sh，声音像小蛇吐信，轻轻呼出来"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T10:22:45.940439"
+}

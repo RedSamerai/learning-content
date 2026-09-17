@@ -1,0 +1,46 @@
+{
+  "topic_id": "py_j_q_x",
+  "name": "声母j、q、x",
+  "subject": "chinese",
+  "grade": "幼小衔接",
+  "content": {
+    "concept": "j、q、x是三个有趣的声母，发音时嘴巴要圆圆的小巧。",
+    "explanation": "j像小鸡叽叽叫，q像气球飞上天，x像十字交叉路。读j时嘴巴微张，读q时要轻轻送气，读x时嘴角向两边拉开。比如：小鸡吃米j j j，气球起飞q q q，剪刀剪纸x x x。记住它们哦！",
+    "questions": [
+      {
+        "question": "声母j的发音像什么动物？",
+        "options": [
+          "A. 小狗汪汪叫",
+          "B. 小鸡叽叽叫",
+          "C. 小猫喵喵叫",
+          "D. 小鸭嘎嘎叫"
+        ],
+        "answer": "B",
+        "explanation": "j的发音像小鸡叽叽叫。"
+      },
+      {
+        "question": "声母q像什么？",
+        "options": [
+          "A. 小鱼游水",
+          "B. 小狗跑步",
+          "C. 气球飞上天",
+          "D. 小鸟唱歌"
+        ],
+        "answer": "C",
+        "explanation": "q的形状像气球飞上天。"
+      },
+      {
+        "question": "读x时嘴巴应该怎样？",
+        "options": [
+          "A. 嘴巴张大",
+          "B. 嘴角向两边拉开",
+          "C. 嘴巴圆成小口",
+          "D. 闭紧嘴唇"
+        ],
+        "answer": "B",
+        "explanation": "读x时嘴角向两边拉开。"
+      }
+    ]
+  },
+  "created_at": "2026-09-17T10:22:28.039385"
+}
