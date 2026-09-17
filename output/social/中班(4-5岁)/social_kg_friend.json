@@ -44,18 +44,5 @@
   },
   "created_at": "2026-09-17T00:09:18.438979",
   "explanation": "\n\n想交朋友，你可以这样做：\n\n**第一步：勇敢说\"你好！\"**\n看见新朋友，微笑挥挥手，说一句\"你好，我叫××\"。\n\n**第二步：分享你的宝贝**\n\"我们一起玩小车吧！\"把玩具分享出去，大家更爱和你玩。\n\n**第三步：一起做游戏**\n\"你能和我一起玩吗？\"大家一起搭积木、画画，你会交到更多朋友。\n\n**记住：** 对朋友友好，朋友也会对你好。祝你有很多好朋友！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

@@ -41,14 +41,5 @@
   },
   "created_at": "2026-09-17T00:39:33.149783",
   "explanation": "\n\n涂鸦画画就是拿起笔，在纸上自由自在地画你想要的东西！不用怕画得不好，也不用跟着模板描，想到什么就画什么——可以是小怪兽、彩虹房子，或者你想象的宇宙飞船。涂鸦就像在和纸聊天，让你把心里的想法和开心都画出来，是最有趣又最自由的艺术！大胆去画吧！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

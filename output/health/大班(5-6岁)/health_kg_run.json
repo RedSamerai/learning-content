@@ -44,12 +44,5 @@
   },
   "created_at": "2026-09-16T23:58:19.769810",
   "explanation": "\n\n小朋友们，15米大约就是从教室这头跑到那头那么远。\"能快跑15米\"就是说，你可以像小兔子一样\"嗖\"地一下，很快地从这边跑到那边，中途不停下来。试试看，你能不能又快又稳地跑完这15米呢？加油！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

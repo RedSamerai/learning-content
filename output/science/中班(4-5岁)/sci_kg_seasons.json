@@ -44,22 +44,5 @@
   },
   "created_at": "2026-09-17T00:29:36.186569",
   "explanation": "\n\n春夏秋冬，一年有四个季节。\n\n春天暖和了，花儿开了，小草绿了。\n\n夏天热热的，太阳公公笑哈哈，可以去游泳啦！\n\n秋天凉凉的，树叶变黄、变红，像蝴蝶一样飘下来。\n\n冬天冷冷的，有时会下雪，可以堆雪人、打雪仗！\n\n每个季节都不一样，穿的衣服也不一样。你喜欢哪个季节呢？",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

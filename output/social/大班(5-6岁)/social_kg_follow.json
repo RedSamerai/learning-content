@@ -43,14 +43,6 @@
     ]
   },
   "created_at": "2026-09-17T00:18:27.705472",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": [],
+  "explanation": "\n\n玩游戏就像大家一起搭积木：你玩你的，我玩我的，但都要按同一本说明书来。\n\n规则就是大家都 agreed 的规则，比如排队、轮流、不能 cheating。\n\n有规则，游戏才好玩！没有规则，大家会吵架，玩不下去。\n\n所以，守规则 = 让每个人都开心！"
 }

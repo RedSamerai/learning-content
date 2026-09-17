@@ -44,14 +44,5 @@
   },
   "created_at": "2026-09-17T00:38:08.387073",
   "explanation": "\n\n小朋友画的画，每一幅都很棒！因为里面有最珍贵的宝贝——你的想象力和真心。看看那歪歪的太阳、彩色的树，是不是很有趣？画里没有对错，只有你心里的奇妙世界。所以我们要竖起大拇指，说：我欣赏你的画！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

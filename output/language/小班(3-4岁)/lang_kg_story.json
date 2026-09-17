@@ -41,16 +41,5 @@
   },
   "created_at": "2026-09-17T00:06:25.243070",
   "explanation": "\n\n小朋友们，绘本里住着好多有趣的朋友！有蹦蹦跳跳的小兔子，有会说话的小汽车，还有魔法公主。翻开书，就能和他们一起冒险、一起笑。每天看一本，你的小脑袋会越来越聪明。绘本是你最好的朋友，快来和它交朋友吧！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

@@ -43,14 +43,6 @@
     ]
   },
   "created_at": "2026-09-17T00:10:00.498901",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": [],
+  "explanation": "\n\n你好呀！见到朋友要说\"你好\"，早上见到老师说\"早上好\"。和朋友分开要说\"再见\"，得到帮助要说\"谢谢\"，不小心碰到别人要说\"对不起\"。说了这些礼貌话，大家都会喜欢你，愿意和你一起玩。记住这几个魔法词，你会有好多好朋友！"
 }

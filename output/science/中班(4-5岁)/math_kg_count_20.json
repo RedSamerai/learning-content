@@ -44,22 +44,5 @@
   },
   "created_at": "2026-09-17T00:32:12.655067",
   "explanation": "\n\n我来教你数1到20！\n\n1、2、3、4、5、6、7、8、9、10，然后11、12、13、14、15、16、17、18、19、20。\n\n我们可以边拍手边数，或者用小积木来数。先数1到10，再数10到20，就像爬楼梯一样，一步一步往上数。多练习，你就能很快数完啦！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

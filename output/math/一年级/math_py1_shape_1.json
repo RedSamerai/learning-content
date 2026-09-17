@@ -23,12 +23,5 @@
   },
   "created_at": 305245.718,
   "explanation": "\n\n小朋友们，长方体就像一座小房子！它有6个平平的面，每个面都是长方形（有的特殊情况下也可能是正方形）。相对的两个面大小完全一样，摸起来方方的、直直的。比如你们的数学书、积木、文具盒，还有家里的鞋盒、牛奶盒，都是长方体哦！找找看，你周围还有哪些长方体？",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

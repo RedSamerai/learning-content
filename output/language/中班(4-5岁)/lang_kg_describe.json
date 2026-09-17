@@ -44,16 +44,5 @@
   },
   "created_at": "2026-09-17T00:04:57.669788",
   "explanation": "\n\n\"看图说话\"就是看一张画，然后用小嘴巴把画里讲的故事说出来。\n\n比如图中有小兔在吃萝卜，你可以说：\"我看见一只小白兔，它正在草地上吃胡萝卜，看起来真开心！\"\n\n看图时，先仔细看图画里有什么人、什么动物、在做什么。看清楚后，再慢慢用完整的句子说出来。多练习，你就能变成\"故事小达人\"！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

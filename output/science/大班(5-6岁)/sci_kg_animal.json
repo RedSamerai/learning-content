@@ -44,12 +44,5 @@
   },
   "created_at": "2026-09-17T00:30:07.980070",
   "explanation": "\n\n动物也有自己的小窝。小鸟的家是树梢上的鸟巢，蝴蝶的家是漂亮的花朵，小狗的家是人给它搭的小棚子。每个小动物都爱自己的家，那里温暖又安全。我们小朋友也有家，要像爱护动物一样爱护它们的家哦！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

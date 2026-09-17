@@ -43,14 +43,6 @@
     ]
   },
   "created_at": "2026-09-17T00:25:28.094496",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": [],
+  "explanation": "\n\n小朋友，我们是中国人，住在一个大大的国家叫中国。这里有很多高楼、大山和美丽的风景。我们用汉语说话，过春节、中秋节这些传统节日。中国人很勤劳、勇敢，爱帮助人。你也是中国人，这很了不起！你要好好学习和长大，为祖国的骄傲。"
 }

@@ -44,22 +44,5 @@
   },
   "created_at": "2026-09-17T00:35:25.314232",
   "explanation": "\n\n我来教你认识四个方向词：\n\n**上**：往上，比如小鸟在树上。\n**下**：往下，比如球在地上。\n**里**：在里面，比如苹果在箱子里。\n**外**：在外面，比如老师在教室外。\n\n玩个小游戏：把手**上**举，放脚下，把玩具放盒**里**，再拿出盒**外**。记住：上对下，里对外！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }

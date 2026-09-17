@@ -44,12 +44,5 @@
   },
   "created_at": "2026-09-17T00:28:43.025031",
   "explanation": "\n\n同学们好！今天我们来玩一个\"沉浮\"小实验。\n\n准备一盆水、小石头、塑料积木和硬币。猜猜看，把它们放进水里会怎样？\n\n石头和硬币会\"扑通\"沉下去，像小潜水员。塑料积木会\"漂\"在水面上，像小船。\n\n为什么会这样？重的东西容易沉，轻的东西容易浮。形状也有影响哦！\n\n你们也想试试吗？快动手做一做吧！",
-  "audio": [
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3",
-    "audio_concept.mp3",
-    "audio_explanation.mp3"
-  ]
+  "audio": []
 }
