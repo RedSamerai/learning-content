@@ -1,0 +1,384 @@
+
+============================================================
+补全缺失知识点开始时间: 2026-09-19 11:20:37
+============================================================
+
+[1/22] 处理: 英语三年级上1260
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[2/22] 处理: 英语四年级下1373
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[3/22] 处理: 英语四年级下1380
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[4/22] 处理: 英语六年级上1470
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[5/22] 处理: 科学三年级上1505
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[6/22] 处理: 科学六年级上1595
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[7/22] 处理: 数学八年级上1781
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[8/22] 处理: 数学八年级下1872
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[9/22] 处理: 数学九年级下2011
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[10/22] 处理: 物理九年级全一册2236
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[11/22] 处理: 物理九年级全一册2271
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[12/22] 处理: 物理九年级全一册2289
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[13/22] 处理: 物理九年级全一册2322
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[14/22] 处理: 物理九年级全一册2334
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[15/22] 处理: 化学九年级上2363
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[16/22] 处理: 化学九年级下2501
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[17/22] 处理: 化学九年级下2573
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[18/22] 处理: 英语七年级上2697
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[19/22] 处理: 英语七年级下2771
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[20/22] 处理: 英语九年级全一册2999
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[21/22] 处理: 历史八年级上3095
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[22/22] 处理: 历史八年级下3146
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+
+补全完成时间: 2026-09-19 11:22:09
+成功: 0个
+失败: 22个
+总耗时: 92.9秒
+
+============================================================
+补全缺失知识点开始时间: 2026-09-19 11:22:30
+============================================================
+
+[1/22] 处理: 英语三年级上1260
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[2/22] 处理: 英语四年级下1373
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[3/22] 处理: 英语四年级下1380
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[4/22] 处理: 英语六年级上1470
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[5/22] 处理: 科学三年级上1505
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[6/22] 处理: 科学六年级上1595
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[7/22] 处理: 数学八年级上1781
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[8/22] 处理: 数学八年级下1872
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[9/22] 处理: 数学九年级下2011
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[10/22] 处理: 物理九年级全一册2236
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[11/22] 处理: 物理九年级全一册2271
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[12/22] 处理: 物理九年级全一册2289
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[13/22] 处理: 物理九年级全一册2322
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[14/22] 处理: 物理九年级全一册2334
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[15/22] 处理: 化学九年级上2363
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[16/22] 处理: 化学九年级下2501
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[17/22] 处理: 化学九年级下2573
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[18/22] 处理: 英语七年级上2697
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[19/22] 处理: 英语七年级下2771
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[20/22] 处理: 英语九年级全一册2999
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[21/22] 处理: 历史八年级上3095
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[22/22] 处理: 历史八年级下3146
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+
+补全完成时间: 2026-09-19 11:24:04
+成功: 0个
+失败: 22个
+总耗时: 93.7秒
+
+============================================================
+补全缺失知识点开始时间: 2026-09-19 11:24:16
+============================================================
+
+[1/22] 处理: 英语三年级上1260
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[2/22] 处理: 英语四年级下1373
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[3/22] 处理: 英语四年级下1380
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[4/22] 处理: 英语六年级上1470
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[5/22] 处理: 科学三年级上1505
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[6/22] 处理: 科学六年级上1595
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[7/22] 处理: 数学八年级上1781
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[8/22] 处理: 数学八年级下1872
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[9/22] 处理: 数学九年级下2011
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[10/22] 处理: 物理九年级全一册2236
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[11/22] 处理: 物理九年级全一册2271
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[12/22] 处理: 物理九年级全一册2289
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[13/22] 处理: 物理九年级全一册2322
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[14/22] 处理: 物理九年级全一册2334
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[15/22] 处理: 化学九年级上2363
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[16/22] 处理: 化学九年级下2501
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[17/22] 处理: 化学九年级下2573
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[18/22] 处理: 英语七年级上2697
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[19/22] 处理: 英语七年级下2771
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[20/22] 处理: 英语九年级全一册2999
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[21/22] 处理: 历史八年级上3095
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[22/22] 处理: 历史八年级下3146
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+
+补全完成时间: 2026-09-19 11:25:50
+成功: 0个
+失败: 22个
+总耗时: 93.4秒
+
+============================================================
+补全缺失知识点开始时间: 2026-09-19 11:27:30
+============================================================
+
+[1/22] 处理: 英语三年级上1260
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[2/22] 处理: 英语四年级下1373
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[3/22] 处理: 英语四年级下1380
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[4/22] 处理: 英语六年级上1470
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[5/22] 处理: 科学三年级上1505
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[6/22] 处理: 科学六年级上1595
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[7/22] 处理: 数学八年级上1781
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[8/22] 处理: 数学八年级下1872
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[9/22] 处理: 数学九年级下2011
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[10/22] 处理: 物理九年级全一册2236
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[11/22] 处理: 物理九年级全一册2271
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[12/22] 处理: 物理九年级全一册2289
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[13/22] 处理: 物理九年级全一册2322
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[14/22] 处理: 物理九年级全一册2334
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[15/22] 处理: 化学九年级上2363
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[16/22] 处理: 化学九年级下2501
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[17/22] 处理: 化学九年级下2573
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[18/22] 处理: 英语七年级上2697
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[19/22] 处理: 英语七年级下2771
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[20/22] 处理: 英语九年级全一册2999
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[21/22] 处理: 历史八年级上3095
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+  等待4秒...
+
+[22/22] 处理: 历史八年级下3146
+  失败: ERROR: 'latin-1' codec can't encode characters in position 13-15: ordinal not in range(256)
+
+补全完成时间: 2026-09-19 11:29:03
+成功: 0个
+失败: 22个
+总耗时: 93.5秒
