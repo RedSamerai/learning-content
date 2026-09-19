@@ -40348,17 +40348,6 @@
     "key_points": ""
   },
   {
-    "id": "语文二年级上-古诗二首",
-    "subject": "语文",
-    "grade": "二年级上",
-    "chapter": "",
-    "topic": "古诗二首",
-    "description": "",
-    "explanation": "",
-    "example": "",
-    "key_points": ""
-  },
-  {
     "id": "语文二年级上-黄山奇石",
     "subject": "语文",
     "grade": "二年级上",
@@ -42394,17 +42383,6 @@
     "key_points": ""
   },
   {
-    "id": "语文五年级下-杨氏之子",
-    "subject": "语文",
-    "grade": "五年级下",
-    "chapter": "",
-    "topic": "杨氏之子",
-    "description": "",
-    "explanation": "",
-    "example": "",
-    "key_points": ""
-  },
-  {
     "id": "语文五年级下-手指",
     "subject": "语文",
     "grade": "五年级下",
@@ -42421,17 +42399,6 @@
     "grade": "五年级下",
     "chapter": "",
     "topic": "童年的发现",
-    "description": "",
-    "explanation": "",
-    "example": "",
-    "key_points": ""
-  },
-  {
-    "id": "语文五年级下-杨氏之子",
-    "subject": "语文",
-    "grade": "五年级下",
-    "chapter": "",
-    "topic": "杨氏之子",
     "description": "",
     "explanation": "",
     "example": "",
@@ -44856,5 +44823,965 @@
     "explanation": "",
     "example": "",
     "key_points": ""
+  },
+  {
+    "id": "英语一年级上-001",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "打招呼",
+    "description": "学习简单的英语问候语",
+    "content": "在英语中，最常用的打招呼方式是 'Hello' 和 'Hi'。'Hello' 比较正式，可以用于任何场合；'Hi' 比较随意，常用于朋友之间。回答时也可以用 'Hello' 或 'Hi'。此外，还可以说 'Good morning'（早上好），用于上午的问候。",
+    "example": "A: Hello! B: Hello! A: Hi! How are you? B: I'm fine, thank you."
+  },
+  {
+    "id": "英语一年级上-002",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "介绍自己",
+    "description": "学习用英语介绍自己的名字",
+    "content": "介绍自己时，可以说 'My name is...' 或 'I'm...'。例如：'My name is Tom.' 或 'I'm Tom.' 当别人问你名字时，可以回答 'My name is...' 或简单地说 'I'm...'。这是最基本的自我介绍方式。",
+    "example": "A: What's your name? B: My name is Lily. / I'm Lily."
+  },
+  {
+    "id": "英语一年级上-003",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "课堂指令-听",
+    "description": "学习'听'的英语表达",
+    "content": "'Listen' 是'听'的意思，常用于课堂指令。老师会说 'Listen to me'（听我说）或 'Listen and repeat'（听并重复）。学生听到这些指令后要仔细听，然后模仿发音。",
+    "example": "Teacher: Listen to me. Students: (listening carefully)"
+  },
+  {
+    "id": "英语一年级上-004",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "课堂指令-看",
+    "description": "学习'看'的英语表达",
+    "content": "'Look' 是'看'的意思，常用于引起注意。老师会说 'Look at the board'（看黑板）或 'Look and say'（看并说）。学生要根据指令看向指定位置，然后用英语说出看到的内容。",
+    "example": "Teacher: Look at the picture. Students: (looking at the picture and describing)"
+  },
+  {
+    "id": "英语一年级上-005",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "课堂指令-说",
+    "description": "学习'说'的英语表达",
+    "content": "'Say' 是'说'的意思，常用于课堂活动。老师会说 'Say after me'（跟我读）或 'Read after me'（跟我读）。学生要模仿老师的发音，准确读出单词或句子。",
+    "example": "Teacher: Say after me. / Read after me. Students: (repeating)"
+  },
+  {
+    "id": "英语一年级上-006",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "学校用品-书",
+    "description": "学习'书'的英语单词",
+    "content": "'Book' 是'书'的意思，是可数名词。单数形式是 'a book'，复数形式是 'books'。可以用来表示'一本书'（a book）或'一些书'（some books）。在学校里，book是最常用的学习用品之一。",
+    "example": "I have a book. / I have three books."
+  },
+  {
+    "id": "英语一年级上-007",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "学校用品-铅笔",
+    "description": "学习'铅笔'的英语单词",
+    "content": "'Pencil' 是'铅笔'的意思。单数形式是 'a pencil'，复数形式是 'pencils'。铅笔是学生常用的书写工具，可以用来写字、画画等。",
+    "example": "I have a pencil. / I have two pencils."
+  },
+  {
+    "id": "英语一年级上-008",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "学校用品-尺子",
+    "description": "学习'尺子'的英语单词",
+    "content": "'Ruler' 是'尺子'的意思。单数形式是 'a ruler'，复数形式是 'rulers'。尺子可以用来画直线、测量长度等，是学生数学课常用的工具。",
+    "example": "I have a ruler. / Please give me a ruler."
+  },
+  {
+    "id": "英语一年级上-009",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "学校用品-书包",
+    "description": "学习'书包'的英语单词",
+    "content": "'Schoolbag' 是'书包'的意思，是由'school'（学校）和'bag'（包）组成的复合词。单数形式是 'a schoolbag'，复数形式是 'schoolbags'。书包用来装书本和学习用品。",
+    "example": "I have a schoolbag. / My schoolbag is blue."
+  },
+  {
+    "id": "英语一年级上-010",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 1 School",
+    "topic": "学校用品-橡皮",
+    "description": "学习'橡皮'的英语单词",
+    "content": "'Eraser' 是'橡皮'的意思，用于擦除铅笔写的字。单数形式是 'an eraser'，复数形式是 'erasers'。因为eraser以元音音素开头，所以要用'an'而不是'a'。",
+    "example": "I have an eraser. / Can I borrow your eraser?"
+  },
+  {
+    "id": "英语一年级上-011",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-眼睛",
+    "description": "学习'眼睛'的英语单词",
+    "content": "'Eye' 是'眼睛'的意思。人有两只眼睛，所以通常用复数形式 'eyes'。可以用来说'我有两只眼睛'（I have two eyes）或'摸摸你的眼睛'（Touch your eyes）。",
+    "example": "I have two eyes. / Touch your eyes."
+  },
+  {
+    "id": "英语一年级上-012",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-耳朵",
+    "description": "学习'耳朵'的英语单词",
+    "content": "'Ear' 是'耳朵'的意思。人有两个耳朵，所以通常用复数形式 'ears'。可以用来说'我有两只耳朵'（I have two ears）或'摸摸你的耳朵'（Touch your ears）。",
+    "example": "I have two ears. / Touch your ears."
+  },
+  {
+    "id": "英语一年级上-013",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-鼻子",
+    "description": "学习'鼻子'的英语单词",
+    "content": "'Nose' 是'鼻子'的意思。人有只有一个鼻子。可以用来说'这是我的鼻子'（This is my nose）或'摸摸你的鼻子'（Touch your nose）。",
+    "example": "This is my nose. / Touch your nose."
+  },
+  {
+    "id": "英语一年级上-014",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-嘴巴",
+    "description": "学习'嘴巴'的英语单词",
+    "content": "'Mouth' 是'嘴巴'的意思。人有只有一个嘴巴。可以用来说'这是我的嘴巴'（This is my mouth）或'摸摸你的嘴巴'（Touch your mouth）。",
+    "example": "This is my mouth. / Open your mouth."
+  },
+  {
+    "id": "英语一年级上-015",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-脸",
+    "description": "学习'脸'的英语单词",
+    "content": "'Face' 是'脸'的意思。人有只有一个脸。可以用来说'这是我的脸'（This is my face）或'摸摸你的脸'（Touch your face）。",
+    "example": "This is my face. / Touch your face."
+  },
+  {
+    "id": "英语一年级上-016",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-头",
+    "description": "学习'头'的英语单词",
+    "content": "'Head' 是'头'的意思。人有只有一个头。可以用来说'这是我的头'（This is my head）或'摸摸你的头'（Touch your head）。",
+    "example": "This is my head. / Touch your head."
+  },
+  {
+    "id": "英语一年级上-017",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-手",
+    "description": "学习'手'的英语单词",
+    "content": "'Hand' 是'手'的意思。人有两只手，所以通常用复数形式 'hands'。可以用来说'我有两只手'（I have two hands）或'拍拍你的手'（Clap your hands）。",
+    "example": "I have two hands. / Clap your hands."
+  },
+  {
+    "id": "英语一年级上-018",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 2 Face",
+    "topic": "身体部位-脚",
+    "description": "学习'脚'的英语单词",
+    "content": "'Foot' 是'脚'的意思，复数形式是不规则的 'feet'。人有两只脚。可以用来说'我有两只脚'（I have two feet）或'摸摸你的脚'（Touch your feet）。",
+    "example": "I have two feet. / Touch your feet."
+  },
+  {
+    "id": "英语一年级上-019",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-猫",
+    "description": "学习'猫'的英语单词",
+    "content": "'Cat' 是'猫'的意思。单数形式是 'a cat'，复数形式是 'cats'。猫是一种常用的家养宠物，喜欢抓老鼠。可以用来说'这是一只猫'（This is a cat）或'我喜欢猫'（I like cats）。",
+    "example": "This is a cat. / I have a cat."
+  },
+  {
+    "id": "英语一年级上-020",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-狗",
+    "description": "学习'狗'的英语单词",
+    "content": "'Dog' 是'狗'的意思。单数形式是 'a dog'，复数形式是 'dogs'。狗是人类忠实的朋友，可以看家护院。可以用来说'这是一只狗'（This is a dog）或'我喜欢狗'（I like dogs）。",
+    "example": "This is a dog. / I have a dog."
+  },
+  {
+    "id": "英语一年级上-021",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-鸟",
+    "description": "学习'鸟'的英语单词",
+    "content": "'Bird' 是'鸟'的意思。单数形式是 'a bird'，复数形式是 'birds'。鸟会飞，生活在树上或天空中。可以用来说'这是一只鸟'（This is a bird）或'我喜欢鸟'（I like birds）。",
+    "example": "This is a bird. / I see a bird."
+  },
+  {
+    "id": "英语一年级上-022",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-猴子",
+    "description": "学习'猴子'的英语单词",
+    "content": "'Monkey' 是'猴子'的意思。单数形式是 'a monkey'，复数形式是 'monkeys'。猴子喜欢爬树，吃香蕉。可以用来说'这是一只猴子'（This is a monkey）或'我喜欢猴子'（I like monkeys）。",
+    "example": "This is a monkey. / I see a monkey."
+  },
+  {
+    "id": "英语一年级上-023",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-老虎",
+    "description": "学习'老虎'的英语单词",
+    "content": "'Tiger' 是'老虎'的意思。单数形式是 'a tiger'，复数形式是 'tigers'。老虎是大型猫科动物，有黑色的条纹。可以用来说'这是一只老虎'（This is a tiger）或'我喜欢老虎'（I like tigers）。",
+    "example": "This is a tiger. / I like tigers."
+  },
+  {
+    "id": "英语一年级上-024",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 4 Numbers",
+    "topic": "数字1-5",
+    "description": "学习1到5的数字表达",
+    "content": "数字1到5的英语表达：one（一）、two（二）、three（三）、four（四）、five（五）。这些是基础的计数词，可以用来数物品。例如：one apple（一个苹果）、two books（两本书）等。",
+    "example": "I have one pencil. / I have two rulers."
+  },
+  {
+    "id": "英语一年级上-025",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 4 Numbers",
+    "topic": "数字6-10",
+    "description": "学习6到10的数字表达",
+    "content": "数字6到10的英语表达：six（六）、seven（七）、eight（八）、nine（九）、ten（十）。这些数字可以用来计数更多的物品。例如：six books（六本书）、seven pencils（七支铅笔）等。",
+    "example": "I have six books. / I have ten pencils."
+  },
+  {
+    "id": "英语一年级上-026",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 4 Numbers",
+    "topic": "数物品-问数量",
+    "description": "学习询问数量的句型",
+    "content": "询问物品数量时，可以说 'How many... are there?' 例如：'How many books are there?'（有多少本书？）回答时可以说 'There are...' 例如 'There are five books.'（有五本书。）",
+    "example": "A: How many pencils are there? B: There are seven pencils."
+  },
+  {
+    "id": "英语一年级上-027",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 4 Numbers",
+    "topic": "数物品-回答数量",
+    "description": "学习回答数量的句型",
+    "content": "回答物品数量时，可以说 'There is/are...' 单数用 'There is...'，复数用 'There are...'。例如：'There is one book.'（有一本书。）'There are three pens.'（有三支钢笔。）",
+    "example": "A: How many erasers? B: There are two erasers."
+  },
+  {
+    "id": "英语一年级上-028",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 5 Colours",
+    "topic": "颜色-红色",
+    "description": "学习'红色'的英语表达",
+    "content": "'Red' 是'红色'的意思。可以用来说'这是红色的'（It's red.）或'我喜欢红色'（I like red.）。红色是一种基本的颜色，常见于苹果、花朵等。",
+    "example": "The apple is red. / I like red."
+  },
+  {
+    "id": "英语一年级上-029",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 5 Colours",
+    "topic": "颜色-黄色",
+    "description": "学习'黄色'的英语表达",
+    "content": "'Yellow' 是'黄色'的意思。可以用来说'这是黄色的'（It's yellow.）或'我喜欢黄色'（I like yellow.）。黄色常见于香蕉、太阳等。",
+    "example": "The banana is yellow. / I like yellow."
+  },
+  {
+    "id": "英语一年级上-030",
+    "subject": "英语",
+    "grade": "一年级上",
+    "chapter": "Unit 5 Colours",
+    "topic": "颜色-蓝色",
+    "description": "学习'蓝色'的英语表达",
+    "content": "'Blue' 是'蓝色'的意思。可以用来说'这是蓝色的'（It's blue.）或'我喜欢蓝色'（I like blue.）。蓝色常见于天空、海洋等。",
+    "example": "The sky is blue. / I like blue."
+  },
+  {
+    "id": "英语一年级下-001",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 1 Nice boys and girls",
+    "topic": "礼貌用语-谢谢",
+    "description": "学习'谢谢'的英语表达",
+    "content": "'Thank you' 是'谢谢'的意思，也可以简单地说 'Thanks'。当别人帮助你或给你东西时，要说 'Thank you'。回答别人的感谢时，可以说 'You're welcome'（不客气）。这是最基本的礼貌用语。",
+    "example": "A: Here you are. B: Thank you. A: You're welcome."
+  },
+  {
+    "id": "英语一年级下-002",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 1 Nice boys and girls",
+    "topic": "礼貌用语-对不起",
+    "description": "学习'对不起'的英语表达",
+    "content": "'Sorry' 或 'I'm sorry' 是'对不起'的意思，用于道歉。当不小心做错事或打扰别人时，要说 'Sorry'。回答别人的道歉时，可以说 'It's OK'（没关系）。",
+    "example": "A: Sorry, I'm late. B: It's OK."
+  },
+  {
+    "id": "英语一年级下-003",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 1 Nice boys and girls",
+    "topic": "礼貌用语-请",
+    "description": "学习'请'的英语表达",
+    "content": "'Please' 是'请'的意思，用于请求或邀请。放在句子的开头或结尾都可以。例如：'Please sit down.'（请坐下。）或 'Can I have some water, please?'（请给我一些水好吗？）",
+    "example": "Please give me the book. / Can I help you, please?"
+  },
+  {
+    "id": "英语一年级下-004",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 1 Nice boys and girls",
+    "topic": "礼貌用语-再见",
+    "description": "学习'再见'的英语表达",
+    "content": "'Goodbye' 或 'Bye' 是'再见'的意思，用于分别时。'Goodbye' 比较正式，'Bye' 比较随意。回答时也可以用 'Goodbye' 或 'Bye'。还有 'See you'（再见）也是常用的告别语。",
+    "example": "A: Goodbye! B: Bye! See you tomorrow!"
+  },
+  {
+    "id": "英语一年级下-005",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 2 Wash, brush, clean!",
+    "topic": "卫生习惯-洗手",
+    "description": "学习'洗手'的英语表达",
+    "content": "'Wash your hands' 是'洗手'的意思。'Wash' 是洗的意思，'hands' 是手。饭前便后要洗手，保持卫生。也可以用 'Clean your hands' 来表达类似的意思。",
+    "example": "Please wash your hands before dinner. / Clean your hands."
+  },
+  {
+    "id": "英语一年级下-006",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 2 Wash, brush, clean!",
+    "topic": "卫生习惯-刷牙",
+    "description": "学习'刷牙'的英语表达",
+    "content": "'Brush your teeth' 是'刷牙'的意思。'Brush' 是刷的意思，'teeth' 是牙齿（单数是 tooth）。早晚要刷牙，保持口腔卫生。也可以用 'Clean your teeth' 来表达。",
+    "example": "Please brush your teeth every day. / Brush your teeth in the morning and at night."
+  },
+  {
+    "id": "英语一年级下-007",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 2 Wash, brush, clean!",
+    "topic": "卫生习惯-洗澡",
+    "description": "学习'洗澡'的英语表达",
+    "content": "'Take a bath' 或 'Have a bath' 是'洗澡'的意思。'Bathe' 是洗澡的动词形式。每天要洗澡，保持身体清洁。也可以用 'Clean yourself' 来表达类似的意思。",
+    "example": "I take a bath every day. / Please have a bath before bed."
+  },
+  {
+    "id": "英语一年级下-008",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 3 Eat well",
+    "topic": "食物-苹果",
+    "description": "学习'苹果'的英语单词",
+    "content": "'Apple' 是'苹果'的意思。单数形式是 'an apple'（注意用an因为apple以元音开头），复数形式是 'apples'。苹果是一种健康的水果，含有丰富的维生素。",
+    "example": "I have an apple. / I like apples."
+  },
+  {
+    "id": "英语一年级下-009",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 3 Eat well",
+    "topic": "食物-香蕉",
+    "description": "学习'香蕉'的英语单词",
+    "content": "'Banana' 是'香蕉'的意思。单数形式是 'a banana'，复数形式是 'bananas'。香蕉是黄色的水果，味道甜美，富含钾元素。",
+    "example": "I have a banana. / Do you like bananas?"
+  },
+  {
+    "id": "英语一年级下-010",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 3 Eat well",
+    "topic": "食物-橙子",
+    "description": "学习'橙子'的英语单词",
+    "content": "'Orange' 是'橙子'的意思，也可以表示'橙色'。单数形式是 'an orange'（注意用an因为orange以元音开头），复数形式是 'oranges'。橙子富含维生素C。",
+    "example": "I have an orange. / I like orange juice."
+  },
+  {
+    "id": "英语一年级下-011",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 3 Eat well",
+    "topic": "食物-喜欢",
+    "description": "学习表达'喜欢'的句型",
+    "content": "'Like' 是'喜欢'的意思。表达喜欢某物时，可以说 'I like...' 例如 'I like apples.'（我喜欢苹果。）表达不喜欢时，可以说 'I don't like...' 例如 'I don't like oranges.'（我不喜欢橙子。）",
+    "example": "I like apples. / I don't like bananas."
+  },
+  {
+    "id": "英语一年级下-012",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 3 Eat well",
+    "topic": "食物-想要",
+    "description": "学习表达'想要'的句型",
+    "content": "'Want' 是'想要'的意思。表达想要某物时，可以说 'I want...' 例如 'I want an apple.'（我想要一个苹果。）也可以礼貌地说 'I'd like...'（我想要...）。",
+    "example": "I want some water. / I'd like a cup of milk."
+  },
+  {
+    "id": "英语一年级下-013",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 4 My pet",
+    "topic": "宠物-有",
+    "description": "学习'有'的英语表达",
+    "content": "'Have' 是'有'的意思。用来表示拥有某物。例如 'I have a pet.'（我有一只宠物。）'She has a cat.'（她有一只猫。）第三人称单数要用 'has'。",
+    "example": "I have a dog. / She has a bird."
+  },
+  {
+    "id": "英语一年级下-014",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 4 My pet",
+    "topic": "宠物-宠物",
+    "description": "学习'宠物'的英语单词",
+    "content": "'Pet' 是'宠物'的意思。常见的宠物有猫（cat）、狗（dog）、鸟（bird）、鱼（fish）等。可以说 'I have a pet.'（我有一只宠物。）或 'My pet is a cat.'（我的宠物是一只猫。）",
+    "example": "I have a pet. / My pet is a rabbit."
+  },
+  {
+    "id": "英语一年级下-015",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 4 My pet",
+    "topic": "宠物-兔子",
+    "description": "学习'兔子'的英语单词",
+    "content": "'Rabbit' 是'兔子'的意思，也可以简称 'bunny'。单数形式是 'a rabbit'，复数形式是 'rabbits'。兔子喜欢吃胡萝卜，有长长的耳朵。",
+    "example": "I have a rabbit. / The rabbit has long ears."
+  },
+  {
+    "id": "英语一年级下-016",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 4 My pet",
+    "topic": "宠物-鱼",
+    "description": "学习'鱼'的英语单词",
+    "content": "'Fish' 是'鱼'的意思。单数和复数形式相同，都是 'fish'。当表示不同种类的鱼时可以用 'fishes'。可以说 'I have a fish.'（我有一条鱼。）",
+    "example": "I have a fish. / Look at the fish."
+  },
+  {
+    "id": "英语一年级下-017",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 5 Everyone is special!",
+    "topic": "自我介绍-名字",
+    "description": "学习询问名字的句型",
+    "content": "询问别人名字时，可以说 'What's your name?'（你叫什么名字？）回答时可以说 'My name is...' 或 'I'm...'。也可以问 'What's his/her name?'（他/她叫什么名字？）",
+    "example": "A: What's your name? B: My name is Tom."
+  },
+  {
+    "id": "英语一年级下-018",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 5 Everyone is special!",
+    "topic": "自我介绍-年龄",
+    "description": "学习询问年龄的句型",
+    "content": "询问别人年龄时，可以说 'How old are you?'（你几岁了？）回答时可以说 'I'm ... years old.' 例如 'I'm seven years old.'（我七岁了。）",
+    "example": "A: How old are you? B: I'm six years old."
+  },
+  {
+    "id": "英语一年级下-019",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Unit 5 Everyone is special!",
+    "topic": "自我介绍-感觉",
+    "description": "学习表达感受的句型",
+    "content": "表达感受时，可以说 'I feel...' 例如 'I feel happy.'（我感到开心。）'I feel sad.'（我感到伤心。）还可以说 'How do you feel?'（你感觉怎么样？）",
+    "example": "A: How do you feel? B: I feel happy."
+  },
+  {
+    "id": "英语一年级下-020",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Revision",
+    "topic": "复习-问候",
+    "description": "复习问候语",
+    "content": "问候语包括：Hello（你好）、Hi（嗨）、Good morning（早上好）、Good afternoon（下午好）、Good evening（晚上好）。根据时间段选择合适的问候语。",
+    "example": "Good morning! / Hello! How are you?"
+  },
+  {
+    "id": "英语一年级下-021",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Revision",
+    "topic": "复习-数字",
+    "description": "复习1-20的数字",
+    "content": "数字1-20的英语：one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty。",
+    "example": "Count from one to twenty. / I can count to twenty."
+  },
+  {
+    "id": "英语一年级下-022",
+    "subject": "英语",
+    "grade": "一年级下",
+    "chapter": "Revision",
+    "topic": "复习-颜色",
+    "description": "复习基本颜色词",
+    "content": "基本颜色：red（红色）、yellow（黄色）、blue（蓝色）、green（绿色）、black（黑色）、white（白色）、pink（粉色）、orange（橙色）、purple（紫色）、brown（棕色）。",
+    "example": "What color is it? / It's red."
+  },
+  {
+    "id": "英语二年级上-001",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 1 Family",
+    "topic": "家庭成员-爸爸",
+    "description": "学习'爸爸'的英语单词",
+    "content": "'Father' 或 'Dad' 是'爸爸'的意思。'Father' 比较正式，'Dad' 比较口语化。可以说 'This is my father.'（这是我的爸爸。）或 'This is my dad.'（这是我的爸爸。）",
+    "example": "This is my father. / I love my dad."
+  },
+  {
+    "id": "英语二年级上-002",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 1 Family",
+    "topic": "家庭成员-妈妈",
+    "description": "学习'妈妈'的英语单词",
+    "content": "'Mother' 或 'Mom' 是'妈妈'的意思。'Mother' 比较正式，'Mom' 比较口语化。可以说 'This is my mother.'（这是我的妈妈。）或 'This is my mom.'（这是我的妈妈。）",
+    "example": "This is my mother. / I love my mom."
+  },
+  {
+    "id": "英语二年级上-003",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 1 Family",
+    "topic": "家庭成员-哥哥",
+    "description": "学习'哥哥'的英语单词",
+    "content": "'Brother' 是'兄弟'的意思，包括哥哥和弟弟。'Older brother' 是哥哥，'Younger brother' 是弟弟。可以说 'This is my older brother.'（这是我的哥哥。）",
+    "example": "This is my brother. / He is my older brother."
+  },
+  {
+    "id": "英语二年级上-004",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 1 Family",
+    "topic": "家庭成员-姐姐",
+    "description": "学习'姐姐'的英语单词",
+    "content": "'Sister' 是'姐妹'的意思，包括姐姐和妹妹。'Older sister' 是姐姐，'Younger sister' 是妹妹。可以说 'This is my older sister.'（这是我的姐姐。）",
+    "example": "This is my sister. / She is my older sister."
+  },
+  {
+    "id": "英语二年级上-005",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 1 Family",
+    "topic": "家庭成员-家庭",
+    "description": "学习'家庭'的英语单词",
+    "content": "'Family' 是'家庭'的意思。一个家庭包括父母和子女。可以说 'This is my family.'（这是我的家庭。）'I love my family.'（我爱我的家庭。）",
+    "example": "This is my family. / There are five people in my family."
+  },
+  {
+    "id": "英语二年级上-006",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 2 School things",
+    "topic": "学习用品-书",
+    "description": "学习'书'的英语单词",
+    "content": "'Book' 是'书'的意思。单数形式是 'a book'，复数形式是 'books'。可以用来说 'I have a book.'（我有一本书。）或 'Open your book.'（打开你的书。）",
+    "example": "I have a book. / Open your book, please."
+  },
+  {
+    "id": "英语二年级上-007",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 2 School things",
+    "topic": "学习用品-铅笔",
+    "description": "学习'铅笔'的英语单词",
+    "content": "'Pencil' 是'铅笔'的意思。单数形式是 'a pencil'，复数形式是 'pencils'。可以用来说 'I have a pencil.'（我有一支铅笔。）或 'Give me a pencil.'（给我一支铅笔。）",
+    "example": "I have a pencil. / Can I use your pencil?"
+  },
+  {
+    "id": "英语二年级上-008",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 2 School things",
+    "topic": "学习用品-橡皮",
+    "description": "学习'橡皮'的英语单词",
+    "content": "'Eraser' 是'橡皮'的意思。单数形式是 'an eraser'（注意用an因为eraser以元音开头），复数形式是 'erasers'。可以用来说 'I have an eraser.'（我有一块橡皮。）",
+    "example": "I have an eraser. / Can I borrow your eraser?"
+  },
+  {
+    "id": "英语二年级上-009",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 3 Food and drink",
+    "topic": "饮料-水",
+    "description": "学习'水'的英语单词",
+    "content": "'Water' 是'水'的意思。不可数名词，没有复数形式。可以用来说 'I'm thirsty. I want some water.'（我渴了，我想要一些水。）或 'Please give me some water.'（请给我一些水。）",
+    "example": "I want some water. / Please drink more water."
+  },
+  {
+    "id": "英语二年级上-010",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 3 Food and drink",
+    "topic": "饮料-牛奶",
+    "description": "学习'牛奶'的英语单词",
+    "content": "'Milk' 是'牛奶'的意思。不可数名词，没有复数形式。可以用来说 'I like milk.'（我喜欢牛奶。）或 'I want some milk.'（我想要一些牛奶。）",
+    "example": "I like milk. / Can I have some milk?"
+  },
+  {
+    "id": "英语二年级上-011",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 3 Food and drink",
+    "topic": "饮料-果汁",
+    "description": "学习'果汁'的英语单词",
+    "content": "'Juice' 是'果汁'的意思。不可数名词。可以用来说 'I like orange juice.'（我喜欢橙汁。）或 'Can I have some juice?'（我可以喝点果汁吗？）",
+    "example": "I like apple juice. / Can I have some juice?"
+  },
+  {
+    "id": "英语二年级上-012",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 3 Food and drink",
+    "topic": "食物-面包",
+    "description": "学习'面包'的英语单词",
+    "content": "'Bread' 是'面包'的意思。不可数名词。可以用来说 'I like bread.'（我喜欢面包。）或 'I want some bread.'（我想要一些面包。）",
+    "example": "I like bread. / Can I have some bread?"
+  },
+  {
+    "id": "英语二年级上-013",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 4 Weather",
+    "topic": "天气-晴天",
+    "description": "学习'晴天'的英语单词",
+    "content": "'Sunny' 是'晴天的'意思，形容词形式；'sun' 是'太阳'。可以说 'It's sunny today.'（今天是晴天。）'What's the weather like today?'（今天天气怎么样？）",
+    "example": "It's sunny today. / The weather is sunny."
+  },
+  {
+    "id": "英语二年级上-014",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 4 Weather",
+    "topic": "天气-雨天",
+    "description": "学习'雨天'的英语单词",
+    "content": "'Rainy' 是'下雨的'意思，形容词形式；'rain' 是'雨'。可以说 'It's rainy today.'（今天是雨天。）'Put on your raincoat.'（穿上你的雨衣。）",
+    "example": "It's rainy today. / Take an umbrella. It's rainy."
+  },
+  {
+    "id": "英语二年级上-015",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 4 Weather",
+    "topic": "天气-阴天",
+    "description": "学习'阴天'的英语单词",
+    "content": "'Cloudy' 是'多云的'意思。可以说 'It's cloudy today.'（今天是阴天。）'The sky is cloudy.'（天空多云。）",
+    "example": "It's cloudy today. / Look! The sky is cloudy."
+  },
+  {
+    "id": "英语二年级上-016",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 4 Weather",
+    "topic": "天气-询问天气",
+    "description": "学习询问天气的句型",
+    "content": "询问天气可以说 'What's the weather like?'（天气怎么样？）或 'How's the weather?'（天气如何？）回答时用 'It's...' 例如 'It's sunny.'（晴天。）",
+    "example": "A: What's the weather like today? B: It's sunny."
+  },
+  {
+    "id": "英语二年级上-017",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 5 Sports",
+    "topic": "运动-跑步",
+    "description": "学习'跑步'的英语单词",
+    "content": "'Run' 是'跑步'的意思。动词原形是 'run'，过去式是 'ran'，过去分词是 'run'。可以说 'I like running.'（我喜欢跑步。）'Let's run!'（让我们跑步吧！）",
+    "example": "I like running. / Let's run together!"
+  },
+  {
+    "id": "英语二年级上-018",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 5 Sports",
+    "topic": "运动-游泳",
+    "description": "学习'游泳'的英语单词",
+    "content": "'Swim' 是'游泳'的意思。动词原形是 'swim'，现在分词是 'swimming'。可以说 'I like swimming.'（我喜欢游泳。）'Can you swim?'（你会游泳吗？）",
+    "example": "I like swimming. / Can you swim?"
+  },
+  {
+    "id": "英语二年级上-019",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Unit 5 Sports",
+    "topic": "运动-喜欢运动",
+    "description": "学习表达喜欢运动的句型",
+    "content": "表达喜欢做某事可以用 'I like doing...' 例如 'I like running.'（我喜欢跑步。）'I like swimming.'（我喜欢游泳。）动名词形式表示爱好。",
+    "example": "I like running. / I like playing football."
+  },
+  {
+    "id": "英语二年级上-020",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Revision",
+    "topic": "复习-动物",
+    "description": "复习动物词汇",
+    "content": "动物词汇：cat（猫）、dog（狗）、bird（鸟）、fish（鱼）、monkey（猴子）、tiger（老虎）、elephant（大象）、lion（狮子）、panda（熊猫）、rabbit（兔子）。",
+    "example": "I like cats. / I have a dog."
+  },
+  {
+    "id": "英语二年级上-021",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Revision",
+    "topic": "复习-水果",
+    "description": "复习水果词汇",
+    "content": "水果词汇：apple（苹果）、banana（香蕉）、orange（橙子）、pear（梨）、grape（葡萄）、watermelon（西瓜）、strawberry（草莓）、peach（桃子）。",
+    "example": "I like apples. / Do you like bananas?"
+  },
+  {
+    "id": "英语二年级上-022",
+    "subject": "英语",
+    "grade": "二年级上",
+    "chapter": "Revision",
+    "topic": "复习-数字",
+    "description": "复习1-20的数字",
+    "content": "数字1-20：one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty。",
+    "example": "Count to twenty. / I'm seven years old."
+  },
+  {
+    "id": "英语二年级下-001",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 1 My day",
+    "topic": "日常活动-起床",
+    "description": "学习'起床'的英语表达",
+    "content": "'Get up' 是'起床'的意思。可以说 'I get up at seven.'（我七点起床。）'What time do you get up?'（你什么时候起床？）",
+    "example": "I get up at six thirty. / What time do you get up?"
+  },
+  {
+    "id": "英语二年级下-002",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 1 My day",
+    "topic": "日常活动-吃早餐",
+    "description": "学习'吃早餐'的英语表达",
+    "content": "'Have breakfast' 是'吃早餐'的意思。可以说 'I have breakfast at seven.'（我七点吃早餐。）'What do you have for breakfast?'（你早餐吃什么？）",
+    "example": "I have breakfast at seven. / I have bread and milk for breakfast."
+  },
+  {
+    "id": "英语二年级下-003",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 1 My day",
+    "topic": "日常活动-去学校",
+    "description": "学习'去学校'的英语表达",
+    "content": "'Go to school' 是'去学校'的意思。可以说 'I go to school at eight.'（我八点去学校。）'How do you go to school?'（你怎么去学校？）",
+    "example": "I go to school at eight. / I go to school by bus."
+  },
+  {
+    "id": "英语二年级下-004",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 1 My day",
+    "topic": "日常活动-放学",
+    "description": "学习'放学'的英语表达",
+    "content": "'Go home from school' 或简称为 'Come home' 是'放学回家'的意思。可以说 'I come home at five.'（我五点回家。）",
+    "example": "I go home at five. / What time do you come home?"
+  },
+  {
+    "id": "英语二年级下-005",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 2 Seasons",
+    "topic": "季节-春天",
+    "description": "学习'春天'的英语单词",
+    "content": "'Spring' 是'春天'的意思。春天很暖和，花会开。可以说 'I like spring.'（我喜欢春天。）'Spring is warm.'（春天很暖和。）",
+    "example": "I like spring. / Spring is warm and flowers bloom."
+  },
+  {
+    "id": "英语二年级下-006",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 2 Seasons",
+    "topic": "季节-夏天",
+    "description": "学习'夏天'的英语单词",
+    "content": "'Summer' 是'夏天'的意思。夏天很热，可以游泳。可以说 'I like summer.'（我喜欢夏天。）'Summer is hot.'（夏天很热。）",
+    "example": "I like summer. / Summer is hot. I can swim."
+  },
+  {
+    "id": "英语二年级下-007",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 2 Seasons",
+    "topic": "季节-秋天",
+    "description": "学习'秋天'的英语单词",
+    "content": "'Autumn' 或 'Fall' 是'秋天'的意思。秋天很凉爽，树叶会变黄。可以说 'I like autumn.'（我喜欢秋天。）",
+    "example": "I like autumn. / Autumn is cool. The leaves turn yellow."
+  },
+  {
+    "id": "英语二年级下-008",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 2 Seasons",
+    "topic": "季节-冬天",
+    "description": "学习'冬天'的英语单词",
+    "content": "'Winter' 是'冬天'的意思。冬天很冷，可能会下雪。可以说 'I like winter.'（我喜欢冬天。）'Winter is cold.'（冬天很冷。）",
+    "example": "I like winter. / Winter is cold. It sometimes snows."
+  },
+  {
+    "id": "英语二年级下-009",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 2 Seasons",
+    "topic": "天气形容词",
+    "description": "学习描述天气的形容词",
+    "content": "描述天气的形容词：warm（温暖的）、hot（热的）、cool（凉爽的）、cold（冷的）、sunny（晴朗的）、rainy（下雨的）、windy（有风的）、snowy（下雪的）。",
+    "example": "It's warm in spring. / It's cold in winter."
+  },
+  {
+    "id": "英语二年级下-010",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-大象",
+    "description": "学习'大象'的英语单词",
+    "content": "'Elephant' 是'大象'的意思。大象很大，有长长的鼻子。单数形式是 'an elephant'（注意用an），复数形式是 'elephants'。",
+    "example": "I see an elephant. / Elephants are big."
+  },
+  {
+    "id": "英语二年级下-011",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-狮子",
+    "description": "学习'狮子'的英语单词",
+    "content": "'Lion' 是'狮子'的意思。狮子是百兽之王，有金黄色的毛。单数形式是 'a lion'，复数形式是 'lions'。",
+    "example": "I see a lion. / Lions are the kings of animals."
+  },
+  {
+    "id": "英语二年级下-012",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-熊猫",
+    "description": "学习'熊猫'的英语单词",
+    "content": "'Panda' 是'熊猫'的意思。熊猫是中国的国宝，喜欢吃竹子。单数形式是 'a panda'，复数形式是 'pandas'。",
+    "example": "I like pandas. / Pandas eat bamboo."
+  },
+  {
+    "id": "英语二年级下-013",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 3 Animals",
+    "topic": "动物-动物园",
+    "description": "学习'动物园'的英语单词",
+    "content": "'Zoo' 是'动物园'的意思。可以说 'Let's go to the zoo!'（我们去动物园吧！）'I go to the zoo on Sunday.'（我星期天去动物园。）",
+    "example": "Let's go to the zoo. / I see many animals in the zoo."
+  },
+  {
+    "id": "英语二年级下-014",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 4 Clothes",
+    "topic": "衣物-T恤",
+    "description": "学习'T恤'的英语单词",
+    "content": "'T-shirt' 是'T恤'的意思。单数形式是 'a T-shirt'，复数形式是 'T-shirts'。可以说 'I have a blue T-shirt.'（我有一件蓝色T恤。）",
+    "example": "I have a T-shirt. / Put on your T-shirt."
+  },
+  {
+    "id": "英语二年级下-015",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 4 Clothes",
+    "topic": "衣物-裙子",
+    "description": "学习'裙子'的英语单词",
+    "content": "'Skirt' 是'裙子'的意思（通常指女式）。单数形式是 'a skirt'，复数形式是 'skirts'。可以说 'She has a pretty skirt.'（她有一条漂亮的裙子。）",
+    "example": "I have a skirt. / She likes her new skirt."
+  },
+  {
+    "id": "英语二年级下-016",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 4 Clothes",
+    "topic": "衣物-裤子",
+    "description": "学习'裤子'的英语单词",
+    "content": "'Pants' 或 'Trousers' 是'裤子'的意思。注意pants总是用复数形式。可以说 'I have new pants.'（我有新裤子。）'Put on your pants.'（穿上你的裤子。）",
+    "example": "I have new pants. / Put on your pants."
+  },
+  {
+    "id": "英语二年级下-017",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 4 Clothes",
+    "topic": "衣物-鞋子",
+    "description": "学习'鞋子'的英语单词",
+    "content": "'Shoes' 是'鞋子'的意思。注意shoes总是用复数形式。单数形式是 'shoe'。可以说 'I have new shoes.'（我有新鞋子。）'Put on your shoes.'（穿上你的鞋子。）",
+    "example": "I have new shoes. / Where are my shoes?"
+  },
+  {
+    "id": "英语二年级下-018",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 5 Holiday",
+    "topic": "节日-生日",
+    "description": "学习'生日'的英语单词",
+    "content": "'Birthday' 是'生日'的意思。可以说 'Happy birthday!'（生日快乐！）'When is your birthday?'（你的生日是什么时候？）",
+    "example": "Happy birthday! / When is your birthday?"
+  },
+  {
+    "id": "英语二年级下-019",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Unit 5 Holiday",
+    "topic": "节日-圣诞节",
+    "description": "学习'圣诞节'的英语单词",
+    "content": "'Christmas' 是'圣诞节'的意思。在12月25日。可以说 'Merry Christmas!'（圣诞快乐！）'I like Christmas.'（我喜欢圣诞节。）",
+    "example": "Merry Christmas! / I like Christmas. I get presents."
+  },
+  {
+    "id": "英语二年级下-020",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Revision",
+    "topic": "复习-问候",
+    "description": "复习问候语",
+    "content": "问候语：Hello/Hi（你好）、Good morning（早上好）、Good afternoon（下午好）、Good evening（晚上好）、How are you?（你好吗？）I'm fine, thank you.（我很好，谢谢。）",
+    "example": "Hello! How are you? / I'm fine, thank you."
+  },
+  {
+    "id": "英语二年级下-021",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Revision",
+    "topic": "复习-数字",
+    "description": "复习1-50的数字",
+    "content": "数字1-50：one(1)到twenty(20)，twenty-one(21)到twenty-nine(29)，thirty(30)，thirty-one(31)到thirty-nine(39)，forty(40)，forty-one(41)到forty-nine(49)，fifty(50)。",
+    "example": "Count from one to fifty. / I'm eight years old."
+  },
+  {
+    "id": "英语二年级下-022",
+    "subject": "英语",
+    "grade": "二年级下",
+    "chapter": "Revision",
+    "topic": "复习-颜色",
+    "description": "复习基本颜色词",
+    "content": "基本颜色：red（红色）、yellow（黄色）、blue（蓝色）、green（绿色）、black（黑色）、white（白色）、pink（粉色）、orange（橙色）、purple（紫色）、brown（棕色）。",
+    "example": "What color is it? / It's red and yellow."
   }
 ]
