@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-英语-学习用品-书",
-  "grade": "二年级上",
+  "id": "英语二年级上-006",
   "subject": "英语",
+  "grade": "二年级上",
+  "chapter": "Unit 2 School things",
   "topic": "学习用品-书",
-  "unit": "",
-  "content": "",
+  "description": "学习'书'的英语单词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

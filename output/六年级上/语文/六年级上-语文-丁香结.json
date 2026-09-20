@@ -1,11 +1,11 @@
 {
-  "id": "六年级上-语文-丁香结",
-  "grade": "六年级上",
+  "id": "语文六年级上-丁香结",
   "subject": "语文",
+  "grade": "六年级上",
+  "chapter": "",
   "topic": "丁香结",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-音乐-唱游《小雨沙沙》",
-  "grade": "一年级上",
+  "id": "yinyue_1s_003",
   "subject": "音乐",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "唱游《小雨沙沙》",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "四年级上-语文-牛和鹅",
-  "grade": "四年级上",
+  "id": "语文四年级上-牛和鹅",
   "subject": "语文",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "牛和鹅",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

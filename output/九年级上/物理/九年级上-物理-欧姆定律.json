@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-物理-欧姆定律",
-  "grade": "九年级上",
+  "id": "物理九年级上-欧姆定律",
   "subject": "物理",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "欧姆定律",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

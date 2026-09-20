@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-物理-简单机械",
-  "grade": "八年级下",
+  "id": "物理八年级下-简单机械",
   "subject": "物理",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "简单机械",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

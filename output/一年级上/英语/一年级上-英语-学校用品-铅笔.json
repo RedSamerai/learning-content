@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-英语-学校用品-铅笔",
-  "grade": "一年级上",
+  "id": "英语一年级上-007",
   "subject": "英语",
+  "grade": "一年级上",
+  "chapter": "Unit 1 School",
   "topic": "学校用品-铅笔",
-  "unit": "",
-  "content": "",
+  "description": "学习'铅笔'的英语单词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

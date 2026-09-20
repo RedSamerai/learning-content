@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-体育-站姿训练",
-  "grade": "一年级上",
+  "id": "tiyu_1s_001",
   "subject": "体育",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "站姿训练",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-道德与法治-民主与法治",
-  "grade": "九年级上",
+  "id": "道德与法治九年级上-民主与法治",
   "subject": "道德与法治",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "民主与法治",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

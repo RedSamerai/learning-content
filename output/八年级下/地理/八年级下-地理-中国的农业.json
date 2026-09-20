@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-地理-中国的农业",
-  "grade": "八年级下",
+  "id": "地理八年级下-中国的农业",
   "subject": "地理",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "中国的农业",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

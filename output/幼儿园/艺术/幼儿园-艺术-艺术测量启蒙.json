@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-艺术-艺术测量启蒙",
-  "grade": "幼儿园",
+  "id": "艺术幼儿园0039",
   "subject": "艺术",
+  "grade": "幼儿园",
+  "chapter": "测量",
   "topic": "艺术测量启蒙",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

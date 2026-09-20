@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-语文-乡愁",
-  "grade": "九年级上",
+  "id": "语文九年级上-乡愁",
   "subject": "语文",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "乡愁",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

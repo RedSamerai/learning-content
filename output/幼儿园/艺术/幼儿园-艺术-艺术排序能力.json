@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-艺术-艺术排序能力",
-  "grade": "幼儿园",
+  "id": "艺术幼儿园0038",
   "subject": "艺术",
+  "grade": "幼儿园",
+  "chapter": "排序",
   "topic": "艺术排序能力",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

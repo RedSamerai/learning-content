@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-美术-石头画画",
-  "grade": "一年级上",
+  "id": "meishu_1s_014",
   "subject": "美术",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "石头画画",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

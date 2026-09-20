@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-物理-电压电阻",
-  "grade": "九年级上",
+  "id": "物理九年级上-电压电阻",
   "subject": "物理",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "电压电阻",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

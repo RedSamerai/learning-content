@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-语文-沁园春·雪",
-  "grade": "九年级上",
+  "id": "语文九年级上-沁园春·雪",
   "subject": "语文",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "沁园春·雪",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-语文-灯笼",
-  "grade": "八年级下",
+  "id": "语文八年级下-灯笼",
   "subject": "语文",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "灯笼",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

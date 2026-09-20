@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-语文-我一生中的重要抉择",
-  "grade": "八年级下",
+  "id": "语文八年级下-我一生中的重要抉择",
   "subject": "语文",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "我一生中的重要抉择",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

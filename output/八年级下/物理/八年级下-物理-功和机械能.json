@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-物理-功和机械能",
-  "grade": "八年级下",
+  "id": "物理八年级下-功和机械能",
   "subject": "物理",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "功和机械能",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

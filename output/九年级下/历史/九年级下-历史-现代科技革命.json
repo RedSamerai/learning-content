@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-历史-现代科技革命",
-  "grade": "九年级下",
+  "id": "历史九年级下-现代科技革命",
   "subject": "历史",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "现代科技革命",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "三年级下-语文-陶罐和铁罐",
-  "grade": "三年级下",
+  "id": "语文三年级下-陶罐和铁罐",
   "subject": "语文",
+  "grade": "三年级下",
+  "chapter": "",
   "topic": "陶罐和铁罐",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

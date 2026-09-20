@@ -1,11 +1,11 @@
 {
-  "id": "四年级下-语文-清平乐·村居",
-  "grade": "四年级下",
+  "id": "语文四年级下-清平乐·村居",
   "subject": "语文",
+  "grade": "四年级下",
+  "chapter": "",
   "topic": "清平乐·村居",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "三年级上-科学-实验：动物",
-  "grade": "三年级上",
+  "id": "科学三年级上1501",
   "subject": "科学",
+  "grade": "三年级上",
+  "chapter": "实验",
   "topic": "实验：动物",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

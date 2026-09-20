@@ -1,11 +1,11 @@
 {
-  "id": "五年级上-语文-落花生",
-  "grade": "五年级上",
+  "id": "语文五年级上-落花生",
   "subject": "语文",
+  "grade": "五年级上",
+  "chapter": "",
   "topic": "落花生",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

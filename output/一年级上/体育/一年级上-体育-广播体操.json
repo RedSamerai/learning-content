@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-体育-广播体操",
-  "grade": "一年级上",
+  "id": "tiyu_1s_010",
   "subject": "体育",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "广播体操",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

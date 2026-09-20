@@ -1,11 +1,11 @@
 {
-  "id": "一年级下-美术-画影子",
-  "grade": "一年级下",
+  "id": "meishu_1x_009",
   "subject": "美术",
+  "grade": "一年级下",
+  "chapter": "",
   "topic": "画影子",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

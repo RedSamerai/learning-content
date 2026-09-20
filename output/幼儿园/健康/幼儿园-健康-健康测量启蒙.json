@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-健康-健康测量启蒙",
-  "grade": "幼儿园",
+  "id": "健康幼儿园0049",
   "subject": "健康",
+  "grade": "幼儿园",
+  "chapter": "测量",
   "topic": "健康测量启蒙",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

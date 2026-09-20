@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-道德与法治-守法prescriptive",
-  "grade": "八年级下",
+  "id": "道德与法治八年级下-守法prescriptive",
   "subject": "道德与法治",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "守法prescriptive",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

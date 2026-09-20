@@ -1,11 +1,11 @@
 {
-  "id": "八年级上-语文-藤野先生",
-  "grade": "八年级上",
+  "id": "语文八年级上-藤野先生",
   "subject": "语文",
+  "grade": "八年级上",
+  "chapter": "",
   "topic": "藤野先生",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

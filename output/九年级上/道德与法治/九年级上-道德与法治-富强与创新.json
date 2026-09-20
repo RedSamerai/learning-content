@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-道德与法治-富强与创新",
-  "grade": "九年级上",
+  "id": "道德与法治九年级上-富强与创新",
   "subject": "道德与法治",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "富强与创新",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

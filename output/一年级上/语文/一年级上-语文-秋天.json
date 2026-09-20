@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-语文-秋天",
-  "grade": "一年级上",
+  "id": "语文一年级上-秋天",
   "subject": "语文",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "秋天",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

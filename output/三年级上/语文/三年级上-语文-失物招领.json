@@ -1,11 +1,11 @@
 {
-  "id": "三年级上-语文-失物招领",
-  "grade": "三年级上",
+  "id": "语文三年级上-失物招领",
   "subject": "语文",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "失物招领",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

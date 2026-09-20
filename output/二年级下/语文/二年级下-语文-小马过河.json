@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-小马过河",
-  "grade": "二年级下",
+  "id": "语文二年级下-小马过河",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "小马过河",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

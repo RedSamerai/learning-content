@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-美术-下雨啦",
-  "grade": "一年级上",
+  "id": "meishu_1s_004",
   "subject": "美术",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "下雨啦",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

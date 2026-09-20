@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-语文-阿西莫夫短文两篇",
-  "grade": "八年级下",
+  "id": "语文八年级下-阿西莫夫短文两篇",
   "subject": "语文",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "阿西莫夫短文两篇",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

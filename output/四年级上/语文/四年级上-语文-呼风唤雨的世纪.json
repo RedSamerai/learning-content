@@ -1,11 +1,11 @@
 {
-  "id": "四年级上-语文-呼风唤雨的世纪",
-  "grade": "四年级上",
+  "id": "语文四年级上-呼风唤雨的世纪",
   "subject": "语文",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "呼风唤雨的世纪",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

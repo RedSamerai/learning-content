@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-语文-古诗二首",
-  "grade": "二年级上",
+  "id": "语文二年级上-古诗二首",
   "subject": "语文",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "古诗二首",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "六年级上-语文-十六年前的回忆",
-  "grade": "六年级上",
+  "id": "语文六年级上-十六年前的回忆",
   "subject": "语文",
+  "grade": "六年级上",
+  "chapter": "",
   "topic": "十六年前的回忆",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

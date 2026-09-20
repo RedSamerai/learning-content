@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-体育-单脚跳",
-  "grade": "二年级下",
+  "id": "tiyu_2x_001",
   "subject": "体育",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "单脚跳",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

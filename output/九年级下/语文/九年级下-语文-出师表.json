@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-语文-出师表",
-  "grade": "九年级下",
+  "id": "语文九年级下-出师表",
   "subject": "语文",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "出师表",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

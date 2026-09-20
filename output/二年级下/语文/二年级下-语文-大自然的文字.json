@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-大自然的文字",
-  "grade": "二年级下",
+  "id": "语文二年级下-大自然的文字",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "大自然的文字",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

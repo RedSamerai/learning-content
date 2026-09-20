@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-音乐-歌曲《龙咚锵》",
-  "grade": "一年级上",
+  "id": "yinyue_1s_010",
   "subject": "音乐",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "歌曲《龙咚锵》",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

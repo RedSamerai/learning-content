@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-数学认知-数学认知表达能力",
-  "grade": "幼儿园",
+  "id": "数学幼儿园0014",
   "subject": "数学认知",
+  "grade": "幼儿园",
+  "chapter": "表达",
   "topic": "数学认知表达能力",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-英语-动物-熊猫",
-  "grade": "二年级下",
+  "id": "英语二年级下-012",
   "subject": "英语",
+  "grade": "二年级下",
+  "chapter": "Unit 3 Animals",
   "topic": "动物-熊猫",
-  "unit": "",
-  "content": "",
+  "description": "学习'熊猫'的英语单词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

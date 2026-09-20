@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-英语-课堂指令-说",
-  "grade": "一年级上",
+  "id": "英语一年级上-005",
   "subject": "英语",
+  "grade": "一年级上",
+  "chapter": "Unit 1 School",
   "topic": "课堂指令-说",
-  "unit": "",
-  "content": "",
+  "description": "学习'说'的英语表达",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

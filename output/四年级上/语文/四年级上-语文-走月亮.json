@@ -1,11 +1,11 @@
 {
-  "id": "四年级上-语文-走月亮",
-  "grade": "四年级上",
+  "id": "语文四年级上-走月亮",
   "subject": "语文",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "走月亮",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

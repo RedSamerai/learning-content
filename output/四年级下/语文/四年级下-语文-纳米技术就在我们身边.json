@@ -1,11 +1,11 @@
 {
-  "id": "四年级下-语文-纳米技术就在我们身边",
-  "grade": "四年级下",
+  "id": "语文四年级下-纳米技术就在我们身边",
   "subject": "语文",
+  "grade": "四年级下",
+  "chapter": "",
   "topic": "纳米技术就在我们身边",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

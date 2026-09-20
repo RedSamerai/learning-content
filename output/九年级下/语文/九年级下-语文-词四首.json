@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-语文-词四首",
-  "grade": "九年级下",
+  "id": "语文九年级下-词四首",
   "subject": "语文",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "词四首",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

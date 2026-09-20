@@ -1,11 +1,11 @@
 {
-  "id": "八年级上-地理-中国的气候",
-  "grade": "八年级上",
+  "id": "地理八年级上-中国的气候",
   "subject": "地理",
+  "grade": "八年级上",
+  "chapter": "",
   "topic": "中国的气候",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

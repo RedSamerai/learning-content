@@ -1,11 +1,11 @@
 {
-  "id": "幼小衔接-语文-语文基础准备",
-  "grade": "幼小衔接",
+  "id": "语文幼小衔接0061",
   "subject": "语文",
+  "grade": "幼小衔接",
+  "chapter": "基础",
   "topic": "语文基础准备",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

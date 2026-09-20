@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-物理-能源与可持续发展",
-  "grade": "九年级下",
+  "id": "物理九年级下-能源与可持续发展",
   "subject": "物理",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "能源与可持续发展",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-祖先的摇篮",
-  "grade": "二年级下",
+  "id": "语文二年级下-祖先的摇篮",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "祖先的摇篮",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

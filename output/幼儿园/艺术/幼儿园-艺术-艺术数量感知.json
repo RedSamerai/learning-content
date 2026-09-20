@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-艺术-艺术数量感知",
-  "grade": "幼儿园",
+  "id": "艺术幼儿园0033",
   "subject": "艺术",
+  "grade": "幼儿园",
+  "chapter": "数感",
   "topic": "艺术数量感知",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "六年级下-语文-金色的鱼钩",
-  "grade": "六年级下",
+  "id": "语文六年级下-金色的鱼钩",
   "subject": "语文",
+  "grade": "六年级下",
+  "chapter": "",
   "topic": "金色的鱼钩",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

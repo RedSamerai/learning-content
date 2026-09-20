@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-美术-印印画画",
-  "grade": "一年级上",
+  "id": "meishu_1s_017",
   "subject": "美术",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "印印画画",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

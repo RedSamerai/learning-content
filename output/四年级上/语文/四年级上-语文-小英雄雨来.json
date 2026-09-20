@@ -1,11 +1,11 @@
 {
-  "id": "四年级上-语文-小英雄雨来",
-  "grade": "四年级上",
+  "id": "语文四年级上-小英雄雨来",
   "subject": "语文",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "小英雄雨来",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

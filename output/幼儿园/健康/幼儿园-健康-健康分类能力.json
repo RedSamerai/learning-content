@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-健康-健康分类能力",
-  "grade": "幼儿园",
+  "id": "健康幼儿园0047",
   "subject": "健康",
+  "grade": "幼儿园",
+  "chapter": "分类",
   "topic": "健康分类能力",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

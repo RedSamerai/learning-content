@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-数学-定理：三视图",
-  "grade": "九年级下",
+  "id": "数学九年级下1984",
   "subject": "数学",
+  "grade": "九年级下",
+  "chapter": "定理",
   "topic": "定理：三视图",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

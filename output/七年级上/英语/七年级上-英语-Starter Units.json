@@ -1,11 +1,11 @@
 {
-  "id": "七年级上-英语-Starter Units",
-  "grade": "七年级上",
+  "id": "英语七年级上-Starter Units",
   "subject": "英语",
+  "grade": "七年级上",
+  "chapter": "",
   "topic": "Starter Units",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

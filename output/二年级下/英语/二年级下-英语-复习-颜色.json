@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-英语-复习-颜色",
-  "grade": "二年级下",
+  "id": "英语二年级下-022",
   "subject": "英语",
+  "grade": "二年级下",
+  "chapter": "Revision",
   "topic": "复习-颜色",
-  "unit": "",
-  "content": "",
+  "description": "复习基本颜色词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

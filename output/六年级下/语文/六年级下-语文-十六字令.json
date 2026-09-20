@@ -1,11 +1,11 @@
 {
-  "id": "六年级下-语文-十六字令",
-  "grade": "六年级下",
+  "id": "语文六年级下-十六字令",
   "subject": "语文",
+  "grade": "六年级下",
+  "chapter": "",
   "topic": "十六字令",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

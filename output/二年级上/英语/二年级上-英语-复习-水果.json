@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-英语-复习-水果",
-  "grade": "二年级上",
+  "id": "英语二年级上-021",
   "subject": "英语",
+  "grade": "二年级上",
+  "chapter": "Revision",
   "topic": "复习-水果",
-  "unit": "",
-  "content": "",
+  "description": "复习水果词汇",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

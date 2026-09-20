@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-枫树上的喜鹊",
-  "grade": "二年级下",
+  "id": "语文二年级下-枫树上的喜鹊",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "枫树上的喜鹊",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

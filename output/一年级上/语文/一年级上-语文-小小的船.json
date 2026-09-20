@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-语文-小小的船",
-  "grade": "一年级上",
+  "id": "语文一年级上-小小的船",
   "subject": "语文",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "小小的船",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

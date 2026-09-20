@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-千字文",
-  "grade": "二年级下",
+  "id": "语文二年级下-千字文",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "千字文",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

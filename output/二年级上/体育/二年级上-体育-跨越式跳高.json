@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-体育-跨越式跳高",
-  "grade": "二年级上",
+  "id": "tiyu_2s_001",
   "subject": "体育",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "跨越式跳高",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

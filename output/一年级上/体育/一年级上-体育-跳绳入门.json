@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-体育-跳绳入门",
-  "grade": "一年级上",
+  "id": "tiyu_1s_006",
   "subject": "体育",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "跳绳入门",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

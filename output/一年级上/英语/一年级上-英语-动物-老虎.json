@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-英语-动物-老虎",
-  "grade": "一年级上",
+  "id": "英语一年级上-023",
   "subject": "英语",
+  "grade": "一年级上",
+  "chapter": "Unit 3 Animals",
   "topic": "动物-老虎",
-  "unit": "",
-  "content": "",
+  "description": "学习'老虎'的英语单词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

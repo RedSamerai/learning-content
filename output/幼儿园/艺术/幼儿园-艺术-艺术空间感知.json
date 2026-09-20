@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-艺术-艺术空间感知",
-  "grade": "幼儿园",
+  "id": "艺术幼儿园0040",
   "subject": "艺术",
+  "grade": "幼儿园",
+  "chapter": "空间",
   "topic": "艺术空间感知",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

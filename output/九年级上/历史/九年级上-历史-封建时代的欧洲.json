@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-历史-封建时代的欧洲",
-  "grade": "九年级上",
+  "id": "历史九年级上-封建时代的欧洲",
   "subject": "历史",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "封建时代的欧洲",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

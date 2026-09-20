@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-历史-五四运动",
-  "grade": "八年级下",
+  "id": "历史八年级下-五四运动",
   "subject": "历史",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "五四运动",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

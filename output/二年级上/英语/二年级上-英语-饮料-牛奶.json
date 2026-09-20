@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-英语-饮料-牛奶",
-  "grade": "二年级上",
+  "id": "英语二年级上-010",
   "subject": "英语",
+  "grade": "二年级上",
+  "chapter": "Unit 3 Food and drink",
   "topic": "饮料-牛奶",
-  "unit": "",
-  "content": "",
+  "description": "学习'牛奶'的英语单词",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

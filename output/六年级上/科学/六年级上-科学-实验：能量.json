@@ -1,11 +1,11 @@
 {
-  "id": "六年级上-科学-实验：能量",
-  "grade": "六年级上",
+  "id": "科学六年级上1601",
   "subject": "科学",
+  "grade": "六年级上",
+  "chapter": "实验",
   "topic": "实验：能量",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

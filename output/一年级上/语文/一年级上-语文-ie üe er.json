@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-语文-ie üe er",
-  "grade": "一年级上",
+  "id": "语文一年级上-ie üe er",
   "subject": "语文",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "ie üe er",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

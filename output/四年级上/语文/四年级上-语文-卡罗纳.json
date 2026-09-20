@@ -1,11 +1,11 @@
 {
-  "id": "四年级上-语文-卡罗纳",
-  "grade": "四年级上",
+  "id": "语文四年级上-卡罗纳",
   "subject": "语文",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "卡罗纳",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

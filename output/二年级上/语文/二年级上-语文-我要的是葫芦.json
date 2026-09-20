@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-语文-我要的是葫芦",
-  "grade": "二年级上",
+  "id": "语文二年级上-我要的是葫芦",
   "subject": "语文",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "我要的是葫芦",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

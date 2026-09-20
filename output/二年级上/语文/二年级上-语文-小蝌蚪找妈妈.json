@@ -1,11 +1,11 @@
 {
-  "id": "二年级上-语文-小蝌蚪找妈妈",
-  "grade": "二年级上",
+  "id": "语文二年级上-小蝌蚪找妈妈",
   "subject": "语文",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "小蝌蚪找妈妈",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

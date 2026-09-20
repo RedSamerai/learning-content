@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-语文-故乡",
-  "grade": "九年级下",
+  "id": "语文九年级下-故乡",
   "subject": "语文",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "故乡",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

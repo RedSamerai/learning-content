@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-语文-蜘蛛开店",
-  "grade": "二年级下",
+  "id": "语文二年级下-蜘蛛开店",
   "subject": "语文",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "蜘蛛开店",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

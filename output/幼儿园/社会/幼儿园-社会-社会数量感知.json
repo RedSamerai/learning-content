@@ -1,11 +1,11 @@
 {
-  "id": "幼儿园-社会-社会数量感知",
-  "grade": "幼儿园",
+  "id": "社会幼儿园0053",
   "subject": "社会",
+  "grade": "幼儿园",
+  "chapter": "数感",
   "topic": "社会数量感知",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

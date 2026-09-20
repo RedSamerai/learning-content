@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-美术-花儿朵朵",
-  "grade": "一年级上",
+  "id": "meishu_1s_008",
   "subject": "美术",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "花儿朵朵",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

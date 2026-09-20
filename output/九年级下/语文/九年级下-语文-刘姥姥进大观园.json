@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-语文-刘姥姥进大观园",
-  "grade": "九年级下",
+  "id": "语文九年级下-刘姥姥进大观园",
   "subject": "语文",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "刘姥姥进大观园",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

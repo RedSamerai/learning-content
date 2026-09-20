@@ -1,11 +1,11 @@
 {
-  "id": "八年级下-历史-北伐战争",
-  "grade": "八年级下",
+  "id": "历史八年级下-北伐战争",
   "subject": "历史",
+  "grade": "八年级下",
+  "chapter": "",
   "topic": "北伐战争",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

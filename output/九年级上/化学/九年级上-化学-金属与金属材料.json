@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-化学-金属与金属材料",
-  "grade": "九年级上",
+  "id": "化学九年级上-金属与金属材料",
   "subject": "化学",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "金属与金属材料",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

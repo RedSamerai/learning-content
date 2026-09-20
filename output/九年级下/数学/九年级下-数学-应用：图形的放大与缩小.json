@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-数学-应用：图形的放大与缩小",
-  "grade": "九年级下",
+  "id": "数学九年级下2000",
   "subject": "数学",
+  "grade": "九年级下",
+  "chapter": "应用",
   "topic": "应用：图形的放大与缩小",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

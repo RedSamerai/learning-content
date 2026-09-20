@@ -1,11 +1,11 @@
 {
-  "id": "九年级下-化学-化学与生活",
-  "grade": "九年级下",
+  "id": "化学九年级下-化学与生活",
   "subject": "化学",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "化学与生活",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

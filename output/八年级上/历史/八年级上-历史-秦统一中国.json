@@ -1,11 +1,11 @@
 {
-  "id": "八年级上-历史-秦统一中国",
-  "grade": "八年级上",
+  "id": "历史八年级上-秦统一中国",
   "subject": "历史",
+  "grade": "八年级上",
+  "chapter": "",
   "topic": "秦统一中国",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

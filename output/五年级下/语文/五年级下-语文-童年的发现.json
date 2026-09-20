@@ -1,11 +1,11 @@
 {
-  "id": "五年级下-语文-童年的发现",
-  "grade": "五年级下",
+  "id": "语文五年级下-童年的发现",
   "subject": "语文",
+  "grade": "五年级下",
+  "chapter": "",
   "topic": "童年的发现",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

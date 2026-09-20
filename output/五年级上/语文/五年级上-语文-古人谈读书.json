@@ -1,11 +1,11 @@
 {
-  "id": "五年级上-语文-古人谈读书",
-  "grade": "五年级上",
+  "id": "语文五年级上-古人谈读书",
   "subject": "语文",
+  "grade": "五年级上",
+  "chapter": "",
   "topic": "古人谈读书",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

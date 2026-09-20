@@ -1,11 +1,11 @@
 {
-  "id": "三年级上-数学-计算：时分秒",
-  "grade": "三年级上",
+  "id": "数学三年级上1003",
   "subject": "数学",
+  "grade": "三年级上",
+  "chapter": "计算",
   "topic": "计算：时分秒",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

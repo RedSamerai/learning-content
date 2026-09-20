@@ -1,11 +1,11 @@
 {
-  "id": "二年级下-英语-日常活动-起床",
-  "grade": "二年级下",
+  "id": "英语二年级下-001",
   "subject": "英语",
+  "grade": "二年级下",
+  "chapter": "Unit 1 My day",
   "topic": "日常活动-起床",
-  "unit": "",
-  "content": "",
+  "description": "学习'起床'的英语表达",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

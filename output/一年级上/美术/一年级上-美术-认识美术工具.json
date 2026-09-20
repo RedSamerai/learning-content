@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-美术-认识美术工具",
-  "grade": "一年级上",
+  "id": "meishu_1s_001",
   "subject": "美术",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "认识美术工具",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

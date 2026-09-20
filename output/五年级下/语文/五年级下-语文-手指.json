@@ -1,11 +1,11 @@
 {
-  "id": "五年级下-语文-手指",
-  "grade": "五年级下",
+  "id": "语文五年级下-手指",
   "subject": "语文",
+  "grade": "五年级下",
+  "chapter": "",
   "topic": "手指",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-语文-大还是小",
-  "grade": "一年级上",
+  "id": "语文一年级上-大还是小",
   "subject": "语文",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "大还是小",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

@@ -1,11 +1,11 @@
 {
-  "id": "一年级上-音乐-歌曲《各族小朋友在一起》",
-  "grade": "一年级上",
+  "id": "yinyue_1s_012",
   "subject": "音乐",
+  "grade": "一年级上",
+  "chapter": "",
   "topic": "歌曲《各族小朋友在一起》",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }

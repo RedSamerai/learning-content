@@ -1,11 +1,11 @@
 {
-  "id": "九年级上-语文-精神的三间小屋",
-  "grade": "九年级上",
+  "id": "语文九年级上-精神的三间小屋",
   "subject": "语文",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "精神的三间小屋",
-  "unit": "",
-  "content": "",
+  "description": "",
   "explanation": "",
-  "difficulty": "easy",
-  "tags": []
+  "example": "",
+  "key_points": []
 }
