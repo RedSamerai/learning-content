@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-003",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 1 My day",
   "topic": "日常活动-去学校",
-  "content": "",
-  "explanation": ""
+  "description": "学习'去学校'的英语表达",
+  "content": "'Go to school' 是'去学校'的意思。可以说 'I go to school at eight.'（我八点去学校。）'How do you go to school?'（你怎么去学校？）",
+  "example": "I go to school at eight. / I go to school by bus."
 }

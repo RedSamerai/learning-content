@@ -1,9 +1,10 @@
 {
   "id": "英语一年级下-019",
-  "grade": "一年级下",
   "subject": "英语",
+  "grade": "一年级下",
   "chapter": "Unit 5 Everyone is special!",
   "topic": "自我介绍-感觉",
-  "content": "",
-  "explanation": ""
+  "description": "学习表达感受的句型",
+  "content": "表达感受时，可以说 'I feel...' 例如 'I feel happy.'（我感到开心。）'I feel sad.'（我感到伤心。）还可以说 'How do you feel?'（你感觉怎么样？）",
+  "example": "A: How do you feel? B: I feel happy."
 }

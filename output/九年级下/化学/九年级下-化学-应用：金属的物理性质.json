@@ -1,9 +1,11 @@
 {
   "id": "化学九年级下2492",
-  "grade": "九年级下",
   "subject": "化学",
+  "grade": "九年级下",
   "chapter": "应用",
   "topic": "应用：金属的物理性质",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

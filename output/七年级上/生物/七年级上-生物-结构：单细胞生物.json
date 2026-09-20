@@ -1,9 +1,11 @@
 {
   "id": "生物七年级上3351",
-  "grade": "七年级上",
   "subject": "生物",
+  "grade": "七年级上",
   "chapter": "结构",
   "topic": "结构：单细胞生物",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

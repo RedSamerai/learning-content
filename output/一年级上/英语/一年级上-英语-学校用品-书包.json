@@ -1,9 +1,10 @@
 {
   "id": "英语一年级上-009",
-  "grade": "一年级上",
   "subject": "英语",
+  "grade": "一年级上",
   "chapter": "Unit 1 School",
   "topic": "学校用品-书包",
-  "content": "",
-  "explanation": ""
+  "description": "学习'书包'的英语单词",
+  "content": "'Schoolbag' 是'书包'的意思，是由'school'（学校）和'bag'（包）组成的复合词。单数形式是 'a schoolbag'，复数形式是 'schoolbags'。书包用来装书本和学习用品。",
+  "example": "I have a schoolbag. / My schoolbag is blue."
 }

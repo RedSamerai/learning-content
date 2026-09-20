@@ -1,9 +1,11 @@
 {
   "id": "语文三年级下-昆虫备忘录",
-  "grade": "三年级下",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "三年级下",
+  "chapter": "",
   "topic": "昆虫备忘录",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

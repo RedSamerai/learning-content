@@ -1,9 +1,11 @@
 {
   "id": "道德与法治九年级下-少年有梦",
-  "grade": "九年级下",
   "subject": "道德与法治",
-  "chapter": "基础",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "少年有梦",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "语文二年级上0200",
-  "grade": "二年级上",
   "subject": "语文",
+  "grade": "二年级上",
   "chapter": "字词",
   "topic": "字词：偏旁部首进阶",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

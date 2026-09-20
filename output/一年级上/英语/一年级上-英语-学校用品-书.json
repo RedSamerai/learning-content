@@ -1,9 +1,10 @@
 {
   "id": "英语一年级上-006",
-  "grade": "一年级上",
   "subject": "英语",
+  "grade": "一年级上",
   "chapter": "Unit 1 School",
   "topic": "学校用品-书",
-  "content": "",
-  "explanation": ""
+  "description": "学习'书'的英语单词",
+  "content": "'Book' 是'书'的意思，是可数名词。单数形式是 'a book'，复数形式是 'books'。可以用来表示'一本书'（a book）或'一些书'（some books）。在学校里，book是最常用的学习用品之一。",
+  "example": "I have a book. / I have three books."
 }

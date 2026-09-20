@@ -1,9 +1,11 @@
 {
   "id": "数学一年级下-找规律",
-  "grade": "一年级下",
   "subject": "数学",
-  "chapter": "基础",
+  "grade": "一年级下",
+  "chapter": "",
   "topic": "找规律",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,10 @@
 {
   "id": "英语一年级下-020",
-  "grade": "一年级下",
   "subject": "英语",
+  "grade": "一年级下",
   "chapter": "Revision",
   "topic": "复习-问候",
-  "content": "",
-  "explanation": ""
+  "description": "复习问候语",
+  "content": "问候语包括：Hello（你好）、Hi（嗨）、Good morning（早上好）、Good afternoon（下午好）、Good evening（晚上好）。根据时间段选择合适的问候语。",
+  "example": "Good morning! / Hello! How are you?"
 }

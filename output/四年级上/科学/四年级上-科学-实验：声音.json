@@ -1,9 +1,11 @@
 {
   "id": "科学四年级上1531",
-  "grade": "四年级上",
   "subject": "科学",
+  "grade": "四年级上",
   "chapter": "实验",
   "topic": "实验：声音",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

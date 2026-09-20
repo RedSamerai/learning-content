@@ -1,9 +1,11 @@
 {
   "id": "语文三年级上-美丽的小兴安岭",
-  "grade": "三年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "美丽的小兴安岭",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "语文八年级下2650",
-  "grade": "八年级下",
   "subject": "语文",
+  "grade": "八年级下",
   "chapter": "课文",
   "topic": "课文：小石潭记",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

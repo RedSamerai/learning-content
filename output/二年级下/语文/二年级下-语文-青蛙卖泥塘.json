@@ -1,9 +1,11 @@
 {
   "id": "语文二年级下-青蛙卖泥塘",
-  "grade": "二年级下",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "青蛙卖泥塘",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

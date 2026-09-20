@@ -1,9 +1,11 @@
 {
   "id": "语文四年级上-一只窝囊的大老虎",
-  "grade": "四年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "四年级上",
+  "chapter": "",
   "topic": "一只窝囊的大老虎",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

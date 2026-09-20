@@ -1,9 +1,11 @@
 {
   "id": "语文五年级上0530",
-  "grade": "五年级上",
   "subject": "语文",
+  "grade": "五年级上",
   "chapter": "字词",
   "topic": "字词：小数除法",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

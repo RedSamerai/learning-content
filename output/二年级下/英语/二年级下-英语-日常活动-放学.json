@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-004",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 1 My day",
   "topic": "日常活动-放学",
-  "content": "",
-  "explanation": ""
+  "description": "学习'放学'的英语表达",
+  "content": "'Go home from school' 或简称为 'Come home' 是'放学回家'的意思。可以说 'I come home at five.'（我五点回家。）",
+  "example": "I go home at five. / What time do you come home?"
 }

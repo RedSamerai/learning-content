@@ -1,9 +1,11 @@
 {
   "id": "数学四年级上1090",
-  "grade": "四年级上",
   "subject": "数学",
+  "grade": "四年级上",
   "chapter": "概念",
   "topic": "概念：条形统计图",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

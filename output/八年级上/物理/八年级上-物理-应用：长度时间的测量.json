@@ -1,9 +1,11 @@
 {
   "id": "物理八年级上2036",
-  "grade": "八年级上",
   "subject": "物理",
+  "grade": "八年级上",
   "chapter": "应用",
   "topic": "应用：长度时间的测量",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

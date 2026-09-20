@@ -1,9 +1,10 @@
 {
   "id": "英语一年级上-001",
-  "grade": "一年级上",
   "subject": "英语",
+  "grade": "一年级上",
   "chapter": "Unit 1 School",
   "topic": "打招呼",
-  "content": "",
-  "explanation": ""
+  "description": "学习简单的英语问候语",
+  "content": "在英语中，最常用的打招呼方式是 'Hello' 和 'Hi'。'Hello' 比较正式，可以用于任何场合；'Hi' 比较随意，常用于朋友之间。回答时也可以用 'Hello' 或 'Hi'。此外，还可以说 'Good morning'（早上好），用于上午的问候。",
+  "example": "A: Hello! B: Hello! A: Hi! How are you? B: I'm fine, thank you."
 }

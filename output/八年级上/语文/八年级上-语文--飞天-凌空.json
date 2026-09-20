@@ -1,9 +1,12 @@
 {
   "id": "语文八年级上-\"飞天\"凌空",
-  "grade": "八年级上",
   "subject": "语文",
+  "grade": "八年级上",
   "chapter": "基础",
   "topic": "-飞天-凌空",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": "",
+  "grade_subject": "八年级上-语文"
 }

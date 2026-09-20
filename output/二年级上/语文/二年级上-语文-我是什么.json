@@ -1,9 +1,11 @@
 {
   "id": "语文二年级上-我是什么",
-  "grade": "二年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "我是什么",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

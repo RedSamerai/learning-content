@@ -1,9 +1,11 @@
 {
   "id": "数学三年级上1023",
-  "grade": "三年级上",
   "subject": "数学",
+  "grade": "三年级上",
   "chapter": "计算",
   "topic": "计算：长方形和正方形",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

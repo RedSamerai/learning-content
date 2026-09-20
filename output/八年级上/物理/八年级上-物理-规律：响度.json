@@ -1,9 +1,11 @@
 {
   "id": "物理八年级上2080",
-  "grade": "八年级上",
   "subject": "物理",
+  "grade": "八年级上",
   "chapter": "规律",
   "topic": "规律：响度",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

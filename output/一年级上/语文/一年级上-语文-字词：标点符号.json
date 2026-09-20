@@ -1,9 +1,11 @@
 {
   "id": "语文一年级上0140",
-  "grade": "一年级上",
   "subject": "语文",
+  "grade": "一年级上",
   "chapter": "字词",
   "topic": "字词：标点符号",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

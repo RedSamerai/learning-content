@@ -1,9 +1,11 @@
 {
   "id": "语文一年级上0128",
-  "grade": "一年级上",
   "subject": "语文",
+  "grade": "一年级上",
   "chapter": "写作",
   "topic": "写作：偏旁部首",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

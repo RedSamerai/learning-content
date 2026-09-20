@@ -1,9 +1,10 @@
 {
   "id": "英语一年级上-017",
-  "grade": "一年级上",
   "subject": "英语",
+  "grade": "一年级上",
   "chapter": "Unit 2 Face",
   "topic": "身体部位-手",
-  "content": "",
-  "explanation": ""
+  "description": "学习'手'的英语单词",
+  "content": "'Hand' 是'手'的意思。人有两只手，所以通常用复数形式 'hands'。可以用来说'我有两只手'（I have two hands）或'拍拍你的手'（Clap your hands）。",
+  "example": "I have two hands. / Clap your hands."
 }

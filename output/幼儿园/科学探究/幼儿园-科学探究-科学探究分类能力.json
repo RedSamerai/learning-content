@@ -1,9 +1,11 @@
 {
   "id": "科学幼儿园0027",
-  "grade": "幼儿园",
   "subject": "科学探究",
+  "grade": "幼儿园",
   "chapter": "分类",
   "topic": "科学探究分类能力",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

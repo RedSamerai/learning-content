@@ -1,9 +1,11 @@
 {
   "id": "数学三年级上-多位数乘一位数",
-  "grade": "三年级上",
   "subject": "数学",
-  "chapter": "基础",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "多位数乘一位数",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

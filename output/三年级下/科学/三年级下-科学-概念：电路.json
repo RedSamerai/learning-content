@@ -1,9 +1,11 @@
 {
   "id": "科学三年级下1526",
-  "grade": "三年级下",
   "subject": "科学",
+  "grade": "三年级下",
   "chapter": "概念",
   "topic": "概念：电路",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

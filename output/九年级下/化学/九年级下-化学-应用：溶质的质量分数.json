@@ -1,9 +1,11 @@
 {
   "id": "化学九年级下2528",
-  "grade": "九年级下",
   "subject": "化学",
+  "grade": "九年级下",
   "chapter": "应用",
   "topic": "应用：溶质的质量分数",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "化学九年级上-我们周围的空气",
-  "grade": "九年级上",
   "subject": "化学",
-  "chapter": "基础",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "我们周围的空气",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "数学四年级上1070",
-  "grade": "四年级上",
   "subject": "数学",
+  "grade": "四年级上",
   "chapter": "概念",
   "topic": "概念：公顷和平方千米",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

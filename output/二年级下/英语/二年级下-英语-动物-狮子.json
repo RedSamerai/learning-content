@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-011",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 3 Animals",
   "topic": "动物-狮子",
-  "content": "",
-  "explanation": ""
+  "description": "学习'狮子'的英语单词",
+  "content": "'Lion' 是'狮子'的意思。狮子是百兽之王，有金黄色的毛。单数形式是 'a lion'，复数形式是 'lions'。",
+  "example": "I see a lion. / Lions are the kings of animals."
 }

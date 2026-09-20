@@ -1,9 +1,11 @@
 {
   "id": "数学一年级上0905",
-  "grade": "一年级上",
   "subject": "数学",
+  "grade": "一年级上",
   "chapter": "几何",
   "topic": "几何：6-10的认识",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "语文二年级上-黄山奇石",
-  "grade": "二年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "黄山奇石",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

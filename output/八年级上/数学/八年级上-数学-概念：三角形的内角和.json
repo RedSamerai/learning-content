@@ -1,9 +1,11 @@
 {
   "id": "数学八年级上1755",
-  "grade": "八年级上",
   "subject": "数学",
+  "grade": "八年级上",
   "chapter": "概念",
   "topic": "概念：三角形的内角和",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

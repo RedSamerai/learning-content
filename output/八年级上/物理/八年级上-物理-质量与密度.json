@@ -1,9 +1,11 @@
 {
   "id": "物理八年级上-质量与密度",
-  "grade": "八年级上",
   "subject": "物理",
-  "chapter": "基础",
+  "grade": "八年级上",
+  "chapter": "",
   "topic": "质量与密度",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

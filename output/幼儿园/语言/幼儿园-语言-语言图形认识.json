@@ -1,9 +1,11 @@
 {
   "id": "语言幼儿园0002",
-  "grade": "幼儿园",
   "subject": "语言",
+  "grade": "幼儿园",
   "chapter": "图形",
   "topic": "语言图形认识",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "语文二年级下0268",
-  "grade": "二年级下",
   "subject": "语文",
+  "grade": "二年级下",
   "chapter": "写作",
   "topic": "写作：语文实践",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

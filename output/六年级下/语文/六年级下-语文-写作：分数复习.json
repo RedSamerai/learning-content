@@ -1,9 +1,11 @@
 {
   "id": "语文六年级下0718",
-  "grade": "六年级下",
   "subject": "语文",
+  "grade": "六年级下",
   "chapter": "写作",
   "topic": "写作：分数复习",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

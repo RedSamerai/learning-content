@@ -1,9 +1,11 @@
 {
   "id": "数学九年级下1980",
-  "grade": "九年级下",
   "subject": "数学",
+  "grade": "九年级下",
   "chapter": "概念",
   "topic": "概念：中心投影",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

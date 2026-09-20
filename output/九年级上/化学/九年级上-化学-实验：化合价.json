@@ -1,9 +1,11 @@
 {
   "id": "化学九年级上2458",
-  "grade": "九年级上",
   "subject": "化学",
+  "grade": "九年级上",
   "chapter": "实验",
   "topic": "实验：化合价",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

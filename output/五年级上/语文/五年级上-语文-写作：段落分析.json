@@ -1,9 +1,11 @@
 {
   "id": "语文五年级上0508",
-  "grade": "五年级上",
   "subject": "语文",
+  "grade": "五年级上",
   "chapter": "写作",
   "topic": "写作：段落分析",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

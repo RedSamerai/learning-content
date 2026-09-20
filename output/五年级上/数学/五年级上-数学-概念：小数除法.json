@@ -1,9 +1,11 @@
 {
   "id": "数学五年级上1142",
-  "grade": "五年级上",
   "subject": "数学",
+  "grade": "五年级上",
   "chapter": "概念",
   "topic": "概念：小数除法",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

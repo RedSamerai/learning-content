@@ -1,9 +1,10 @@
 {
   "id": "英语二年级上-016",
-  "grade": "二年级上",
   "subject": "英语",
+  "grade": "二年级上",
   "chapter": "Unit 4 Weather",
   "topic": "天气-询问天气",
-  "content": "",
-  "explanation": ""
+  "description": "学习询问天气的句型",
+  "content": "询问天气可以说 'What's the weather like?'（天气怎么样？）或 'How's the weather?'（天气如何？）回答时用 'It's...' 例如 'It's sunny.'（晴天。）",
+  "example": "A: What's the weather like today? B: It's sunny."
 }

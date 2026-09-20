@@ -1,9 +1,11 @@
 {
   "id": "地理七年级上3210",
-  "grade": "七年级上",
   "subject": "地理",
+  "grade": "七年级上",
   "chapter": "分布",
   "topic": "分布：地球与地图",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "健康幼儿园0048",
-  "grade": "幼儿园",
   "subject": "健康",
+  "grade": "幼儿园",
   "chapter": "排序",
   "topic": "健康排序能力",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

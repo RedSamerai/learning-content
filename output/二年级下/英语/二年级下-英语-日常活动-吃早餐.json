@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-002",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 1 My day",
   "topic": "日常活动-吃早餐",
-  "content": "",
-  "explanation": ""
+  "description": "学习'吃早餐'的英语表达",
+  "content": "'Have breakfast' 是'吃早餐'的意思。可以说 'I have breakfast at seven.'（我七点吃早餐。）'What do you have for breakfast?'（你早餐吃什么？）",
+  "example": "I have breakfast at seven. / I have bread and milk for breakfast."
 }

@@ -1,9 +1,11 @@
 {
   "id": "英语幼小衔接0077",
-  "grade": "幼小衔接",
   "subject": "英语",
+  "grade": "幼小衔接",
   "chapter": "单词",
   "topic": "英语启蒙",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

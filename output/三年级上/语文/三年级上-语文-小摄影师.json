@@ -1,9 +1,11 @@
 {
   "id": "语文三年级上-小摄影师",
-  "grade": "三年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "小摄影师",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

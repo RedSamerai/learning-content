@@ -1,9 +1,11 @@
 {
   "id": "物理九年级上-电流和电路",
-  "grade": "九年级上",
   "subject": "物理",
-  "chapter": "基础",
+  "grade": "九年级上",
+  "chapter": "",
   "topic": "电流和电路",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

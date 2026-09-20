@@ -1,9 +1,11 @@
 {
   "id": "语文九年级下2670",
-  "grade": "九年级下",
   "subject": "语文",
+  "grade": "九年级下",
   "chapter": "课文",
   "topic": "课文：天下第一楼",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "数学幼儿园0013",
-  "grade": "幼儿园",
   "subject": "数学认知",
+  "grade": "幼儿园",
   "chapter": "数感",
   "topic": "数学认知数量感知",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "数学三年级下1037",
-  "grade": "三年级下",
   "subject": "数学",
+  "grade": "三年级下",
   "chapter": "几何",
   "topic": "几何：位置与方向",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

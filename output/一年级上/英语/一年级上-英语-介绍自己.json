@@ -1,9 +1,10 @@
 {
   "id": "英语一年级上-002",
-  "grade": "一年级上",
   "subject": "英语",
+  "grade": "一年级上",
   "chapter": "Unit 1 School",
   "topic": "介绍自己",
-  "content": "",
-  "explanation": ""
+  "description": "学习用英语介绍自己的名字",
+  "content": "介绍自己时，可以说 'My name is...' 或 'I'm...'。例如：'My name is Tom.' 或 'I'm Tom.' 当别人问你名字时，可以回答 'My name is...' 或简单地说 'I'm...'。这是最基本的自我介绍方式。",
+  "example": "A: What's your name? B: My name is Lily. / I'm Lily."
 }

@@ -1,9 +1,11 @@
 {
   "id": "语文二年级上0203",
-  "grade": "二年级上",
   "subject": "语文",
+  "grade": "二年级上",
   "chapter": "写作",
   "topic": "写作：偏旁部首进阶",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

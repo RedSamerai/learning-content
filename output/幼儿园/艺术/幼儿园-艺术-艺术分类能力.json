@@ -1,9 +1,11 @@
 {
   "id": "艺术幼儿园0037",
-  "grade": "幼儿园",
   "subject": "艺术",
+  "grade": "幼儿园",
   "chapter": "分类",
   "topic": "艺术分类能力",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

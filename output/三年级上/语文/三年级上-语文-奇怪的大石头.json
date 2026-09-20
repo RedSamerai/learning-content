@@ -1,9 +1,11 @@
 {
   "id": "语文三年级上-奇怪的大石头",
-  "grade": "三年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "奇怪的大石头",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

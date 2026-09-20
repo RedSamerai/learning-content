@@ -1,9 +1,11 @@
 {
   "id": "语文三年级上0297",
-  "grade": "三年级上",
   "subject": "语文",
+  "grade": "三年级上",
   "chapter": "阅读",
   "topic": "阅读：简单写作",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "化学九年级下2506",
-  "grade": "九年级下",
   "subject": "化学",
+  "grade": "九年级下",
   "chapter": "实验",
   "topic": "实验：金属材料的应用",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

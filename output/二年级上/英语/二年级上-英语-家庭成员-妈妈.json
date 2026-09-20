@@ -1,9 +1,10 @@
 {
   "id": "英语二年级上-002",
-  "grade": "二年级上",
   "subject": "英语",
+  "grade": "二年级上",
   "chapter": "Unit 1 Family",
   "topic": "家庭成员-妈妈",
-  "content": "",
-  "explanation": ""
+  "description": "学习'妈妈'的英语单词",
+  "content": "'Mother' 或 'Mom' 是'妈妈'的意思。'Mother' 比较正式，'Mom' 比较口语化。可以说 'This is my mother.'（这是我的妈妈。）或 'This is my mom.'（这是我的妈妈。）",
+  "example": "This is my mother. / I love my mom."
 }

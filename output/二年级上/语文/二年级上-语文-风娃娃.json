@@ -1,9 +1,11 @@
 {
   "id": "语文二年级上-风娃娃",
-  "grade": "二年级上",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "二年级上",
+  "chapter": "",
   "topic": "风娃娃",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

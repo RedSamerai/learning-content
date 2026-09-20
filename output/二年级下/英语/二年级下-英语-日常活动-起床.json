@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-001",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 1 My day",
   "topic": "日常活动-起床",
-  "content": "",
-  "explanation": ""
+  "description": "学习'起床'的英语表达",
+  "content": "'Get up' 是'起床'的意思。可以说 'I get up at seven.'（我七点起床。）'What time do you get up?'（你什么时候起床？）",
+  "example": "I get up at six thirty. / What time do you get up?"
 }

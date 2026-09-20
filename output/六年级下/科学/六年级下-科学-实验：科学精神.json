@@ -1,9 +1,11 @@
 {
   "id": "科学六年级下1625",
-  "grade": "六年级下",
   "subject": "科学",
+  "grade": "六年级下",
   "chapter": "实验",
   "topic": "实验：科学精神",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

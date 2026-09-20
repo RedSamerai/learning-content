@@ -1,9 +1,11 @@
 {
   "id": "化学九年级下-有机合成材料",
-  "grade": "九年级下",
   "subject": "化学",
-  "chapter": "基础",
+  "grade": "九年级下",
+  "chapter": "",
   "topic": "有机合成材料",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

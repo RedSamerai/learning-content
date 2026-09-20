@@ -1,9 +1,11 @@
 {
   "id": "地理七年级上-地图判读",
-  "grade": "七年级上",
   "subject": "地理",
-  "chapter": "基础",
+  "grade": "七年级上",
+  "chapter": "",
   "topic": "地图判读",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

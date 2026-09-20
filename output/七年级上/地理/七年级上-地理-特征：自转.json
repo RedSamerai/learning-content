@@ -1,9 +1,11 @@
 {
   "id": "地理七年级上3232",
-  "grade": "七年级上",
   "subject": "地理",
+  "grade": "七年级上",
   "chapter": "特征",
   "topic": "特征：自转",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

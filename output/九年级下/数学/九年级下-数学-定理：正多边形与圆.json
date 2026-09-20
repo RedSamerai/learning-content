@@ -1,9 +1,11 @@
 {
   "id": "数学九年级下2023",
-  "grade": "九年级下",
   "subject": "数学",
+  "grade": "九年级下",
   "chapter": "定理",
   "topic": "定理：正多边形与圆",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "数学三年级上-分数的初步认识",
-  "grade": "三年级上",
   "subject": "数学",
-  "chapter": "基础",
+  "grade": "三年级上",
+  "chapter": "",
   "topic": "分数的初步认识",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,10 @@
 {
   "id": "英语二年级下-013",
-  "grade": "二年级下",
   "subject": "英语",
+  "grade": "二年级下",
   "chapter": "Unit 3 Animals",
   "topic": "动物-动物园",
-  "content": "",
-  "explanation": ""
+  "description": "学习'动物园'的英语单词",
+  "content": "'Zoo' 是'动物园'的意思。可以说 'Let's go to the zoo!'（我们去动物园吧！）'I go to the zoo on Sunday.'（我星期天去动物园。）",
+  "example": "Let's go to the zoo. / I see many animals in the zoo."
 }

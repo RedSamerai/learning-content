@@ -1,9 +1,11 @@
 {
   "id": "科学六年级上1605",
-  "grade": "六年级上",
   "subject": "科学",
+  "grade": "六年级上",
   "chapter": "实验",
   "topic": "实验：科学探究",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

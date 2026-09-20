@@ -1,9 +1,11 @@
 {
   "id": "数学七年级上1632",
-  "grade": "七年级上",
   "subject": "数学",
+  "grade": "七年级上",
   "chapter": "概念",
   "topic": "概念：数轴",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

@@ -1,9 +1,11 @@
 {
   "id": "物理八年级上-声现象",
-  "grade": "八年级上",
   "subject": "物理",
-  "chapter": "基础",
+  "grade": "八年级上",
+  "chapter": "",
   "topic": "声现象",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }

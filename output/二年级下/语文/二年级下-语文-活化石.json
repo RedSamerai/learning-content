@@ -1,9 +1,11 @@
 {
   "id": "语文二年级下-活化石",
-  "grade": "二年级下",
   "subject": "语文",
-  "chapter": "基础",
+  "grade": "二年级下",
+  "chapter": "",
   "topic": "活化石",
-  "content": "",
-  "explanation": ""
+  "description": "",
+  "explanation": "",
+  "example": "",
+  "key_points": ""
 }
