@@ -9,7 +9,7 @@ import time
 from pathlib import Path
 
 base = Path('D:/WorkBuddy/learning-app-research/learning-content')
-kg_path = base / 'knowledge_graph_complete.json'
+kg_path = base / 'knowledge_graph_v5.json'  # 使用新的112条知识图谱
 output_dir = base / 'output'
 
 # 加载知识图谱
